@@ -28,7 +28,7 @@ This repository showcases my learning and practical experience with Microsoft Ex
 - Charts and Data Visualization
 - Dashboard Development
 - Power Query,Macros and VBA, where applicable
-- 
+
 ## 🚀 Featured Projects
 
 ### 📌 Project 1: [Your Actual Project Name]
