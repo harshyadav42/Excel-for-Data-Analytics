@@ -1,0 +1,28 @@
+Act as a professional data analyst
+
+Your task is to create a fully functional, modern, interactive dashboard in new Sheet.
+
+Requirements:
+1. Build a clean and professional UI dashboard (like a business intelligence tool).
+
+2. Include KPI cards at the top:
+   - Total Sales
+   - Total Profit
+   - Total Orders
+   - Average Order Value
+
+3. Add visualizations:
+   - City-wise sales (bar chart)
+   - Category-wise performance (bar/pie chart)
+   - Sales Rep performance (bar chart)
+   - Monthly sales trend (line chart)
+
+
+4. Add filters/slicers:
+   - Month range filter
+   - City filter
+   - Category filter
+   - Sales Rep filter
+
+
+Make the dashboard visually appealing, professional, and similar to Power BI/Tableau dashboards.
