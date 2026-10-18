@@ -1,0 +1,181 @@
+ProductID,ProductName,Brand,Category,Subcategory,ListPrice,StandardCost,LaunchDate,IsActive
+P0001,Pulse Audio,Pulse,Electronics,Audio,21800,14860,01-06-2024,1
+P0002,Pulse Skin Care,Pulse,Personal Care,Skin Care,530,310,01-06-2024,1
+P0003,Aurum Hair Care,Aurum,Personal Care,Hair Care,260,200,03-10-2023,1
+P0004,Pulse Storage,Pulse,Office Supplies,Storage,470,290,14-07-2024,1
+P0005,Zenith Printing,Zenith,Office Supplies,Printing,600,410,25-09-2023,1
+P0006,Prime Beverages,Prime,Grocery,Beverages,130,90,04-02-2023,1
+P0007,EcoHome Mobile Plus,EcoHome,Electronics,Mobile,29220,20430,27-09-2024,1
+P0008,ByteX Hair Care Plus,ByteX,Personal Care,Hair Care,470,360,14-06-2023,1
+P0009,Nova Appliances Max,Nova,Home & Kitchen,Appliances,2500,1460,13-03-2023,1
+P0010,Orbit Laptop Lite,Orbit,Electronics,Laptop,16340,10900,11-03-2024,1
+P0011,ByteX Storage Plus,ByteX,Office Supplies,Storage,430,280,13-06-2023,0
+P0012,QuickKart Beverages,QuickKart,Grocery,Beverages,110,70,23-08-2024,1
+P0013,EcoHome Hair Care Pro,EcoHome,Personal Care,Hair Care,1180,680,07-11-2023,1
+P0014,ByteX Hair Care Lite,ByteX,Personal Care,Hair Care,1000,580,04-01-2023,0
+P0015,Pulse Grooming Plus,Pulse,Personal Care,Grooming,590,360,28-10-2024,1
+P0016,Nova Skin Care Max,Nova,Personal Care,Skin Care,180,110,27-12-2023,1
+P0017,Orbit Printing Plus,Orbit,Office Supplies,Printing,70,50,04-07-2023,1
+P0018,Orbit Mobile,Orbit,Electronics,Mobile,39290,27130,19-04-2024,1
+P0019,ByteX Beverages Pro,ByteX,Grocery,Beverages,140,100,07-01-2024,1
+P0020,Aurum Storage,Aurum,Office Supplies,Storage,470,300,21-01-2023,1
+P0021,Nova Printing Max,Nova,Office Supplies,Printing,20,10,15-06-2024,1
+P0022,Horizon Home Care Max,Horizon,Home & Kitchen,Home Care,3890,2330,08-10-2023,1
+P0023,Horizon Laptop Lite,Horizon,Electronics,Laptop,30450,20870,04-05-2024,1
+P0024,Aurum Staples,Aurum,Grocery,Staples,30,20,18-09-2024,1
+P0025,Nova Hair Care,Nova,Personal Care,Hair Care,280,160,03-03-2024,1
+P0026,Zenith Skin Care Plus,Zenith,Personal Care,Skin Care,540,350,15-04-2024,1
+P0027,Nova Storage,Nova,Office Supplies,Storage,360,240,28-06-2023,1
+P0028,Pulse Staples Plus,Pulse,Grocery,Staples,100,60,16-06-2023,1
+P0029,Pulse Stationery,Pulse,Office Supplies,Stationery,320,220,18-10-2023,0
+P0030,Zenith Storage Plus,Zenith,Office Supplies,Storage,290,200,19-08-2024,1
+P0031,Orbit Stationery Max,Orbit,Office Supplies,Stationery,390,280,02-01-2024,1
+P0032,Zenith Home Care,Zenith,Home & Kitchen,Home Care,4710,3290,01-09-2023,1
+P0033,ByteX Audio Plus,ByteX,Electronics,Audio,800,560,29-06-2024,0
+P0034,Prime Printing Lite,Prime,Office Supplies,Printing,290,180,20-08-2024,1
+P0035,Orbit Staples Lite,Orbit,Grocery,Staples,130,100,23-09-2024,1
+P0036,Pulse Laptop Max,Pulse,Electronics,Laptop,28550,19310,29-07-2023,0
+P0037,Nova Snacks,Nova,Grocery,Snacks,90,60,11-05-2024,1
+P0038,Zenith Snacks,Zenith,Grocery,Snacks,10,10,18-02-2024,0
+P0039,Aurum Cookware,Aurum,Home & Kitchen,Cookware,2990,1890,11-11-2023,1
+P0040,ByteX Grooming Max,ByteX,Personal Care,Grooming,1050,700,05-10-2023,1
+P0041,Horizon Mobile Lite,Horizon,Electronics,Mobile,6590,4740,22-03-2023,1
+P0042,Orbit Hair Care Max,Orbit,Personal Care,Hair Care,750,570,12-07-2023,1
+P0043,ByteX Grooming Max,ByteX,Personal Care,Grooming,340,260,20-01-2024,1
+P0044,Horizon Appliances Plus,Horizon,Home & Kitchen,Appliances,2410,1600,12-09-2024,1
+P0045,EcoHome Accessories,EcoHome,Electronics,Accessories,12370,8280,29-08-2024,0
+P0046,Prime Snacks,Prime,Grocery,Snacks,90,70,12-05-2023,1
+P0047,EcoHome Storage,EcoHome,Office Supplies,Storage,680,420,20-04-2024,1
+P0048,Zenith Beverages Lite,Zenith,Grocery,Beverages,170,130,01-03-2023,1
+P0049,Horizon Hair Care Lite,Horizon,Personal Care,Hair Care,1060,700,17-04-2024,1
+P0050,Nova Skin Care Lite,Nova,Personal Care,Skin Care,860,500,28-08-2023,1
+P0051,Zenith Hair Care Lite,Zenith,Personal Care,Hair Care,600,340,11-11-2023,1
+P0052,Aurum Audio Lite,Aurum,Electronics,Audio,45930,34160,17-05-2024,1
+P0053,Aurum Appliances Plus,Aurum,Home & Kitchen,Appliances,3160,1780,25-10-2023,1
+P0054,Zenith Storage Plus,Zenith,Office Supplies,Storage,560,340,19-07-2024,1
+P0055,Nova Printing,Nova,Office Supplies,Printing,280,180,09-01-2024,1
+P0056,QuickKart Accessories Lite,QuickKart,Electronics,Accessories,25800,15220,30-11-2024,1
+P0057,Horizon Printing,Horizon,Office Supplies,Printing,180,110,22-03-2024,1
+P0058,Zenith Laptop Plus,Zenith,Electronics,Laptop,36880,26580,27-07-2023,1
+P0059,Aurum Skin Care Lite,Aurum,Personal Care,Skin Care,40,20,26-06-2024,1
+P0060,Prime Hair Care Plus,Prime,Personal Care,Hair Care,720,530,13-10-2023,1
+P0061,Horizon Snacks Max,Horizon,Grocery,Snacks,100,70,09-01-2024,1
+P0062,QuickKart Hair Care Plus,QuickKart,Personal Care,Hair Care,860,550,06-04-2023,1
+P0063,Orbit Appliances Plus,Orbit,Home & Kitchen,Appliances,3630,2120,25-03-2023,1
+P0064,Prime Beverages,Prime,Grocery,Beverages,270,190,07-02-2024,1
+P0065,EcoHome Printing Max,EcoHome,Office Supplies,Printing,530,310,11-05-2023,0
+P0066,Zenith Appliances Pro,Zenith,Home & Kitchen,Appliances,150,100,29-11-2024,1
+P0067,Pulse Staples Lite,Pulse,Grocery,Staples,110,80,21-08-2024,0
+P0068,Pulse Cookware Lite,Pulse,Home & Kitchen,Cookware,740,580,05-05-2024,1
+P0069,Nova Audio Lite,Nova,Electronics,Audio,18780,13660,29-05-2024,1
+P0070,Orbit Stationery Plus,Orbit,Office Supplies,Stationery,730,450,21-02-2024,1
+P0071,Nova Skin Care,Nova,Personal Care,Skin Care,670,470,12-02-2023,1
+P0072,Orbit Laptop,Orbit,Electronics,Laptop,16610,11830,02-10-2023,1
+P0073,Pulse Stationery,Pulse,Office Supplies,Stationery,100,60,14-12-2023,1
+P0074,Zenith Laptop Lite,Zenith,Electronics,Laptop,25390,17710,02-10-2024,1
+P0075,EcoHome Hair Care Plus,EcoHome,Personal Care,Hair Care,30,20,03-06-2023,1
+P0076,Zenith Stationery,Zenith,Office Supplies,Stationery,180,110,14-12-2023,1
+P0077,Prime Home Care Max,Prime,Home & Kitchen,Home Care,2970,1990,29-08-2023,1
+P0078,Horizon Appliances Plus,Horizon,Home & Kitchen,Appliances,4230,2490,05-04-2023,1
+P0079,Nova Stationery Max,Nova,Office Supplies,Stationery,500,290,14-03-2023,1
+P0080,ByteX Hair Care,ByteX,Personal Care,Hair Care,30,20,13-09-2023,1
+P0081,Horizon Staples Pro,Horizon,Grocery,Staples,140,110,27-02-2023,0
+P0082,ByteX Stationery,ByteX,Office Supplies,Stationery,370,250,17-02-2023,0
+P0083,Zenith Laptop,Zenith,Electronics,Laptop,29970,22270,03-09-2023,1
+P0084,EcoHome Staples Plus,EcoHome,Grocery,Staples,250,190,22-05-2023,1
+P0085,Prime Grooming,Prime,Personal Care,Grooming,30,20,24-01-2024,1
+P0086,QuickKart Hair Care Lite,QuickKart,Personal Care,Hair Care,240,160,13-01-2023,1
+P0087,ByteX Laptop Pro,ByteX,Electronics,Laptop,32090,20550,31-07-2023,1
+P0088,Horizon Cookware Plus,Horizon,Home & Kitchen,Cookware,150,90,14-11-2023,1
+P0089,Prime Hair Care,Prime,Personal Care,Hair Care,970,700,05-11-2024,1
+P0090,Aurum Beverages Max,Aurum,Grocery,Beverages,150,100,20-03-2024,1
+P0091,Horizon Stationery Plus,Horizon,Office Supplies,Stationery,560,370,08-09-2024,1
+P0092,Horizon Snacks Lite,Horizon,Grocery,Snacks,70,40,29-08-2023,1
+P0093,EcoHome Snacks Plus,EcoHome,Grocery,Snacks,190,110,11-11-2023,1
+P0094,Nova Home Care Plus,Nova,Home & Kitchen,Home Care,4100,3110,22-10-2023,1
+P0095,Prime Beverages Pro,Prime,Grocery,Beverages,140,80,13-09-2024,1
+P0096,Prime Cookware Lite,Prime,Home & Kitchen,Cookware,2850,1720,02-11-2024,0
+P0097,Zenith Cookware,Zenith,Home & Kitchen,Cookware,2910,1800,04-11-2024,1
+P0098,QuickKart Grooming Max,QuickKart,Personal Care,Grooming,150,100,10-06-2024,1
+P0099,Pulse Skin Care,Pulse,Personal Care,Skin Care,400,270,19-12-2023,1
+P0100,Zenith Mobile Lite,Zenith,Electronics,Mobile,23170,15370,14-01-2024,1
+P0101,Orbit Snacks Pro,Orbit,Grocery,Snacks,150,90,17-11-2024,1
+P0102,Zenith Laptop Pro,Zenith,Electronics,Laptop,37000,22420,19-07-2023,1
+P0103,Orbit Staples Lite,Orbit,Grocery,Staples,40,30,31-08-2023,1
+P0104,EcoHome Laptop,EcoHome,Electronics,Laptop,23500,16370,19-09-2024,1
+P0105,Nova Hair Care Max,Nova,Personal Care,Hair Care,970,680,28-09-2023,1
+P0106,Horizon Grooming Plus,Horizon,Personal Care,Grooming,190,130,14-06-2023,1
+P0107,Zenith Skin Care Pro,Zenith,Personal Care,Skin Care,160,120,28-01-2024,1
+P0108,Prime Hair Care,Prime,Personal Care,Hair Care,520,290,16-08-2023,1
+P0109,Zenith Printing Plus,Zenith,Office Supplies,Printing,560,360,15-09-2024,1
+P0110,Horizon Hair Care Lite,Horizon,Personal Care,Hair Care,450,300,28-09-2024,1
+P0111,Orbit Home Care,Orbit,Home & Kitchen,Home Care,4490,2820,03-08-2023,0
+P0112,Pulse Skin Care,Pulse,Personal Care,Skin Care,750,560,06-01-2024,1
+P0113,EcoHome Storage,EcoHome,Office Supplies,Storage,560,370,19-11-2024,1
+P0114,EcoHome Stationery Lite,EcoHome,Office Supplies,Stationery,490,360,03-06-2024,1
+P0115,QuickKart Printing Pro,QuickKart,Office Supplies,Printing,930,690,31-05-2023,1
+P0116,Orbit Printing Max,Orbit,Office Supplies,Printing,300,200,18-02-2024,1
+P0117,Pulse Audio,Pulse,Electronics,Audio,960,730,09-03-2024,1
+P0118,Nova Laptop Max,Nova,Electronics,Laptop,44250,30310,02-04-2024,1
+P0119,QuickKart Appliances,QuickKart,Home & Kitchen,Appliances,1810,1350,18-01-2023,1
+P0120,Zenith Mobile Lite,Zenith,Electronics,Mobile,26290,16520,29-07-2023,1
+P0121,Aurum Printing Pro,Aurum,Office Supplies,Printing,680,450,21-08-2024,1
+P0122,Pulse Grooming,Pulse,Personal Care,Grooming,30,20,18-06-2023,1
+P0123,Aurum Skin Care Lite,Aurum,Personal Care,Skin Care,30,20,29-07-2023,1
+P0124,Orbit Storage,Orbit,Office Supplies,Storage,20,10,14-08-2023,1
+P0125,EcoHome Beverages Lite,EcoHome,Grocery,Beverages,60,50,05-05-2023,1
+P0126,Aurum Stationery Pro,Aurum,Office Supplies,Stationery,460,320,19-04-2023,1
+P0127,ByteX Laptop Max,ByteX,Electronics,Laptop,31290,18490,31-08-2023,1
+P0128,Prime Hair Care Lite,Prime,Personal Care,Hair Care,550,350,04-09-2024,1
+P0129,Orbit Stationery Lite,Orbit,Office Supplies,Stationery,20,10,02-01-2023,1
+P0130,QuickKart Skin Care Plus,QuickKart,Personal Care,Skin Care,30,20,18-07-2023,1
+P0131,Horizon Printing Plus,Horizon,Office Supplies,Printing,360,270,12-02-2023,1
+P0132,Pulse Storage Pro,Pulse,Office Supplies,Storage,230,150,29-01-2024,1
+P0133,Orbit Mobile Pro,Orbit,Electronics,Mobile,30510,18940,25-06-2023,1
+P0134,QuickKart Stationery Pro,QuickKart,Office Supplies,Stationery,530,360,08-07-2024,1
+P0135,Aurum Skin Care Plus,Aurum,Personal Care,Skin Care,500,280,14-02-2024,1
+P0136,EcoHome Cookware Max,EcoHome,Home & Kitchen,Cookware,3640,2230,02-07-2024,1
+P0137,Zenith Grooming Plus,Zenith,Personal Care,Grooming,530,380,20-03-2024,1
+P0138,ByteX Accessories,ByteX,Electronics,Accessories,31360,21820,03-11-2023,1
+P0139,Horizon Home Care,Horizon,Home & Kitchen,Home Care,1440,1120,25-08-2024,1
+P0140,EcoHome Storage Max,EcoHome,Office Supplies,Storage,310,210,30-11-2023,1
+P0141,Zenith Snacks Pro,Zenith,Grocery,Snacks,140,90,26-10-2024,1
+P0142,QuickKart Appliances Plus,QuickKart,Home & Kitchen,Appliances,3730,2700,27-11-2024,0
+P0143,Horizon Cookware Max,Horizon,Home & Kitchen,Cookware,1910,1450,17-02-2024,1
+P0144,Pulse Storage Plus,Pulse,Office Supplies,Storage,480,340,17-04-2024,1
+P0145,Aurum Staples Max,Aurum,Grocery,Staples,100,80,28-06-2023,1
+P0146,EcoHome Snacks Pro,EcoHome,Grocery,Snacks,110,80,24-07-2024,1
+P0147,Prime Mobile,Prime,Electronics,Mobile,34950,26190,15-04-2024,1
+P0148,Aurum Appliances Plus,Aurum,Home & Kitchen,Appliances,150,90,23-09-2024,1
+P0149,Aurum Snacks Lite,Aurum,Grocery,Snacks,20,10,06-07-2023,1
+P0150,Aurum Accessories,Aurum,Electronics,Accessories,7210,4700,05-07-2024,1
+P0151,Horizon Beverages,Horizon,Grocery,Beverages,10,10,26-11-2023,1
+P0152,Orbit Cookware Pro,Orbit,Home & Kitchen,Cookware,1480,1040,10-05-2023,1
+P0153,Pulse Snacks Max,Pulse,Grocery,Snacks,180,140,30-04-2023,1
+P0154,Pulse Home Care Pro,Pulse,Home & Kitchen,Home Care,2070,1610,29-01-2024,1
+P0155,Horizon Printing Max,Horizon,Office Supplies,Printing,400,250,12-08-2023,1
+P0156,Zenith Grooming,Zenith,Personal Care,Grooming,830,600,13-03-2023,1
+P0157,Pulse Audio Lite,Pulse,Electronics,Audio,40930,29570,27-10-2023,1
+P0158,Nova Stationery Pro,Nova,Office Supplies,Stationery,330,210,02-04-2024,1
+P0159,EcoHome Stationery Plus,EcoHome,Office Supplies,Stationery,690,400,12-08-2023,1
+P0160,Prime Grooming Lite,Prime,Personal Care,Grooming,480,270,30-10-2024,1
+P0161,ByteX Beverages,ByteX,Grocery,Beverages,50,40,29-06-2024,1
+P0162,Zenith Skin Care Pro,Zenith,Personal Care,Skin Care,240,160,25-12-2023,1
+P0163,Zenith Printing Lite,Zenith,Office Supplies,Printing,20,20,16-10-2024,1
+P0164,Pulse Printing,Pulse,Office Supplies,Printing,130,90,31-10-2023,1
+P0165,ByteX Storage,ByteX,Office Supplies,Storage,260,200,08-04-2023,1
+P0166,ByteX Snacks Max,ByteX,Grocery,Snacks,180,120,26-01-2023,1
+P0167,Horizon Home Care Lite,Horizon,Home & Kitchen,Home Care,5080,3720,18-10-2024,1
+P0168,Zenith Audio Lite,Zenith,Electronics,Audio,8410,4790,02-11-2024,1
+P0169,Horizon Appliances Pro,Horizon,Home & Kitchen,Appliances,3090,2090,01-06-2024,1
+P0170,Horizon Mobile Max,Horizon,Electronics,Mobile,12510,9190,14-03-2023,1
+P0171,Prime Accessories Max,Prime,Electronics,Accessories,30700,23410,25-07-2023,1
+P0172,Zenith Mobile,Zenith,Electronics,Mobile,23430,17320,29-01-2023,1
+P0173,Zenith Skin Care,Zenith,Personal Care,Skin Care,30,20,05-02-2023,0
+P0174,Aurum Hair Care,Aurum,Personal Care,Hair Care,770,490,22-06-2023,1
+P0175,Prime Grooming,Prime,Personal Care,Grooming,240,130,05-02-2024,1
+P0176,Zenith Storage,Zenith,Office Supplies,Storage,220,130,15-02-2023,1
+P0177,EcoHome Skin Care,EcoHome,Personal Care,Skin Care,80,60,20-11-2024,1
+P0178,Zenith Audio,Zenith,Electronics,Audio,17150,12250,15-11-2023,1
+P0179,Prime Snacks Lite,Prime,Grocery,Snacks,150,110,04-07-2023,1
+P0180,Nova Storage Lite,Nova,Office Supplies,Storage,300,220,28-12-2023,1

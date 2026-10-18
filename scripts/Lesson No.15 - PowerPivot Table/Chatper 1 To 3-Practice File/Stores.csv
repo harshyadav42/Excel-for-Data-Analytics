@@ -1,0 +1,46 @@
+StoreID,StoreName,Region,State,City,Channel,OpenDate,StoreType
+S001,Kolkata Market,East,West Bengal,Kolkata,Retail,2024-01-31,Franchise
+S002,Kanpur Mall,North,Uttar Pradesh,Kanpur,Retail,2022-03-06,Franchise
+S003,Warangal Mall,South,Telangana,Warangal,B2B Desk,2022-10-17,Owned
+S004,Bhopal Central,Central,Madhya Pradesh,Bhopal,Retail,2021-05-06,Owned
+S005,Chennai Central,South,Tamil Nadu,Chennai,Retail,2021-12-01,Franchise
+S006,New Delhi Mall,North,Delhi,New Delhi,Online Hub,2021-12-25,Owned
+S007,Bhopal Outlet,Central,Madhya Pradesh,Bhopal,Retail,2022-11-12,Owned
+S008,Mangaluru Mall,South,Karnataka,Mangaluru,B2B Desk,2020-11-11,Owned
+S009,Nagpur Mall,West,Maharashtra,Nagpur,Retail,2023-11-12,Owned
+S010,Chennai Outlet,South,Tamil Nadu,Chennai,Retail,2021-12-04,Owned
+S011,Ahmedabad Mall,West,Gujarat,Ahmedabad,Online Hub,2021-03-08,Owned
+S012,Mysuru Hub,South,Karnataka,Mysuru,Online Hub,2020-01-27,Franchise
+S013,Udaipur Outlet,West,Rajasthan,Udaipur,B2B Desk,2020-07-02,Owned
+S014,Noida Central,North,Uttar Pradesh,Noida,Retail,2021-04-29,Owned
+S015,New Delhi Plaza,North,Delhi,New Delhi,Retail,2023-08-12,Franchise
+S016,Mangaluru Mall,South,Karnataka,Mangaluru,Retail,2024-03-18,Owned
+S017,Bhopal Central,Central,Madhya Pradesh,Bhopal,Retail,2024-09-10,Owned
+S018,Udaipur Central,West,Rajasthan,Udaipur,B2B Desk,2021-06-20,Franchise
+S019,Nagpur Plaza,West,Maharashtra,Nagpur,B2B Desk,2023-02-20,Owned
+S020,New Delhi Plaza,North,Delhi,New Delhi,Retail,2021-04-27,Owned
+S021,Nagpur Plaza,West,Maharashtra,Nagpur,B2B Desk,2020-09-13,Owned
+S022,Kolkata Hub,East,West Bengal,Kolkata,Retail,2022-09-04,Owned
+S023,Hyderabad Hub,South,Telangana,Hyderabad,Online Hub,2023-03-04,Franchise
+S024,New Delhi Central,North,Delhi,New Delhi,Retail,2023-10-01,Owned
+S025,Mangaluru Central,South,Karnataka,Mangaluru,Online Hub,2020-07-28,Franchise
+S026,New Delhi Mall,North,Delhi,New Delhi,Online Hub,2023-09-06,Owned
+S027,Vadodara Plaza,West,Gujarat,Vadodara,Retail,2021-06-30,Franchise
+S028,Kolkata Outlet,East,West Bengal,Kolkata,Online Hub,2021-05-16,Owned
+S029,Udaipur Outlet,West,Rajasthan,Udaipur,Retail,2020-02-26,Franchise
+S030,Bengaluru Hub,South,Karnataka,Bengaluru,Online Hub,2021-01-02,Owned
+S031,Kolkata Market,East,West Bengal,Kolkata,Retail,2022-05-27,Franchise
+S032,New Delhi Plaza,North,Delhi,New Delhi,Retail,2020-12-06,Franchise
+S033,Indore Central,Central,Madhya Pradesh,Indore,Online Hub,2021-08-01,Owned
+S034,Surat Mall,West,Gujarat,Surat,Online Hub,2022-08-12,Owned
+S035,Madurai Central,South,Tamil Nadu,Madurai,B2B Desk,2020-06-24,Owned
+S036,Bhopal Outlet,Central,Madhya Pradesh,Bhopal,Retail,2024-04-24,Owned
+S037,Madurai Mall,South,Tamil Nadu,Madurai,Retail,2021-07-10,Owned
+S038,New Delhi Hub,North,Delhi,New Delhi,Retail,2023-09-28,Owned
+S039,Ahmedabad Central,West,Gujarat,Ahmedabad,Online Hub,2023-03-11,Franchise
+S040,Kanpur Outlet,North,Uttar Pradesh,Kanpur,B2B Desk,2023-09-14,Franchise
+S041,Warangal Plaza,South,Telangana,Warangal,Online Hub,2021-06-04,Owned
+S042,Kolkata Central,East,West Bengal,Kolkata,Retail,2020-11-05,Owned
+S043,Warangal Mall,South,Telangana,Warangal,Online Hub,2020-09-14,Owned
+S044,Kolkata Market,East,West Bengal,Kolkata,Retail,2021-02-16,Owned
+S045,Kolkata Central,East,West Bengal,Kolkata,B2B Desk,2022-09-07,Franchise

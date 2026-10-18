@@ -1,0 +1,2501 @@
+CustomerID,CustomerName,Gender,Age,Segment,State,City,CustomerSince,PreferredChannel,IsActive
+C00001,Aditya Nair,Male,34,Consumer,West Bengal,Kolkata,2025-02-28,Online,1
+C00002,Aditya Kulkarni,Male,18,Consumer,Delhi,New Delhi,2024-11-12,Online,1
+C00003,Aarav Joshi,Female,34,Corporate,West Bengal,Kolkata,2024-05-31,Online,1
+C00004,Arjun Sharma,Male,32,Corporate,West Bengal,Siliguri,2025-08-26,Online,1
+C00005,Sai Banerjee,Female,33,Consumer,West Bengal,Kolkata,2024-02-08,Retail,1
+C00006,Vivaan Das,Male,32,Consumer,Delhi,New Delhi,2023-08-06,Online,1
+C00007,Kavya Mehta,Female,34,Consumer,Gujarat,Surat,2023-05-17,Online,1
+C00008,Diya Mehta,Female,44,SMB,Delhi,New Delhi,2025-04-29,Online,1
+C00009,Neha Gupta,Male,21,Consumer,Tamil Nadu,Madurai,2024-11-17,Retail,1
+C00010,Arjun Joshi,Male,29,Consumer,Telangana,Warangal,2024-07-31,Online,1
+C00011,Aarav Kulkarni,Female,38,Consumer,Gujarat,Ahmedabad,2024-03-06,B2B,1
+C00012,Aditya Joshi,Other,36,Consumer,Tamil Nadu,Chennai,2024-02-14,Retail,1
+C00013,Priya Patel,Female,36,Consumer,Delhi,New Delhi,2025-07-23,Online,1
+C00014,Priya Khan,Male,57,Consumer,Delhi,New Delhi,2024-11-11,Retail,0
+C00015,Isha Choudhary,Female,38,Corporate,West Bengal,Siliguri,2025-08-23,Online,1
+C00016,Sneha Nair,Male,42,SMB,Rajasthan,Jaipur,2025-03-12,B2B,1
+C00017,Rohan Patel,Male,29,SMB,Delhi,New Delhi,2025-02-06,B2B,1
+C00018,Neha Iyer,Female,23,Consumer,Rajasthan,Jaipur,2024-07-07,Online,1
+C00019,Aditya Singh,Male,29,Consumer,Telangana,Warangal,2023-08-31,Retail,1
+C00020,Priya Sharma,Female,38,Consumer,Karnataka,Mangaluru,2024-10-15,Online,1
+C00021,Kabir Reddy,Female,36,Corporate,Gujarat,Vadodara,2024-12-16,Online,1
+C00022,Meera Gupta,Male,36,Consumer,Maharashtra,Nashik,2024-06-05,Retail,1
+C00023,Rahul Khan,Female,30,Consumer,Maharashtra,Mumbai,2023-01-21,B2B,1
+C00024,Priya Gupta,Male,29,Corporate,Gujarat,Ahmedabad,2025-08-18,Online,1
+C00025,Diya Gupta,Male,30,Consumer,Tamil Nadu,Chennai,2025-04-06,Retail,1
+C00026,Rahul Patel,Male,39,Corporate,Uttar Pradesh,Lucknow,2023-12-19,Retail,1
+C00027,Ananya Mehta,Female,40,Consumer,Karnataka,Mangaluru,2024-05-08,Online,1
+C00028,Meera Gupta,Male,23,Consumer,Rajasthan,Jaipur,2023-05-04,Retail,1
+C00029,Aarav Sharma,Male,39,Consumer,Delhi,New Delhi,2025-07-25,Retail,1
+C00030,Vihaan Sharma,Female,26,Consumer,Karnataka,Mysuru,2023-08-19,Retail,1
+C00031,Vivaan Banerjee,Female,36,SMB,West Bengal,Siliguri,2024-01-13,B2B,1
+C00032,Isha Patel,Female,30,Consumer,Uttar Pradesh,Kanpur,2024-03-04,Online,1
+C00033,Rahul Choudhary,Female,46,Consumer,West Bengal,Kolkata,2023-09-21,Online,1
+C00034,Vivaan Khan,Male,28,Corporate,Karnataka,Mysuru,2024-09-26,Online,1
+C00035,Sneha Patel,Female,34,Consumer,Karnataka,Mysuru,2025-09-22,Online,1
+C00036,Zoya Singh,Female,37,Corporate,Gujarat,Vadodara,2025-05-05,Online,1
+C00037,Aarav Choudhary,Female,24,Consumer,Tamil Nadu,Coimbatore,2024-06-14,Retail,1
+C00038,Aarav Patel,Female,31,SMB,Madhya Pradesh,Indore,2023-05-11,Online,1
+C00039,Rahul Gupta,Male,30,Consumer,Delhi,New Delhi,2025-05-13,Retail,1
+C00040,Meera Nair,Male,27,Consumer,Karnataka,Mangaluru,2023-09-14,Online,1
+C00041,Vihaan Patel,Female,28,Consumer,Madhya Pradesh,Bhopal,2025-06-30,Online,1
+C00042,Sneha Khan,Male,42,Consumer,Karnataka,Mysuru,2024-01-31,Retail,0
+C00043,Meera Gupta,Male,27,Consumer,Maharashtra,Mumbai,2024-06-02,Retail,1
+C00044,Kabir Jain,Male,37,Consumer,Tamil Nadu,Coimbatore,2024-03-12,Online,0
+C00045,Rohan Jain,Female,35,Consumer,Tamil Nadu,Madurai,2024-03-31,Retail,1
+C00046,Arjun Joshi,Female,19,Corporate,West Bengal,Siliguri,2023-06-14,Online,1
+C00047,Diya Mehta,Female,37,Consumer,Rajasthan,Jaipur,2024-07-06,Online,1
+C00048,Aditya Sharma,Female,19,Consumer,Madhya Pradesh,Indore,2024-02-07,Online,0
+C00049,Riya Iyer,Female,38,SMB,Delhi,New Delhi,2025-04-27,Retail,1
+C00050,Sneha Choudhary,Female,27,Consumer,Madhya Pradesh,Bhopal,2024-04-22,Online,1
+C00051,Kabir Joshi,Male,32,SMB,West Bengal,Siliguri,2025-08-22,Retail,1
+C00052,Rohan Iyer,Female,20,SMB,Maharashtra,Nashik,2023-10-24,Online,1
+C00053,Vihaan Joshi,Male,33,SMB,Madhya Pradesh,Indore,2023-11-25,Online,1
+C00054,Riya Joshi,Male,40,Corporate,Karnataka,Bengaluru,2023-02-06,Retail,1
+C00055,Sneha Nair,Male,25,Consumer,Telangana,Hyderabad,2025-01-08,Online,1
+C00056,Vivaan Banerjee,Female,27,Consumer,Uttar Pradesh,Lucknow,2023-03-15,Online,1
+C00057,Arjun Singh,Female,36,Consumer,Delhi,New Delhi,2023-10-13,Online,1
+C00058,Neha Sharma,Female,36,Corporate,Delhi,New Delhi,2025-06-29,Online,1
+C00059,Aarav Jain,Female,18,Consumer,Tamil Nadu,Madurai,2024-09-02,Online,1
+C00060,Arjun Sharma,Female,50,SMB,Rajasthan,Jaipur,2024-07-12,Online,1
+C00061,Rahul Mehta,Male,37,Consumer,Delhi,New Delhi,2025-03-15,Retail,1
+C00062,Aarav Nair,Female,38,Consumer,West Bengal,Siliguri,2025-02-10,Online,1
+C00063,Isha Patel,Female,31,Consumer,Tamil Nadu,Madurai,2025-06-05,Online,1
+C00064,Ananya Nair,Female,18,Consumer,Karnataka,Mangaluru,2024-10-27,Retail,1
+C00065,Diya Jain,Male,38,Consumer,Uttar Pradesh,Kanpur,2024-03-24,Online,1
+C00066,Sai Mehta,Male,27,Consumer,Rajasthan,Jaipur,2023-05-11,Retail,1
+C00067,Sai Gupta,Female,37,Corporate,Telangana,Warangal,2024-01-05,Retail,1
+C00068,Kavya Iyer,Male,30,Consumer,Karnataka,Mysuru,2024-12-06,Online,1
+C00069,Aarav Joshi,Male,34,Consumer,Karnataka,Bengaluru,2023-09-11,Online,1
+C00070,Aditya Khan,Male,25,Consumer,Tamil Nadu,Coimbatore,2024-11-01,Online,1
+C00071,Sai Joshi,Male,40,Consumer,Telangana,Hyderabad,2023-05-14,Online,1
+C00072,Irfan Khan,Male,21,Consumer,Telangana,Warangal,2023-03-02,Online,1
+C00073,Diya Kulkarni,Other,52,Consumer,Delhi,New Delhi,2023-12-31,Retail,1
+C00074,Aarav Das,Female,52,Corporate,Telangana,Hyderabad,2023-08-18,Retail,1
+C00075,Riya Khan,Female,47,Consumer,Delhi,New Delhi,2025-05-21,Online,1
+C00076,Kabir Nair,Male,43,Consumer,West Bengal,Kolkata,2024-01-14,B2B,1
+C00077,Priya Joshi,Male,31,Consumer,Uttar Pradesh,Noida,2024-02-23,Online,1
+C00078,Vivaan Sharma,Male,42,Consumer,West Bengal,Kolkata,2024-02-08,Retail,1
+C00079,Zoya Jain,Male,31,SMB,Maharashtra,Nagpur,2023-11-14,Retail,0
+C00080,Zoya Joshi,Male,18,Consumer,Madhya Pradesh,Indore,2025-07-06,Online,1
+C00081,Rahul Jain,Female,46,SMB,Maharashtra,Nashik,2025-01-09,Online,1
+C00082,Sneha Mehta,Other,42,Consumer,Madhya Pradesh,Indore,2023-06-08,Online,1
+C00083,Ananya Mehta,Female,32,Consumer,Maharashtra,Nashik,2023-08-04,Retail,1
+C00084,Isha Kulkarni,Male,21,Consumer,Telangana,Hyderabad,2023-03-23,Online,1
+C00085,Sneha Iyer,Male,27,Consumer,Karnataka,Bengaluru,2023-09-14,Retail,1
+C00086,Isha Iyer,Male,18,SMB,Maharashtra,Mumbai,2024-10-18,Online,1
+C00087,Zoya Gupta,Male,41,Consumer,West Bengal,Siliguri,2025-07-24,Online,1
+C00088,Kabir Gupta,Male,18,SMB,Uttar Pradesh,Kanpur,2024-04-26,Retail,1
+C00089,Rahul Nair,Male,35,SMB,Karnataka,Bengaluru,2023-03-23,Online,1
+C00090,Aarav Das,Female,24,Consumer,Madhya Pradesh,Bhopal,2023-02-17,Online,1
+C00091,Neha Reddy,Female,19,Consumer,Gujarat,Surat,2024-02-19,B2B,1
+C00092,Irfan Joshi,Male,34,Consumer,Gujarat,Ahmedabad,2023-09-22,Online,1
+C00093,Vihaan Joshi,Male,29,Consumer,Delhi,New Delhi,2024-07-30,Retail,1
+C00094,Neha Banerjee,Male,40,Corporate,Tamil Nadu,Coimbatore,2023-04-29,B2B,1
+C00095,Vihaan Gupta,Male,21,Consumer,Karnataka,Mangaluru,2023-08-19,Online,1
+C00096,Rahul Iyer,Female,25,SMB,Tamil Nadu,Madurai,2024-07-09,Online,1
+C00097,Rahul Sharma,Female,18,Consumer,Delhi,New Delhi,2023-10-09,Online,1
+C00098,Aarav Khan,Female,18,Consumer,Maharashtra,Nashik,2023-12-31,Retail,1
+C00099,Riya Mehta,Female,48,Consumer,Gujarat,Ahmedabad,2023-08-10,B2B,1
+C00100,Diya Jain,Male,51,Consumer,West Bengal,Kolkata,2023-02-21,Retail,1
+C00101,Zoya Mehta,Male,33,SMB,Uttar Pradesh,Noida,2023-12-12,Retail,1
+C00102,Ananya Banerjee,Male,25,Consumer,Gujarat,Ahmedabad,2023-11-26,Online,0
+C00103,Neha Mehta,Male,29,SMB,Gujarat,Surat,2025-06-17,Online,1
+C00104,Aditya Choudhary,Female,40,Corporate,Uttar Pradesh,Lucknow,2025-06-11,Online,1
+C00105,Arjun Gupta,Male,27,SMB,West Bengal,Kolkata,2024-03-07,Retail,1
+C00106,Sneha Gupta,Male,34,Consumer,Rajasthan,Jaipur,2023-10-15,Online,1
+C00107,Diya Jain,Male,32,Corporate,Madhya Pradesh,Indore,2024-02-22,Online,1
+C00108,Kavya Mehta,Male,27,Consumer,Rajasthan,Udaipur,2024-08-30,Online,1
+C00109,Sneha Das,Female,27,Corporate,Madhya Pradesh,Indore,2024-01-22,Online,1
+C00110,Sneha Banerjee,Male,35,Consumer,Tamil Nadu,Madurai,2025-01-26,Online,1
+C00111,Aarav Nair,Male,23,Consumer,Gujarat,Ahmedabad,2025-08-22,Online,1
+C00112,Arjun Gupta,Male,36,Consumer,Gujarat,Ahmedabad,2024-02-08,Retail,1
+C00113,Neha Mehta,Female,28,Consumer,Delhi,New Delhi,2023-04-28,Retail,1
+C00114,Rahul Kulkarni,Female,33,Consumer,Uttar Pradesh,Noida,2023-05-01,Online,1
+C00115,Sneha Reddy,Female,44,Corporate,Uttar Pradesh,Kanpur,2025-05-21,Retail,0
+C00116,Neha Jain,Male,30,Consumer,Rajasthan,Jaipur,2024-02-21,Online,1
+C00117,Aditya Joshi,Male,40,Corporate,Karnataka,Bengaluru,2023-11-24,Retail,1
+C00118,Neha Sharma,Female,18,Consumer,Tamil Nadu,Madurai,2024-09-11,Online,1
+C00119,Sai Singh,Male,28,Corporate,Delhi,New Delhi,2025-08-14,Retail,1
+C00120,Irfan Mehta,Male,32,Corporate,Rajasthan,Udaipur,2024-02-29,Online,1
+C00121,Riya Das,Female,49,Consumer,Delhi,New Delhi,2023-11-12,Online,1
+C00122,Vihaan Gupta,Male,18,Corporate,Karnataka,Mysuru,2025-05-12,Retail,1
+C00123,Irfan Mehta,Male,31,SMB,Telangana,Warangal,2023-03-24,Retail,1
+C00124,Sneha Banerjee,Female,45,Corporate,Rajasthan,Udaipur,2025-04-24,Retail,1
+C00125,Riya Patel,Male,25,Consumer,Madhya Pradesh,Indore,2024-06-04,Online,1
+C00126,Irfan Mehta,Male,30,Consumer,Maharashtra,Nagpur,2023-01-21,Online,1
+C00127,Vivaan Choudhary,Male,35,Corporate,Gujarat,Ahmedabad,2023-08-16,Retail,1
+C00128,Sai Reddy,Female,34,Consumer,Karnataka,Bengaluru,2024-11-10,Online,1
+C00129,Aditya Kulkarni,Male,46,Corporate,Gujarat,Surat,2025-01-22,Online,1
+C00130,Sai Iyer,Male,36,Consumer,Telangana,Hyderabad,2023-07-15,Online,1
+C00131,Diya Iyer,Female,44,Corporate,Delhi,New Delhi,2024-10-19,Online,1
+C00132,Isha Kulkarni,Female,29,Consumer,Maharashtra,Nashik,2025-09-16,Online,1
+C00133,Ananya Nair,Female,25,Consumer,Telangana,Warangal,2024-11-17,Online,1
+C00134,Riya Khan,Male,30,SMB,Maharashtra,Pune,2024-12-03,Retail,1
+C00135,Arjun Iyer,Male,22,SMB,Delhi,New Delhi,2023-07-13,Retail,1
+C00136,Ananya Banerjee,Female,36,SMB,Maharashtra,Pune,2024-09-29,Retail,1
+C00137,Irfan Banerjee,Female,29,SMB,Maharashtra,Mumbai,2024-12-09,Retail,1
+C00138,Meera Iyer,Male,26,Consumer,Tamil Nadu,Coimbatore,2023-04-21,Online,1
+C00139,Aarav Reddy,Female,36,Consumer,Rajasthan,Jaipur,2023-11-08,B2B,1
+C00140,Ananya Reddy,Male,22,Consumer,Uttar Pradesh,Noida,2025-06-01,Retail,1
+C00141,Irfan Gupta,Female,39,Consumer,Maharashtra,Nagpur,2025-09-25,Online,1
+C00142,Vihaan Khan,Female,28,Consumer,Maharashtra,Nagpur,2023-06-23,Online,1
+C00143,Rahul Sharma,Male,42,SMB,Gujarat,Surat,2025-01-01,Retail,1
+C00144,Sai Mehta,Female,28,Consumer,West Bengal,Kolkata,2024-05-16,Retail,1
+C00145,Kabir Sharma,Female,38,Consumer,Uttar Pradesh,Kanpur,2024-08-13,Retail,1
+C00146,Priya Mehta,Male,34,Consumer,Rajasthan,Udaipur,2024-05-25,Retail,1
+C00147,Kabir Patel,Male,39,Consumer,Gujarat,Vadodara,2025-05-17,Retail,1
+C00148,Kavya Khan,Female,33,Consumer,Karnataka,Mysuru,2024-03-21,B2B,1
+C00149,Aditya Sharma,Male,18,Consumer,Maharashtra,Nashik,2024-08-12,Retail,0
+C00150,Diya Kulkarni,Male,41,Consumer,Karnataka,Mysuru,2024-10-31,B2B,1
+C00151,Meera Gupta,Male,31,Consumer,Maharashtra,Nashik,2024-07-06,Retail,1
+C00152,Sai Gupta,Female,39,SMB,Rajasthan,Jaipur,2025-05-29,Online,1
+C00153,Diya Gupta,Male,38,Consumer,Delhi,New Delhi,2023-08-26,Retail,1
+C00154,Zoya Banerjee,Female,25,Consumer,Rajasthan,Jaipur,2025-08-06,Online,1
+C00155,Arjun Reddy,Male,24,Consumer,Telangana,Warangal,2024-11-09,Online,1
+C00156,Vihaan Jain,Male,38,Consumer,Telangana,Warangal,2025-08-18,Online,1
+C00157,Meera Iyer,Female,29,Consumer,Tamil Nadu,Madurai,2024-01-10,Online,1
+C00158,Vivaan Das,Male,40,SMB,Rajasthan,Jaipur,2024-04-23,Online,1
+C00159,Aarav Sharma,Male,30,Consumer,Maharashtra,Nashik,2023-02-13,Online,1
+C00160,Zoya Iyer,Male,41,Consumer,Maharashtra,Pune,2025-07-12,Online,1
+C00161,Sai Patel,Female,36,Consumer,Tamil Nadu,Coimbatore,2025-03-27,Retail,1
+C00162,Aditya Sharma,Male,35,Corporate,Gujarat,Vadodara,2023-10-24,Retail,1
+C00163,Rohan Khan,Male,29,Consumer,Telangana,Warangal,2023-02-21,B2B,1
+C00164,Priya Khan,Male,34,Consumer,Uttar Pradesh,Kanpur,2024-11-27,Online,1
+C00165,Priya Gupta,Male,43,SMB,Telangana,Warangal,2024-11-03,Online,1
+C00166,Isha Nair,Male,32,Consumer,Delhi,New Delhi,2024-06-11,Retail,1
+C00167,Aditya Khan,Female,37,Consumer,Gujarat,Vadodara,2023-06-06,Online,1
+C00168,Zoya Mehta,Male,32,Consumer,Uttar Pradesh,Noida,2025-07-07,B2B,1
+C00169,Aarav Kulkarni,Male,33,Consumer,Delhi,New Delhi,2024-03-08,Retail,1
+C00170,Priya Reddy,Female,48,SMB,Telangana,Hyderabad,2024-12-25,Online,0
+C00171,Sai Choudhary,Female,43,Consumer,Telangana,Hyderabad,2025-05-09,Online,1
+C00172,Kabir Reddy,Male,33,Consumer,Uttar Pradesh,Noida,2024-07-02,Online,1
+C00173,Riya Iyer,Male,34,Consumer,Uttar Pradesh,Kanpur,2023-04-05,Online,1
+C00174,Diya Iyer,Male,26,Consumer,Tamil Nadu,Coimbatore,2025-06-06,Online,1
+C00175,Riya Khan,Female,30,Corporate,Gujarat,Surat,2024-10-29,Retail,1
+C00176,Arjun Jain,Male,35,Consumer,Gujarat,Ahmedabad,2025-06-13,Retail,1
+C00177,Aditya Mehta,Male,40,Corporate,Tamil Nadu,Coimbatore,2024-09-04,Online,1
+C00178,Rahul Gupta,Male,39,Consumer,Delhi,New Delhi,2025-06-26,Online,1
+C00179,Kabir Das,Male,22,Consumer,West Bengal,Kolkata,2025-05-17,Online,1
+C00180,Rohan Das,Male,41,Consumer,Delhi,New Delhi,2023-08-04,Online,1
+C00181,Sneha Sharma,Male,31,Corporate,West Bengal,Siliguri,2023-06-22,Retail,0
+C00182,Rahul Choudhary,Female,23,Consumer,Uttar Pradesh,Noida,2023-06-10,Retail,1
+C00183,Meera Nair,Female,44,Consumer,Madhya Pradesh,Indore,2025-03-10,Retail,1
+C00184,Kavya Singh,Female,45,Corporate,Karnataka,Bengaluru,2023-08-29,Online,1
+C00185,Riya Joshi,Female,34,Consumer,Uttar Pradesh,Kanpur,2024-03-26,Online,1
+C00186,Arjun Patel,Male,38,Consumer,Maharashtra,Nashik,2025-02-26,Retail,1
+C00187,Kabir Banerjee,Female,39,Consumer,Gujarat,Vadodara,2024-03-04,Retail,1
+C00188,Rahul Mehta,Female,45,SMB,Karnataka,Bengaluru,2023-03-03,Retail,1
+C00189,Zoya Banerjee,Female,39,Consumer,Karnataka,Bengaluru,2023-12-28,Online,1
+C00190,Riya Jain,Female,20,Consumer,Karnataka,Bengaluru,2023-04-05,Retail,1
+C00191,Rahul Singh,Male,50,Consumer,Maharashtra,Nashik,2024-01-21,Online,1
+C00192,Vihaan Gupta,Male,42,Consumer,Rajasthan,Udaipur,2025-01-06,Online,1
+C00193,Aarav Joshi,Male,27,Consumer,Maharashtra,Nashik,2024-06-03,Retail,1
+C00194,Isha Das,Male,23,Consumer,Gujarat,Ahmedabad,2024-11-05,Online,1
+C00195,Arjun Reddy,Male,37,Consumer,West Bengal,Kolkata,2023-04-17,Retail,1
+C00196,Sneha Joshi,Male,29,Consumer,Madhya Pradesh,Bhopal,2025-01-20,Online,1
+C00197,Aditya Choudhary,Male,35,SMB,Rajasthan,Udaipur,2024-03-01,Online,1
+C00198,Riya Khan,Female,39,Consumer,Karnataka,Mangaluru,2023-10-14,Online,1
+C00199,Kavya Singh,Female,27,Consumer,Madhya Pradesh,Indore,2024-10-13,Retail,1
+C00200,Aditya Nair,Female,22,SMB,West Bengal,Kolkata,2023-05-15,Retail,1
+C00201,Aarav Gupta,Male,35,SMB,Karnataka,Bengaluru,2024-05-13,Online,1
+C00202,Meera Kulkarni,Female,27,Consumer,Tamil Nadu,Madurai,2024-02-27,Online,1
+C00203,Rahul Sharma,Female,33,Consumer,Madhya Pradesh,Bhopal,2023-06-15,Online,1
+C00204,Aarav Gupta,Female,20,Consumer,Gujarat,Surat,2025-08-10,Online,1
+C00205,Aarav Singh,Female,30,Consumer,Karnataka,Bengaluru,2023-12-30,Retail,1
+C00206,Rahul Banerjee,Male,38,Consumer,Rajasthan,Udaipur,2023-02-10,Online,1
+C00207,Kabir Das,Male,37,Consumer,Madhya Pradesh,Indore,2024-03-18,Online,1
+C00208,Neha Gupta,Female,25,Consumer,Madhya Pradesh,Bhopal,2025-08-24,Online,1
+C00209,Sai Jain,Other,21,Consumer,Madhya Pradesh,Bhopal,2024-10-30,Retail,1
+C00210,Ananya Khan,Male,32,Consumer,Rajasthan,Udaipur,2024-09-28,Retail,1
+C00211,Priya Khan,Male,37,Consumer,Tamil Nadu,Madurai,2025-06-19,Retail,1
+C00212,Arjun Das,Male,36,Consumer,Karnataka,Mysuru,2023-03-25,Retail,1
+C00213,Isha Jain,Male,27,Corporate,West Bengal,Kolkata,2024-07-04,B2B,1
+C00214,Sneha Iyer,Other,35,SMB,Delhi,New Delhi,2023-11-17,Online,1
+C00215,Neha Sharma,Female,46,Consumer,Tamil Nadu,Chennai,2024-11-07,Retail,0
+C00216,Zoya Joshi,Male,34,Consumer,West Bengal,Siliguri,2025-05-02,Retail,1
+C00217,Priya Singh,Male,18,Consumer,Madhya Pradesh,Bhopal,2023-03-19,Online,1
+C00218,Kavya Joshi,Male,34,Consumer,Delhi,New Delhi,2023-06-08,Retail,1
+C00219,Isha Kulkarni,Male,50,Corporate,Delhi,New Delhi,2025-08-12,Retail,1
+C00220,Kabir Patel,Female,20,Consumer,Uttar Pradesh,Lucknow,2024-05-06,Retail,1
+C00221,Neha Gupta,Female,32,Consumer,Maharashtra,Nashik,2023-11-12,Online,1
+C00222,Irfan Das,Female,30,Consumer,Telangana,Hyderabad,2023-06-02,Online,1
+C00223,Rahul Reddy,Male,33,Consumer,Uttar Pradesh,Noida,2023-12-21,Retail,1
+C00224,Aditya Choudhary,Female,34,Consumer,Telangana,Hyderabad,2023-01-05,Online,1
+C00225,Kavya Iyer,Female,42,Consumer,Gujarat,Surat,2023-08-11,Online,1
+C00226,Neha Gupta,Male,33,SMB,Rajasthan,Jaipur,2023-07-03,Online,1
+C00227,Neha Khan,Female,43,Consumer,Gujarat,Surat,2023-03-26,Online,1
+C00228,Aarav Singh,Female,31,Consumer,Uttar Pradesh,Kanpur,2025-08-27,Retail,1
+C00229,Priya Jain,Female,29,Consumer,Tamil Nadu,Madurai,2025-03-01,Retail,1
+C00230,Sneha Choudhary,Male,26,Consumer,Maharashtra,Pune,2025-07-29,Retail,1
+C00231,Rahul Iyer,Male,18,Consumer,Telangana,Warangal,2023-08-29,Online,1
+C00232,Arjun Reddy,Male,34,Consumer,Maharashtra,Pune,2023-10-16,Online,1
+C00233,Priya Nair,Male,50,Corporate,Madhya Pradesh,Indore,2023-10-10,Online,1
+C00234,Zoya Sharma,Male,36,Consumer,West Bengal,Kolkata,2024-07-12,Online,1
+C00235,Rahul Joshi,Female,38,Consumer,Gujarat,Ahmedabad,2023-07-01,Retail,1
+C00236,Ananya Khan,Male,28,Consumer,Tamil Nadu,Madurai,2023-08-24,Online,1
+C00237,Irfan Sharma,Male,30,Consumer,West Bengal,Siliguri,2025-09-01,Online,1
+C00238,Irfan Patel,Other,41,Consumer,Delhi,New Delhi,2023-12-19,Retail,1
+C00239,Vihaan Choudhary,Male,50,SMB,Delhi,New Delhi,2025-02-20,Retail,1
+C00240,Aarav Joshi,Male,45,Consumer,Tamil Nadu,Coimbatore,2023-08-17,Online,1
+C00241,Aarav Nair,Female,39,Consumer,Delhi,New Delhi,2025-07-18,Retail,1
+C00242,Aditya Joshi,Male,32,Consumer,Uttar Pradesh,Noida,2024-11-24,Online,1
+C00243,Neha Nair,Male,34,Consumer,Karnataka,Mangaluru,2025-05-11,Retail,1
+C00244,Diya Das,Female,25,Consumer,Rajasthan,Udaipur,2024-05-31,Retail,1
+C00245,Rohan Jain,Male,19,Consumer,Gujarat,Ahmedabad,2025-06-25,Online,1
+C00246,Vivaan Sharma,Male,22,Consumer,Telangana,Hyderabad,2023-12-29,Online,1
+C00247,Kabir Singh,Male,32,Consumer,Karnataka,Mysuru,2024-04-24,Online,1
+C00248,Neha Nair,Female,29,Corporate,Gujarat,Surat,2023-03-03,Retail,1
+C00249,Sneha Banerjee,Male,19,SMB,Uttar Pradesh,Kanpur,2023-06-20,Online,1
+C00250,Ananya Kulkarni,Female,32,Corporate,Delhi,New Delhi,2025-02-10,Retail,1
+C00251,Riya Khan,Male,29,SMB,Karnataka,Mysuru,2023-11-23,Online,1
+C00252,Priya Joshi,Female,21,Corporate,Telangana,Warangal,2023-04-13,Online,1
+C00253,Ananya Patel,Male,29,SMB,Karnataka,Mysuru,2023-10-20,Online,0
+C00254,Kabir Nair,Male,29,Corporate,Gujarat,Surat,2023-12-19,Online,1
+C00255,Meera Joshi,Female,26,Corporate,Tamil Nadu,Coimbatore,2024-12-18,Online,1
+C00256,Irfan Joshi,Female,40,Corporate,Telangana,Warangal,2023-04-01,Retail,1
+C00257,Aarav Gupta,Male,18,SMB,West Bengal,Siliguri,2023-01-26,B2B,1
+C00258,Arjun Patel,Male,18,Consumer,West Bengal,Kolkata,2024-12-25,Online,1
+C00259,Meera Mehta,Male,32,Consumer,Rajasthan,Udaipur,2023-05-23,Retail,1
+C00260,Meera Kulkarni,Male,33,Consumer,Maharashtra,Pune,2024-02-24,Online,1
+C00261,Rahul Kulkarni,Female,36,SMB,Gujarat,Vadodara,2024-11-13,Retail,1
+C00262,Rohan Khan,Male,27,Consumer,Maharashtra,Nashik,2024-05-29,Online,1
+C00263,Aarav Kulkarni,Male,24,Corporate,Maharashtra,Nagpur,2023-05-04,Retail,1
+C00264,Priya Jain,Male,32,Corporate,Delhi,New Delhi,2024-12-23,Online,1
+C00265,Irfan Choudhary,Male,28,SMB,Telangana,Warangal,2023-02-18,Online,1
+C00266,Zoya Kulkarni,Male,46,Consumer,Rajasthan,Udaipur,2023-08-21,Retail,1
+C00267,Irfan Khan,Male,29,Consumer,Uttar Pradesh,Lucknow,2023-04-20,Online,1
+C00268,Priya Sharma,Male,32,Corporate,West Bengal,Siliguri,2024-05-27,Online,1
+C00269,Aditya Khan,Female,54,SMB,Uttar Pradesh,Kanpur,2024-11-21,Online,1
+C00270,Arjun Sharma,Male,30,SMB,Karnataka,Bengaluru,2024-10-11,B2B,0
+C00271,Irfan Joshi,Female,37,Consumer,Rajasthan,Jaipur,2023-05-20,Online,1
+C00272,Ananya Mehta,Male,38,Consumer,Rajasthan,Jaipur,2023-12-10,Online,1
+C00273,Kavya Nair,Male,39,Consumer,Maharashtra,Nashik,2023-05-27,Retail,1
+C00274,Aarav Gupta,Male,35,SMB,Tamil Nadu,Coimbatore,2023-12-09,Retail,1
+C00275,Priya Jain,Male,34,Consumer,Rajasthan,Udaipur,2023-08-19,Online,1
+C00276,Sneha Khan,Female,33,Corporate,Tamil Nadu,Madurai,2025-01-10,Retail,1
+C00277,Arjun Iyer,Female,27,Corporate,Rajasthan,Udaipur,2025-01-20,Online,1
+C00278,Aarav Choudhary,Female,35,Consumer,Madhya Pradesh,Bhopal,2025-03-29,Online,1
+C00279,Sai Choudhary,Female,50,Consumer,Tamil Nadu,Chennai,2023-07-20,Online,1
+C00280,Vivaan Singh,Male,43,Consumer,Maharashtra,Mumbai,2023-01-14,Retail,1
+C00281,Kabir Mehta,Male,35,SMB,Gujarat,Surat,2023-02-05,Retail,1
+C00282,Vihaan Joshi,Female,40,Consumer,Delhi,New Delhi,2025-04-23,Online,1
+C00283,Arjun Jain,Male,24,Consumer,Tamil Nadu,Coimbatore,2025-06-24,Online,1
+C00284,Meera Iyer,Male,30,Consumer,Telangana,Hyderabad,2023-07-31,Online,1
+C00285,Ananya Patel,Female,41,Consumer,Tamil Nadu,Chennai,2025-05-26,Online,1
+C00286,Rohan Khan,Female,45,SMB,Karnataka,Bengaluru,2024-06-13,Online,1
+C00287,Rahul Kulkarni,Female,25,Consumer,Gujarat,Vadodara,2023-07-04,Retail,1
+C00288,Rahul Iyer,Male,28,Consumer,West Bengal,Siliguri,2023-11-09,Online,1
+C00289,Neha Das,Female,52,Consumer,Maharashtra,Nashik,2023-09-23,B2B,1
+C00290,Sneha Khan,Male,33,Consumer,Delhi,New Delhi,2025-02-02,Online,1
+C00291,Neha Singh,Male,48,Consumer,Rajasthan,Jaipur,2023-07-08,Online,1
+C00292,Vivaan Joshi,Male,34,Corporate,Maharashtra,Nagpur,2023-07-03,Online,1
+C00293,Sneha Patel,Female,34,Consumer,Tamil Nadu,Madurai,2024-12-20,Retail,1
+C00294,Meera Gupta,Female,29,Consumer,Delhi,New Delhi,2023-10-30,Online,1
+C00295,Aarav Singh,Female,40,Consumer,Karnataka,Mysuru,2023-09-08,Online,1
+C00296,Kabir Sharma,Male,44,Consumer,Tamil Nadu,Chennai,2025-03-18,Online,1
+C00297,Arjun Mehta,Male,23,SMB,Telangana,Hyderabad,2025-07-20,Retail,1
+C00298,Riya Nair,Male,29,Consumer,Karnataka,Mangaluru,2024-07-09,B2B,1
+C00299,Rohan Kulkarni,Female,40,SMB,Maharashtra,Pune,2025-04-07,Online,1
+C00300,Aarav Sharma,Male,31,Consumer,Karnataka,Mangaluru,2025-04-21,Online,1
+C00301,Isha Das,Male,28,Consumer,West Bengal,Siliguri,2024-08-11,Online,1
+C00302,Vivaan Choudhary,Female,41,Consumer,Rajasthan,Jaipur,2025-04-09,Online,1
+C00303,Aditya Gupta,Male,42,Consumer,Karnataka,Mangaluru,2023-01-09,B2B,1
+C00304,Arjun Jain,Female,28,Corporate,Gujarat,Surat,2023-02-05,Online,1
+C00305,Kavya Choudhary,Male,34,Consumer,Gujarat,Surat,2025-06-02,Retail,0
+C00306,Isha Gupta,Female,21,Consumer,Gujarat,Ahmedabad,2023-05-21,Retail,1
+C00307,Aarav Singh,Male,24,Consumer,Delhi,New Delhi,2024-12-28,Retail,1
+C00308,Neha Sharma,Male,33,Consumer,Maharashtra,Pune,2024-02-25,Online,1
+C00309,Riya Singh,Male,32,SMB,Telangana,Hyderabad,2025-02-26,Retail,1
+C00310,Aditya Choudhary,Male,23,SMB,Gujarat,Ahmedabad,2024-10-27,Online,1
+C00311,Meera Banerjee,Female,26,Consumer,Gujarat,Vadodara,2023-03-13,Online,1
+C00312,Arjun Khan,Male,22,Corporate,Delhi,New Delhi,2023-12-03,B2B,1
+C00313,Kabir Mehta,Male,36,Corporate,Madhya Pradesh,Indore,2024-12-09,Online,1
+C00314,Rahul Sharma,Female,18,Consumer,West Bengal,Kolkata,2025-07-10,Online,1
+C00315,Ananya Gupta,Male,23,Consumer,Tamil Nadu,Chennai,2025-03-15,Online,1
+C00316,Neha Jain,Female,18,Consumer,Delhi,New Delhi,2025-06-10,Online,1
+C00317,Aarav Mehta,Female,36,Corporate,Rajasthan,Jaipur,2025-08-14,Retail,1
+C00318,Isha Kulkarni,Male,18,SMB,Rajasthan,Jaipur,2025-06-13,Retail,1
+C00319,Zoya Banerjee,Female,32,Consumer,Maharashtra,Nashik,2024-08-03,Retail,1
+C00320,Vivaan Nair,Male,47,Corporate,Madhya Pradesh,Bhopal,2023-12-03,Online,1
+C00321,Rahul Sharma,Male,47,SMB,West Bengal,Kolkata,2024-05-23,Online,1
+C00322,Vivaan Patel,Male,18,Consumer,Maharashtra,Nagpur,2025-03-06,Online,1
+C00323,Priya Mehta,Female,35,Consumer,Uttar Pradesh,Kanpur,2024-03-01,Online,1
+C00324,Vihaan Choudhary,Female,23,SMB,Karnataka,Bengaluru,2025-04-10,Retail,1
+C00325,Aarav Khan,Male,21,SMB,Maharashtra,Nashik,2024-12-02,Retail,1
+C00326,Ananya Singh,Female,31,Consumer,Karnataka,Bengaluru,2023-07-29,Retail,1
+C00327,Meera Jain,Male,43,Consumer,Tamil Nadu,Chennai,2025-07-09,Retail,1
+C00328,Neha Jain,Female,37,Consumer,West Bengal,Kolkata,2025-04-26,Online,1
+C00329,Ananya Mehta,Female,26,Consumer,Tamil Nadu,Chennai,2024-08-22,Retail,1
+C00330,Priya Banerjee,Female,38,Consumer,Karnataka,Mangaluru,2023-07-14,Retail,1
+C00331,Vihaan Banerjee,Female,18,Consumer,Karnataka,Mangaluru,2023-08-16,B2B,1
+C00332,Neha Jain,Other,25,Consumer,Rajasthan,Jaipur,2025-04-19,Online,1
+C00333,Vihaan Joshi,Male,25,Consumer,Madhya Pradesh,Bhopal,2023-01-18,Retail,1
+C00334,Zoya Banerjee,Female,33,Consumer,Uttar Pradesh,Kanpur,2024-04-28,Online,1
+C00335,Vihaan Sharma,Female,30,Consumer,Karnataka,Mangaluru,2024-09-11,Retail,1
+C00336,Rohan Patel,Female,31,Corporate,Rajasthan,Udaipur,2023-08-21,Retail,1
+C00337,Ananya Das,Male,30,Consumer,West Bengal,Siliguri,2025-05-14,Retail,1
+C00338,Sneha Joshi,Female,32,Consumer,Telangana,Hyderabad,2024-06-06,Online,0
+C00339,Sai Choudhary,Male,37,Consumer,Karnataka,Mangaluru,2023-03-07,Online,1
+C00340,Rahul Joshi,Male,33,Consumer,Madhya Pradesh,Bhopal,2023-11-17,Retail,1
+C00341,Irfan Iyer,Female,29,Consumer,Tamil Nadu,Madurai,2024-02-02,Retail,1
+C00342,Priya Choudhary,Male,36,Consumer,Maharashtra,Nashik,2023-08-11,Retail,1
+C00343,Priya Patel,Female,39,Consumer,Delhi,New Delhi,2025-07-29,Online,1
+C00344,Diya Patel,Male,27,Consumer,Tamil Nadu,Chennai,2023-12-27,Retail,1
+C00345,Isha Joshi,Female,31,Consumer,Maharashtra,Pune,2024-05-16,Retail,1
+C00346,Priya Banerjee,Female,42,Consumer,Gujarat,Ahmedabad,2024-06-19,Online,1
+C00347,Aditya Das,Male,22,SMB,Tamil Nadu,Chennai,2023-08-09,Online,1
+C00348,Ananya Khan,Female,48,Corporate,Madhya Pradesh,Bhopal,2024-07-21,Retail,1
+C00349,Zoya Sharma,Male,20,Consumer,Maharashtra,Nashik,2023-12-20,Online,0
+C00350,Sneha Banerjee,Female,29,Consumer,Telangana,Warangal,2023-01-11,Retail,1
+C00351,Vivaan Gupta,Female,23,Consumer,Madhya Pradesh,Bhopal,2024-02-13,Retail,1
+C00352,Neha Mehta,Male,52,Consumer,Rajasthan,Udaipur,2024-08-06,Online,1
+C00353,Arjun Gupta,Female,27,Consumer,Madhya Pradesh,Bhopal,2023-04-28,Online,1
+C00354,Rohan Iyer,Male,27,Consumer,Karnataka,Mangaluru,2025-02-18,B2B,1
+C00355,Kabir Joshi,Female,29,Consumer,Rajasthan,Udaipur,2024-10-22,Retail,1
+C00356,Zoya Nair,Female,33,Consumer,Madhya Pradesh,Bhopal,2023-11-06,Retail,1
+C00357,Neha Das,Male,29,Consumer,Gujarat,Ahmedabad,2024-08-15,Retail,1
+C00358,Irfan Das,Female,31,SMB,Tamil Nadu,Madurai,2023-10-31,Retail,1
+C00359,Irfan Das,Male,18,Corporate,Telangana,Warangal,2024-10-09,B2B,1
+C00360,Kabir Singh,Male,33,Consumer,Tamil Nadu,Madurai,2023-06-03,Retail,1
+C00361,Isha Jain,Female,32,Consumer,Delhi,New Delhi,2024-09-02,Online,1
+C00362,Ananya Joshi,Male,41,Consumer,Madhya Pradesh,Indore,2023-02-25,Online,1
+C00363,Ananya Gupta,Female,44,Corporate,Madhya Pradesh,Indore,2023-01-17,Online,1
+C00364,Diya Iyer,Male,30,Consumer,Gujarat,Ahmedabad,2023-09-12,Retail,1
+C00365,Sai Joshi,Female,39,Consumer,Rajasthan,Udaipur,2023-06-24,Online,1
+C00366,Ananya Mehta,Female,22,Consumer,Gujarat,Vadodara,2024-05-05,Retail,1
+C00367,Meera Kulkarni,Male,39,SMB,Uttar Pradesh,Kanpur,2023-06-15,B2B,1
+C00368,Sai Jain,Male,27,Consumer,Telangana,Warangal,2023-09-02,Online,1
+C00369,Ananya Reddy,Male,21,Consumer,Tamil Nadu,Coimbatore,2023-04-08,Online,1
+C00370,Neha Kulkarni,Female,30,Consumer,Karnataka,Mangaluru,2025-06-05,Retail,1
+C00371,Ananya Singh,Male,45,Consumer,West Bengal,Siliguri,2025-01-05,Online,1
+C00372,Aditya Khan,Male,34,Consumer,Gujarat,Ahmedabad,2023-08-06,Retail,1
+C00373,Aarav Joshi,Female,45,Consumer,Delhi,New Delhi,2023-05-01,Online,1
+C00374,Kavya Choudhary,Male,25,Consumer,Karnataka,Mangaluru,2025-04-30,Online,1
+C00375,Rahul Banerjee,Male,41,Consumer,Madhya Pradesh,Indore,2024-10-30,Retail,1
+C00376,Rohan Reddy,Male,26,Consumer,Karnataka,Mysuru,2025-06-04,Online,1
+C00377,Vivaan Gupta,Male,34,Corporate,Uttar Pradesh,Kanpur,2023-06-28,Online,1
+C00378,Meera Das,Female,34,Consumer,Rajasthan,Udaipur,2023-12-25,Online,1
+C00379,Sai Patel,Female,38,Consumer,Maharashtra,Nashik,2023-04-29,Online,1
+C00380,Ananya Joshi,Female,34,Consumer,Telangana,Hyderabad,2024-02-28,Retail,1
+C00381,Rahul Reddy,Female,25,Consumer,Telangana,Warangal,2023-06-12,Online,1
+C00382,Irfan Patel,Male,40,Consumer,Gujarat,Vadodara,2023-01-05,Online,1
+C00383,Neha Singh,Male,48,SMB,West Bengal,Siliguri,2024-05-23,Online,1
+C00384,Riya Joshi,Female,27,Consumer,Tamil Nadu,Madurai,2025-09-06,Online,1
+C00385,Meera Iyer,Female,18,Corporate,Tamil Nadu,Coimbatore,2024-10-07,Online,0
+C00386,Rahul Reddy,Female,36,Consumer,Tamil Nadu,Madurai,2025-01-26,Retail,1
+C00387,Rohan Choudhary,Male,29,Consumer,Rajasthan,Jaipur,2025-03-22,Online,1
+C00388,Meera Joshi,Female,31,Consumer,West Bengal,Siliguri,2025-08-30,Retail,1
+C00389,Vivaan Nair,Female,37,Consumer,Gujarat,Ahmedabad,2023-05-09,Online,1
+C00390,Sneha Reddy,Female,28,Consumer,Madhya Pradesh,Indore,2023-09-08,Online,1
+C00391,Irfan Das,Female,30,Consumer,Rajasthan,Jaipur,2024-09-08,Online,1
+C00392,Diya Das,Male,31,Consumer,Madhya Pradesh,Bhopal,2025-04-01,Retail,1
+C00393,Sai Reddy,Male,45,Consumer,Uttar Pradesh,Lucknow,2025-02-12,B2B,1
+C00394,Sneha Khan,Male,32,Consumer,Gujarat,Ahmedabad,2024-12-28,Online,1
+C00395,Sneha Sharma,Male,21,Corporate,Uttar Pradesh,Kanpur,2023-11-09,B2B,1
+C00396,Isha Jain,Female,21,Consumer,Gujarat,Surat,2023-12-31,Online,1
+C00397,Arjun Singh,Male,33,Consumer,Delhi,New Delhi,2023-03-21,Retail,1
+C00398,Kavya Das,Male,22,Consumer,Tamil Nadu,Chennai,2023-11-10,Retail,1
+C00399,Kabir Singh,Male,18,Consumer,Madhya Pradesh,Indore,2023-06-05,Online,1
+C00400,Rahul Reddy,Female,38,Consumer,Telangana,Hyderabad,2025-07-27,Online,1
+C00401,Riya Choudhary,Female,38,Consumer,Gujarat,Vadodara,2023-04-02,Online,1
+C00402,Meera Das,Male,29,Consumer,Tamil Nadu,Coimbatore,2023-12-30,Retail,1
+C00403,Aditya Das,Female,35,SMB,Delhi,New Delhi,2025-06-06,Online,1
+C00404,Kabir Das,Male,34,Consumer,West Bengal,Siliguri,2025-08-13,Retail,1
+C00405,Diya Khan,Male,37,Consumer,Gujarat,Ahmedabad,2024-01-12,Online,1
+C00406,Arjun Khan,Male,37,Consumer,Telangana,Hyderabad,2024-04-10,Retail,1
+C00407,Kavya Khan,Female,18,Consumer,Gujarat,Ahmedabad,2024-06-07,Online,1
+C00408,Ananya Iyer,Female,30,Consumer,Gujarat,Surat,2025-04-02,Retail,1
+C00409,Arjun Khan,Female,37,Consumer,Madhya Pradesh,Bhopal,2025-02-07,Online,1
+C00410,Sneha Iyer,Male,28,Consumer,Gujarat,Vadodara,2024-06-08,Online,1
+C00411,Sneha Banerjee,Female,32,Consumer,Maharashtra,Pune,2024-01-07,Online,1
+C00412,Priya Kulkarni,Female,39,Consumer,Gujarat,Vadodara,2024-01-08,Retail,1
+C00413,Sai Nair,Male,33,SMB,Telangana,Warangal,2024-10-11,Online,1
+C00414,Vihaan Kulkarni,Male,46,Consumer,Maharashtra,Pune,2025-04-15,Retail,1
+C00415,Kabir Jain,Male,42,Consumer,Gujarat,Vadodara,2023-03-18,B2B,1
+C00416,Kabir Nair,Female,31,SMB,Karnataka,Mysuru,2025-02-07,Online,1
+C00417,Kabir Jain,Male,30,Consumer,Telangana,Hyderabad,2024-04-25,Online,1
+C00418,Kavya Gupta,Male,18,Consumer,Uttar Pradesh,Kanpur,2023-05-26,Online,1
+C00419,Priya Patel,Female,29,Consumer,Madhya Pradesh,Bhopal,2023-04-07,Online,1
+C00420,Rohan Gupta,Female,20,SMB,Gujarat,Ahmedabad,2023-12-04,Online,1
+C00421,Rohan Joshi,Female,34,Consumer,Rajasthan,Udaipur,2023-09-06,Retail,0
+C00422,Kavya Mehta,Female,33,Consumer,Delhi,New Delhi,2023-04-15,Online,1
+C00423,Neha Joshi,Male,38,SMB,Uttar Pradesh,Kanpur,2023-10-21,Online,1
+C00424,Aarav Banerjee,Female,45,Consumer,Telangana,Warangal,2025-04-13,Retail,1
+C00425,Kabir Iyer,Male,32,SMB,Uttar Pradesh,Lucknow,2024-12-18,Online,1
+C00426,Sneha Reddy,Male,53,SMB,Uttar Pradesh,Noida,2023-07-29,Retail,1
+C00427,Meera Das,Female,34,SMB,Telangana,Warangal,2024-11-05,B2B,1
+C00428,Riya Khan,Male,20,Consumer,Delhi,New Delhi,2024-03-27,Online,1
+C00429,Kabir Mehta,Male,27,Consumer,Telangana,Warangal,2025-01-17,Online,1
+C00430,Meera Sharma,Female,29,Consumer,Rajasthan,Udaipur,2023-09-05,Retail,1
+C00431,Isha Choudhary,Male,37,Consumer,Madhya Pradesh,Bhopal,2023-03-03,Retail,1
+C00432,Sneha Patel,Male,23,Consumer,Madhya Pradesh,Bhopal,2023-11-09,Retail,1
+C00433,Vivaan Patel,Female,29,SMB,Karnataka,Mangaluru,2025-09-20,Retail,1
+C00434,Irfan Khan,Female,31,Consumer,Telangana,Warangal,2024-07-09,Online,1
+C00435,Vihaan Choudhary,Female,28,Consumer,Karnataka,Bengaluru,2023-02-24,Online,1
+C00436,Arjun Jain,Male,39,Consumer,West Bengal,Kolkata,2025-09-02,Retail,1
+C00437,Kabir Choudhary,Female,38,Consumer,Madhya Pradesh,Bhopal,2025-04-05,Retail,1
+C00438,Kabir Jain,Female,42,Consumer,Maharashtra,Nashik,2024-06-27,Retail,1
+C00439,Rahul Choudhary,Male,29,Consumer,West Bengal,Siliguri,2025-01-10,Online,1
+C00440,Sai Das,Male,43,Corporate,Madhya Pradesh,Indore,2023-07-04,Retail,1
+C00441,Aarav Sharma,Male,20,Consumer,Rajasthan,Udaipur,2024-08-14,Online,1
+C00442,Sai Reddy,Female,20,Consumer,Gujarat,Ahmedabad,2025-07-01,Online,1
+C00443,Riya Iyer,Male,21,Consumer,Karnataka,Mysuru,2024-03-14,Online,1
+C00444,Diya Iyer,Female,32,Consumer,Madhya Pradesh,Indore,2023-02-08,Online,1
+C00445,Sai Joshi,Female,43,Corporate,Madhya Pradesh,Indore,2025-01-27,Retail,1
+C00446,Rahul Khan,Male,27,SMB,Telangana,Warangal,2024-12-31,Online,1
+C00447,Meera Gupta,Female,28,Consumer,Madhya Pradesh,Bhopal,2025-01-09,Retail,1
+C00448,Rohan Kulkarni,Male,30,Corporate,Maharashtra,Pune,2024-10-10,Online,1
+C00449,Neha Sharma,Male,37,Consumer,West Bengal,Siliguri,2023-05-18,Online,1
+C00450,Isha Joshi,Female,28,Consumer,Maharashtra,Mumbai,2023-04-25,Online,1
+C00451,Neha Nair,Male,27,SMB,Madhya Pradesh,Indore,2025-03-03,Online,1
+C00452,Sneha Singh,Female,20,Consumer,West Bengal,Siliguri,2025-05-05,Retail,1
+C00453,Neha Sharma,Female,27,Consumer,Madhya Pradesh,Indore,2023-03-20,Online,0
+C00454,Sai Nair,Male,43,Consumer,Telangana,Warangal,2024-08-04,Online,1
+C00455,Kavya Reddy,Male,33,Consumer,Maharashtra,Mumbai,2024-05-15,Online,1
+C00456,Arjun Iyer,Male,25,Consumer,Maharashtra,Mumbai,2023-12-17,Online,1
+C00457,Vivaan Banerjee,Female,43,Consumer,Gujarat,Surat,2024-10-07,Online,1
+C00458,Isha Jain,Female,27,Consumer,Uttar Pradesh,Kanpur,2025-07-03,B2B,1
+C00459,Riya Reddy,Male,45,Consumer,Karnataka,Mysuru,2025-04-01,Online,1
+C00460,Priya Reddy,Female,45,SMB,Rajasthan,Jaipur,2023-06-03,Online,1
+C00461,Sai Choudhary,Female,33,Consumer,Delhi,New Delhi,2024-04-08,Retail,1
+C00462,Sai Khan,Female,19,SMB,Tamil Nadu,Madurai,2025-07-24,Retail,1
+C00463,Rahul Reddy,Male,53,Consumer,Delhi,New Delhi,2023-08-25,Online,1
+C00464,Sai Singh,Male,35,Consumer,Tamil Nadu,Coimbatore,2025-05-04,Retail,1
+C00465,Kavya Kulkarni,Male,29,Consumer,Tamil Nadu,Chennai,2024-05-05,B2B,1
+C00466,Sai Gupta,Male,41,Corporate,Maharashtra,Nagpur,2024-06-05,Online,1
+C00467,Aditya Patel,Male,38,Consumer,Telangana,Hyderabad,2023-09-08,Online,1
+C00468,Vivaan Gupta,Male,44,SMB,Uttar Pradesh,Kanpur,2025-07-08,Retail,1
+C00469,Arjun Kulkarni,Male,26,Consumer,Madhya Pradesh,Indore,2024-06-12,Retail,0
+C00470,Irfan Jain,Male,35,Consumer,Gujarat,Surat,2024-07-28,B2B,1
+C00471,Priya Kulkarni,Male,21,Consumer,Rajasthan,Udaipur,2024-04-07,Online,1
+C00472,Rohan Khan,Female,38,Consumer,Rajasthan,Jaipur,2023-03-31,B2B,1
+C00473,Sneha Jain,Female,32,Consumer,Madhya Pradesh,Indore,2025-02-19,Online,1
+C00474,Aarav Kulkarni,Male,35,Consumer,Gujarat,Ahmedabad,2023-11-25,Retail,1
+C00475,Aditya Choudhary,Male,31,Consumer,Rajasthan,Udaipur,2023-08-29,Retail,1
+C00476,Rahul Patel,Male,30,Consumer,Telangana,Warangal,2025-02-21,Online,1
+C00477,Meera Sharma,Female,24,Consumer,Maharashtra,Nashik,2023-07-19,Online,1
+C00478,Kabir Choudhary,Female,39,Consumer,Delhi,New Delhi,2024-11-13,Retail,1
+C00479,Ananya Patel,Male,45,Consumer,West Bengal,Kolkata,2024-04-19,Retail,1
+C00480,Irfan Sharma,Female,27,Consumer,Karnataka,Bengaluru,2025-03-10,Online,1
+C00481,Kabir Mehta,Female,37,Consumer,Tamil Nadu,Coimbatore,2023-02-20,Retail,1
+C00482,Sai Gupta,Female,36,Consumer,Uttar Pradesh,Kanpur,2025-02-13,Online,1
+C00483,Kabir Das,Male,32,Consumer,Karnataka,Mangaluru,2023-08-18,Online,1
+C00484,Aarav Reddy,Male,18,SMB,Tamil Nadu,Chennai,2025-05-20,Online,1
+C00485,Arjun Gupta,Female,20,Consumer,Delhi,New Delhi,2023-12-20,Retail,1
+C00486,Arjun Das,Male,25,Consumer,Telangana,Hyderabad,2023-01-07,Online,1
+C00487,Kavya Iyer,Female,18,SMB,Delhi,New Delhi,2024-05-02,Retail,1
+C00488,Neha Iyer,Female,45,Consumer,Madhya Pradesh,Indore,2023-02-24,Online,1
+C00489,Vivaan Iyer,Male,35,Consumer,Maharashtra,Pune,2023-09-27,Retail,1
+C00490,Rahul Patel,Male,32,SMB,Madhya Pradesh,Indore,2024-12-17,Retail,1
+C00491,Irfan Das,Male,18,SMB,Uttar Pradesh,Kanpur,2024-07-14,Online,1
+C00492,Isha Singh,Male,18,Consumer,Rajasthan,Jaipur,2024-12-09,Online,1
+C00493,Arjun Sharma,Female,32,Consumer,Rajasthan,Udaipur,2025-05-28,Online,1
+C00494,Isha Reddy,Female,50,Consumer,Karnataka,Mysuru,2024-04-13,Online,1
+C00495,Meera Nair,Male,26,SMB,Madhya Pradesh,Bhopal,2024-06-27,Retail,1
+C00496,Kabir Sharma,Female,40,SMB,Telangana,Warangal,2023-02-28,Retail,1
+C00497,Ananya Gupta,Male,28,Consumer,Madhya Pradesh,Indore,2023-10-14,Online,1
+C00498,Aditya Banerjee,Female,32,Consumer,Rajasthan,Udaipur,2024-12-25,Retail,1
+C00499,Kabir Reddy,Male,43,Consumer,Telangana,Hyderabad,2023-03-03,Online,1
+C00500,Neha Sharma,Female,29,Consumer,Gujarat,Surat,2023-12-26,Online,0
+C00501,Sai Das,Female,26,Consumer,Karnataka,Mangaluru,2023-05-17,Online,1
+C00502,Kabir Reddy,Male,45,Consumer,Karnataka,Mysuru,2025-05-07,Online,1
+C00503,Meera Iyer,Female,32,Consumer,Gujarat,Ahmedabad,2024-07-15,Retail,0
+C00504,Riya Patel,Female,42,Consumer,Rajasthan,Jaipur,2024-10-06,Online,1
+C00505,Aarav Choudhary,Male,26,Consumer,Telangana,Hyderabad,2024-11-14,Retail,1
+C00506,Ananya Jain,Female,45,Consumer,Tamil Nadu,Chennai,2023-08-13,Online,1
+C00507,Diya Joshi,Female,34,Consumer,Delhi,New Delhi,2023-02-19,Retail,1
+C00508,Irfan Sharma,Female,36,Consumer,Telangana,Warangal,2024-02-02,Online,1
+C00509,Irfan Choudhary,Male,33,SMB,West Bengal,Kolkata,2023-07-05,Online,1
+C00510,Zoya Das,Female,27,Consumer,Madhya Pradesh,Indore,2023-11-18,Online,1
+C00511,Priya Das,Other,32,Consumer,Uttar Pradesh,Noida,2023-11-16,Online,1
+C00512,Ananya Choudhary,Female,28,Consumer,West Bengal,Kolkata,2025-02-21,Online,1
+C00513,Priya Reddy,Male,41,Consumer,Madhya Pradesh,Bhopal,2023-11-16,Online,1
+C00514,Kavya Iyer,Male,30,Consumer,Tamil Nadu,Coimbatore,2023-06-01,Retail,1
+C00515,Kabir Iyer,Female,19,Consumer,Madhya Pradesh,Indore,2025-08-16,Online,1
+C00516,Kabir Choudhary,Male,18,Consumer,Gujarat,Surat,2023-02-19,Retail,1
+C00517,Isha Singh,Male,18,Consumer,Karnataka,Mysuru,2023-07-23,Retail,1
+C00518,Rohan Singh,Male,38,Consumer,Tamil Nadu,Coimbatore,2023-12-14,Online,1
+C00519,Zoya Singh,Female,22,Consumer,Karnataka,Mangaluru,2023-03-04,Retail,1
+C00520,Rohan Iyer,Male,35,Consumer,Karnataka,Mysuru,2025-06-18,Online,1
+C00521,Isha Reddy,Female,33,Consumer,Rajasthan,Udaipur,2023-12-20,Retail,1
+C00522,Irfan Banerjee,Female,31,Consumer,Uttar Pradesh,Noida,2025-02-21,Retail,1
+C00523,Rahul Khan,Female,36,Consumer,Delhi,New Delhi,2023-05-15,Retail,1
+C00524,Kavya Banerjee,Female,33,Consumer,Rajasthan,Udaipur,2024-06-05,Online,1
+C00525,Zoya Gupta,Male,18,Consumer,Maharashtra,Mumbai,2023-05-07,Retail,1
+C00526,Sai Gupta,Female,29,Consumer,Delhi,New Delhi,2023-08-20,Online,1
+C00527,Isha Sharma,Male,36,SMB,Uttar Pradesh,Noida,2024-02-12,Online,1
+C00528,Arjun Mehta,Other,47,SMB,Gujarat,Ahmedabad,2025-05-12,Online,1
+C00529,Diya Gupta,Male,47,SMB,Uttar Pradesh,Kanpur,2023-11-03,Online,1
+C00530,Neha Reddy,Female,20,Consumer,Rajasthan,Udaipur,2025-01-24,Retail,1
+C00531,Rohan Singh,Female,29,Consumer,Maharashtra,Nashik,2023-04-02,Retail,1
+C00532,Aarav Mehta,Male,18,Consumer,Maharashtra,Nashik,2023-09-09,Online,1
+C00533,Kavya Banerjee,Female,46,Consumer,Madhya Pradesh,Indore,2024-08-27,Retail,1
+C00534,Vihaan Singh,Male,41,Consumer,Telangana,Hyderabad,2024-04-13,Retail,1
+C00535,Vihaan Khan,Male,35,Consumer,Telangana,Warangal,2024-05-16,B2B,1
+C00536,Riya Joshi,Male,33,Consumer,Tamil Nadu,Coimbatore,2024-11-09,Retail,1
+C00537,Arjun Sharma,Male,44,Consumer,Tamil Nadu,Chennai,2023-03-19,Online,1
+C00538,Sneha Jain,Female,43,Consumer,West Bengal,Kolkata,2024-11-26,Online,1
+C00539,Aditya Gupta,Female,42,Consumer,Telangana,Warangal,2025-05-12,Retail,1
+C00540,Vihaan Joshi,Male,36,Consumer,Karnataka,Mysuru,2025-02-05,Online,1
+C00541,Kavya Khan,Female,29,SMB,West Bengal,Kolkata,2023-10-12,Retail,1
+C00542,Sai Reddy,Female,39,Consumer,West Bengal,Siliguri,2023-12-17,Retail,1
+C00543,Neha Joshi,Female,39,Consumer,Karnataka,Bengaluru,2025-08-19,B2B,1
+C00544,Rohan Mehta,Male,30,Consumer,Gujarat,Surat,2025-02-28,Online,1
+C00545,Vihaan Sharma,Female,29,Consumer,Uttar Pradesh,Lucknow,2025-07-20,Retail,1
+C00546,Meera Sharma,Male,42,Consumer,West Bengal,Siliguri,2025-07-02,Retail,1
+C00547,Riya Banerjee,Female,47,Consumer,Karnataka,Mysuru,2024-03-10,Online,1
+C00548,Vivaan Das,Female,25,Consumer,Maharashtra,Nashik,2023-05-10,Online,1
+C00549,Kavya Jain,Female,30,Consumer,Telangana,Hyderabad,2023-08-17,Online,1
+C00550,Zoya Patel,Male,35,Consumer,Tamil Nadu,Chennai,2023-10-22,Online,1
+C00551,Rahul Das,Male,36,SMB,Madhya Pradesh,Indore,2025-04-14,B2B,1
+C00552,Vivaan Singh,Female,27,Consumer,Telangana,Hyderabad,2023-10-04,Retail,1
+C00553,Vihaan Choudhary,Male,49,Consumer,Madhya Pradesh,Indore,2023-12-28,Online,1
+C00554,Irfan Joshi,Male,36,Consumer,Delhi,New Delhi,2025-05-01,Online,1
+C00555,Ananya Mehta,Female,37,Consumer,Tamil Nadu,Chennai,2023-06-13,Online,1
+C00556,Kabir Gupta,Female,48,Consumer,Karnataka,Mysuru,2024-10-25,Online,1
+C00557,Ananya Banerjee,Male,28,Consumer,Telangana,Warangal,2024-07-05,Online,1
+C00558,Arjun Gupta,Male,31,Corporate,Karnataka,Mangaluru,2025-09-11,Retail,1
+C00559,Kabir Gupta,Female,21,Consumer,Tamil Nadu,Coimbatore,2024-05-04,Retail,1
+C00560,Arjun Joshi,Male,30,Consumer,Gujarat,Vadodara,2024-06-05,Retail,1
+C00561,Aditya Banerjee,Male,19,Consumer,Karnataka,Mangaluru,2025-04-30,Retail,1
+C00562,Riya Jain,Male,39,SMB,Maharashtra,Nagpur,2025-09-18,Online,1
+C00563,Vihaan Khan,Male,36,Corporate,Telangana,Warangal,2024-12-30,Retail,1
+C00564,Vihaan Jain,Other,30,SMB,Madhya Pradesh,Indore,2024-11-29,Online,1
+C00565,Kavya Kulkarni,Male,31,Consumer,Karnataka,Mangaluru,2025-05-26,Online,1
+C00566,Riya Iyer,Male,39,Consumer,Tamil Nadu,Chennai,2025-09-06,Online,1
+C00567,Riya Banerjee,Male,22,Consumer,Delhi,New Delhi,2025-01-04,Online,0
+C00568,Aditya Banerjee,Male,34,SMB,Rajasthan,Udaipur,2023-10-20,Online,1
+C00569,Vihaan Kulkarni,Male,38,Consumer,Tamil Nadu,Madurai,2024-10-04,Online,1
+C00570,Diya Sharma,Other,18,Consumer,Madhya Pradesh,Indore,2023-08-25,Online,0
+C00571,Diya Iyer,Female,38,Consumer,Delhi,New Delhi,2024-05-15,B2B,1
+C00572,Priya Singh,Male,18,Consumer,Maharashtra,Mumbai,2024-03-20,Online,1
+C00573,Aditya Sharma,Male,31,Consumer,Telangana,Hyderabad,2025-09-14,Online,1
+C00574,Zoya Iyer,Male,22,Consumer,West Bengal,Kolkata,2024-07-08,B2B,1
+C00575,Diya Khan,Male,45,Consumer,Madhya Pradesh,Bhopal,2025-08-17,Retail,1
+C00576,Irfan Banerjee,Female,22,SMB,Rajasthan,Udaipur,2025-03-19,Online,1
+C00577,Isha Kulkarni,Male,18,Consumer,Rajasthan,Udaipur,2025-04-28,Retail,1
+C00578,Priya Kulkarni,Female,33,Corporate,West Bengal,Siliguri,2023-06-19,Online,1
+C00579,Aditya Reddy,Female,28,Consumer,Gujarat,Surat,2025-02-14,Online,1
+C00580,Rohan Sharma,Male,18,Corporate,Tamil Nadu,Coimbatore,2023-09-09,Online,1
+C00581,Vivaan Singh,Female,37,Consumer,Karnataka,Mangaluru,2024-07-31,Online,1
+C00582,Neha Choudhary,Male,18,SMB,Tamil Nadu,Madurai,2024-05-01,Retail,1
+C00583,Zoya Jain,Male,23,Consumer,Gujarat,Surat,2023-09-17,Online,1
+C00584,Diya Iyer,Female,27,Consumer,Maharashtra,Pune,2025-09-11,Retail,1
+C00585,Zoya Sharma,Male,39,Consumer,Delhi,New Delhi,2025-05-25,Retail,1
+C00586,Rohan Nair,Female,44,Consumer,Telangana,Warangal,2024-07-28,B2B,1
+C00587,Aarav Jain,Female,42,Consumer,Gujarat,Vadodara,2023-01-11,Online,1
+C00588,Arjun Choudhary,Male,31,Consumer,Madhya Pradesh,Indore,2023-07-03,Online,1
+C00589,Kabir Singh,Female,18,SMB,Tamil Nadu,Chennai,2023-08-16,B2B,1
+C00590,Neha Das,Male,36,Consumer,Madhya Pradesh,Indore,2025-08-29,Retail,1
+C00591,Vivaan Nair,Female,45,Consumer,West Bengal,Kolkata,2024-02-08,Online,0
+C00592,Rohan Joshi,Male,43,Consumer,Maharashtra,Pune,2023-02-16,Online,1
+C00593,Irfan Nair,Male,36,Corporate,Delhi,New Delhi,2024-08-09,Retail,1
+C00594,Vivaan Gupta,Male,21,SMB,Uttar Pradesh,Noida,2025-08-08,Retail,1
+C00595,Zoya Choudhary,Female,27,Consumer,Telangana,Warangal,2024-07-14,Retail,1
+C00596,Riya Sharma,Male,49,SMB,Gujarat,Ahmedabad,2024-03-20,Retail,1
+C00597,Kabir Patel,Female,19,Consumer,Telangana,Warangal,2023-06-25,Online,1
+C00598,Vivaan Mehta,Male,22,Corporate,Madhya Pradesh,Bhopal,2025-05-28,Online,1
+C00599,Kabir Singh,Male,40,SMB,Gujarat,Ahmedabad,2023-04-15,Retail,1
+C00600,Priya Singh,Male,28,Consumer,Maharashtra,Pune,2025-07-22,Retail,1
+C00601,Diya Choudhary,Male,21,Consumer,Gujarat,Ahmedabad,2023-08-11,Online,1
+C00602,Kavya Choudhary,Female,46,Consumer,Madhya Pradesh,Bhopal,2023-05-19,Retail,1
+C00603,Arjun Joshi,Male,36,Consumer,Uttar Pradesh,Kanpur,2023-12-15,Online,1
+C00604,Vivaan Khan,Female,29,Corporate,Rajasthan,Udaipur,2023-01-05,Online,1
+C00605,Priya Patel,Female,22,Consumer,Madhya Pradesh,Bhopal,2023-01-15,Retail,1
+C00606,Neha Khan,Male,50,Consumer,Karnataka,Mysuru,2023-07-06,Online,1
+C00607,Aditya Mehta,Female,32,SMB,Delhi,New Delhi,2024-11-23,Online,1
+C00608,Sneha Joshi,Female,45,Consumer,Maharashtra,Pune,2025-03-25,Retail,1
+C00609,Rohan Nair,Female,40,Consumer,Maharashtra,Nashik,2023-09-05,Online,1
+C00610,Rahul Patel,Female,27,Consumer,Rajasthan,Jaipur,2024-10-06,Online,1
+C00611,Priya Gupta,Female,27,Consumer,Madhya Pradesh,Indore,2023-12-18,Retail,1
+C00612,Aditya Kulkarni,Female,45,Consumer,Karnataka,Bengaluru,2024-03-08,Online,0
+C00613,Vihaan Mehta,Male,45,Consumer,Uttar Pradesh,Noida,2023-12-01,Retail,1
+C00614,Riya Sharma,Female,18,Consumer,Telangana,Hyderabad,2025-06-10,Online,1
+C00615,Meera Jain,Male,37,Consumer,Maharashtra,Mumbai,2024-05-26,Online,1
+C00616,Neha Patel,Female,31,Consumer,Madhya Pradesh,Indore,2024-05-21,Retail,1
+C00617,Kavya Das,Female,23,Consumer,Rajasthan,Udaipur,2025-05-09,Online,1
+C00618,Kavya Choudhary,Female,34,Consumer,Telangana,Warangal,2024-10-19,Retail,1
+C00619,Meera Khan,Female,20,Consumer,Uttar Pradesh,Kanpur,2023-05-30,Retail,1
+C00620,Aarav Joshi,Female,28,Consumer,Gujarat,Vadodara,2023-07-08,Retail,1
+C00621,Riya Singh,Female,25,Corporate,Uttar Pradesh,Kanpur,2023-12-07,Online,1
+C00622,Irfan Jain,Male,28,Consumer,Tamil Nadu,Coimbatore,2023-04-08,Online,1
+C00623,Irfan Singh,Male,31,Consumer,Madhya Pradesh,Bhopal,2024-11-23,Retail,1
+C00624,Irfan Jain,Male,23,SMB,Maharashtra,Nashik,2024-05-10,Online,1
+C00625,Aarav Reddy,Male,46,Consumer,Karnataka,Mangaluru,2023-02-14,Retail,1
+C00626,Isha Khan,Female,36,Consumer,Madhya Pradesh,Indore,2024-02-05,Retail,1
+C00627,Kabir Joshi,Female,48,Consumer,Delhi,New Delhi,2025-04-09,Online,1
+C00628,Arjun Banerjee,Male,31,Consumer,Gujarat,Ahmedabad,2025-06-26,Online,1
+C00629,Isha Reddy,Male,27,Consumer,Uttar Pradesh,Noida,2025-08-19,Retail,1
+C00630,Vivaan Jain,Female,48,Corporate,Karnataka,Mangaluru,2025-07-11,Retail,1
+C00631,Vihaan Choudhary,Male,27,Corporate,Telangana,Warangal,2024-08-30,Online,1
+C00632,Aarav Mehta,Female,30,Consumer,Delhi,New Delhi,2025-07-16,Retail,1
+C00633,Sneha Nair,Other,38,Consumer,Karnataka,Mysuru,2025-08-14,Retail,1
+C00634,Zoya Singh,Male,21,Consumer,Madhya Pradesh,Indore,2024-09-27,Online,1
+C00635,Isha Jain,Male,38,Consumer,Karnataka,Mysuru,2024-02-18,Online,1
+C00636,Aarav Kulkarni,Male,37,Consumer,Maharashtra,Nagpur,2025-08-24,Retail,1
+C00637,Ananya Das,Male,43,Consumer,West Bengal,Siliguri,2024-02-20,Retail,1
+C00638,Isha Patel,Male,40,SMB,Rajasthan,Jaipur,2023-06-16,B2B,1
+C00639,Vihaan Khan,Male,44,Consumer,Karnataka,Mysuru,2023-04-17,Online,1
+C00640,Rohan Singh,Male,31,Consumer,Uttar Pradesh,Lucknow,2024-07-21,Retail,1
+C00641,Sneha Joshi,Male,24,Consumer,Telangana,Hyderabad,2023-02-05,Retail,1
+C00642,Irfan Sharma,Male,51,Consumer,Rajasthan,Udaipur,2023-04-29,Retail,1
+C00643,Zoya Patel,Female,18,SMB,Karnataka,Bengaluru,2023-09-02,Online,1
+C00644,Irfan Sharma,Male,19,Consumer,Madhya Pradesh,Bhopal,2024-06-13,Online,1
+C00645,Vivaan Das,Female,37,Consumer,West Bengal,Kolkata,2024-04-23,Online,1
+C00646,Meera Kulkarni,Male,47,Corporate,Rajasthan,Udaipur,2024-05-26,Online,1
+C00647,Meera Sharma,Male,34,SMB,Gujarat,Surat,2024-05-22,Online,1
+C00648,Aditya Nair,Male,41,Consumer,Madhya Pradesh,Bhopal,2025-09-21,Retail,1
+C00649,Aditya Das,Female,18,Consumer,West Bengal,Siliguri,2023-08-06,Online,1
+C00650,Meera Sharma,Male,28,Corporate,Karnataka,Mysuru,2024-04-19,B2B,1
+C00651,Neha Joshi,Male,18,Corporate,Madhya Pradesh,Bhopal,2024-09-04,Online,1
+C00652,Arjun Choudhary,Male,39,Consumer,Uttar Pradesh,Kanpur,2023-10-01,Retail,1
+C00653,Priya Reddy,Other,18,Corporate,Gujarat,Surat,2023-07-01,Online,1
+C00654,Vivaan Banerjee,Male,20,Consumer,Telangana,Hyderabad,2023-02-16,Retail,0
+C00655,Aditya Reddy,Male,37,Consumer,Gujarat,Surat,2023-11-23,Retail,1
+C00656,Meera Patel,Female,42,SMB,Telangana,Hyderabad,2023-09-12,Retail,1
+C00657,Meera Patel,Male,31,Consumer,Madhya Pradesh,Indore,2023-07-15,Online,1
+C00658,Kavya Patel,Male,37,Consumer,Rajasthan,Udaipur,2023-09-29,Online,0
+C00659,Rahul Gupta,Female,37,SMB,Delhi,New Delhi,2024-11-27,B2B,1
+C00660,Vihaan Kulkarni,Male,30,Corporate,Madhya Pradesh,Indore,2025-04-07,Online,1
+C00661,Ananya Reddy,Male,22,SMB,Tamil Nadu,Chennai,2024-05-31,Retail,1
+C00662,Zoya Das,Male,37,Consumer,Uttar Pradesh,Kanpur,2023-03-08,Online,1
+C00663,Vivaan Jain,Male,38,SMB,Uttar Pradesh,Noida,2025-01-06,Online,0
+C00664,Irfan Sharma,Female,40,Consumer,Tamil Nadu,Chennai,2023-06-01,Retail,1
+C00665,Rahul Choudhary,Female,35,Consumer,Tamil Nadu,Madurai,2023-02-27,Retail,1
+C00666,Vivaan Iyer,Female,21,Consumer,Tamil Nadu,Madurai,2024-07-22,Retail,1
+C00667,Aditya Banerjee,Male,38,Corporate,Rajasthan,Udaipur,2024-03-01,Online,1
+C00668,Rohan Khan,Female,32,SMB,Gujarat,Vadodara,2023-11-08,Retail,1
+C00669,Priya Patel,Female,28,Corporate,Delhi,New Delhi,2025-08-24,B2B,1
+C00670,Sneha Patel,Male,29,Consumer,Gujarat,Vadodara,2023-04-02,Online,1
+C00671,Riya Gupta,Female,26,Consumer,Karnataka,Mysuru,2023-02-23,Online,1
+C00672,Rohan Banerjee,Female,40,Consumer,Gujarat,Ahmedabad,2024-08-10,Online,1
+C00673,Arjun Reddy,Female,19,Consumer,Karnataka,Mangaluru,2024-02-23,Retail,1
+C00674,Ananya Khan,Male,23,Consumer,Maharashtra,Pune,2025-03-12,Online,1
+C00675,Vihaan Mehta,Male,29,Consumer,Uttar Pradesh,Lucknow,2023-02-10,Retail,1
+C00676,Aditya Das,Female,47,SMB,Maharashtra,Nashik,2024-02-24,Online,1
+C00677,Aditya Joshi,Female,41,Consumer,Telangana,Warangal,2023-05-27,Retail,1
+C00678,Zoya Nair,Male,18,Corporate,Uttar Pradesh,Noida,2023-02-11,Retail,1
+C00679,Vivaan Nair,Male,44,Consumer,Uttar Pradesh,Kanpur,2024-04-07,Online,1
+C00680,Riya Khan,Female,44,Consumer,Tamil Nadu,Madurai,2025-01-04,Online,1
+C00681,Riya Das,Male,21,Consumer,Karnataka,Mangaluru,2023-06-07,Online,1
+C00682,Vivaan Mehta,Male,18,Consumer,Madhya Pradesh,Indore,2025-04-22,Online,1
+C00683,Irfan Singh,Female,31,Consumer,Rajasthan,Udaipur,2024-06-02,Online,1
+C00684,Riya Banerjee,Male,42,Consumer,West Bengal,Kolkata,2024-04-25,Retail,1
+C00685,Aditya Banerjee,Male,46,Consumer,Maharashtra,Nashik,2025-07-11,Online,1
+C00686,Aditya Jain,Male,24,Consumer,Maharashtra,Mumbai,2023-11-26,Online,1
+C00687,Neha Iyer,Female,48,Consumer,Gujarat,Vadodara,2023-07-20,Online,1
+C00688,Kabir Das,Male,18,Consumer,Karnataka,Bengaluru,2025-02-25,Online,1
+C00689,Isha Jain,Female,29,Consumer,Rajasthan,Jaipur,2023-04-18,Retail,1
+C00690,Isha Gupta,Other,28,Consumer,Delhi,New Delhi,2025-05-22,Online,1
+C00691,Aarav Joshi,Female,42,Consumer,Delhi,New Delhi,2025-04-05,Online,1
+C00692,Aarav Iyer,Female,44,Consumer,Madhya Pradesh,Indore,2025-09-03,Online,1
+C00693,Riya Khan,Female,41,Consumer,Rajasthan,Udaipur,2024-04-05,B2B,1
+C00694,Diya Iyer,Male,20,Consumer,Delhi,New Delhi,2024-09-14,Retail,1
+C00695,Sai Choudhary,Female,40,SMB,Gujarat,Surat,2025-06-01,Online,1
+C00696,Diya Banerjee,Female,37,Consumer,Telangana,Warangal,2023-05-12,Retail,1
+C00697,Kabir Jain,Female,18,Consumer,West Bengal,Kolkata,2023-11-03,Retail,1
+C00698,Sai Gupta,Male,18,Consumer,Madhya Pradesh,Indore,2024-04-16,Retail,1
+C00699,Ananya Nair,Male,41,Consumer,Rajasthan,Udaipur,2024-09-19,Online,1
+C00700,Sai Iyer,Female,30,Consumer,Madhya Pradesh,Bhopal,2024-11-10,Retail,1
+C00701,Rohan Patel,Male,20,SMB,Maharashtra,Mumbai,2025-07-12,Retail,1
+C00702,Vivaan Iyer,Female,30,Consumer,Delhi,New Delhi,2024-05-04,Online,1
+C00703,Rahul Khan,Male,35,Consumer,Telangana,Hyderabad,2023-06-21,Online,1
+C00704,Meera Mehta,Female,31,Consumer,Maharashtra,Pune,2023-07-09,Online,1
+C00705,Arjun Joshi,Female,18,Consumer,Gujarat,Surat,2025-03-11,Online,1
+C00706,Kavya Sharma,Male,49,Consumer,Karnataka,Mysuru,2024-04-06,Online,1
+C00707,Rahul Patel,Male,41,Consumer,Madhya Pradesh,Indore,2024-09-23,Retail,1
+C00708,Vivaan Das,Female,29,Consumer,Maharashtra,Nashik,2024-07-16,Retail,1
+C00709,Arjun Patel,Male,29,SMB,Karnataka,Bengaluru,2025-03-23,Online,1
+C00710,Aditya Jain,Male,35,Consumer,Karnataka,Bengaluru,2023-08-07,Online,1
+C00711,Vivaan Reddy,Male,22,SMB,Karnataka,Mangaluru,2023-06-20,Retail,1
+C00712,Neha Reddy,Male,35,Consumer,Telangana,Warangal,2025-01-03,Online,1
+C00713,Vihaan Sharma,Female,20,Corporate,Gujarat,Surat,2024-03-10,Online,1
+C00714,Diya Joshi,Male,31,Consumer,Madhya Pradesh,Bhopal,2025-03-26,Retail,1
+C00715,Irfan Joshi,Male,21,Consumer,Delhi,New Delhi,2023-05-09,Online,1
+C00716,Kabir Nair,Female,22,SMB,Telangana,Hyderabad,2023-09-29,Online,1
+C00717,Rohan Singh,Male,47,Consumer,West Bengal,Siliguri,2025-08-18,Retail,1
+C00718,Vivaan Gupta,Male,33,SMB,West Bengal,Kolkata,2025-04-23,Retail,1
+C00719,Sneha Patel,Female,34,Corporate,Uttar Pradesh,Lucknow,2023-03-04,Online,1
+C00720,Vivaan Gupta,Female,18,Consumer,Delhi,New Delhi,2025-03-27,Retail,1
+C00721,Neha Singh,Female,27,Consumer,Telangana,Hyderabad,2023-03-07,Retail,1
+C00722,Kabir Patel,Female,36,Consumer,Rajasthan,Udaipur,2023-05-01,Online,1
+C00723,Isha Sharma,Male,34,SMB,Rajasthan,Udaipur,2025-06-17,Retail,1
+C00724,Irfan Iyer,Male,18,Corporate,West Bengal,Kolkata,2023-05-07,Online,1
+C00725,Zoya Patel,Female,34,Consumer,West Bengal,Siliguri,2023-10-28,Online,1
+C00726,Vivaan Sharma,Female,35,Consumer,Rajasthan,Udaipur,2023-05-16,Online,1
+C00727,Sneha Das,Female,44,Consumer,West Bengal,Kolkata,2024-08-20,Online,1
+C00728,Arjun Nair,Male,26,Consumer,Madhya Pradesh,Bhopal,2023-02-27,Online,1
+C00729,Kavya Das,Male,18,Consumer,Karnataka,Mysuru,2023-10-15,Retail,1
+C00730,Irfan Patel,Male,23,Corporate,Gujarat,Surat,2023-11-23,Online,1
+C00731,Meera Kulkarni,Female,22,Consumer,Karnataka,Mysuru,2024-10-10,Retail,1
+C00732,Zoya Sharma,Female,39,Corporate,Maharashtra,Pune,2024-05-11,Online,1
+C00733,Irfan Mehta,Male,18,Consumer,Tamil Nadu,Coimbatore,2023-07-12,Retail,1
+C00734,Riya Iyer,Male,28,Consumer,Delhi,New Delhi,2024-04-09,Online,1
+C00735,Vihaan Kulkarni,Male,45,Consumer,Tamil Nadu,Coimbatore,2024-04-03,Online,1
+C00736,Isha Choudhary,Male,32,SMB,Tamil Nadu,Coimbatore,2023-12-20,Retail,1
+C00737,Rahul Singh,Female,40,Consumer,West Bengal,Kolkata,2024-06-17,Retail,1
+C00738,Arjun Nair,Female,18,Consumer,Madhya Pradesh,Indore,2023-11-23,Online,1
+C00739,Sneha Kulkarni,Male,18,Consumer,Rajasthan,Jaipur,2023-11-30,Online,1
+C00740,Vihaan Choudhary,Female,45,Corporate,Gujarat,Surat,2025-02-22,Retail,1
+C00741,Rohan Joshi,Female,33,Consumer,Gujarat,Ahmedabad,2023-09-09,Retail,1
+C00742,Kabir Das,Male,33,Consumer,Uttar Pradesh,Noida,2023-11-26,Online,1
+C00743,Vihaan Singh,Male,22,Corporate,Karnataka,Bengaluru,2023-05-21,Retail,1
+C00744,Priya Mehta,Male,33,Corporate,Telangana,Warangal,2024-11-29,Online,1
+C00745,Aditya Khan,Male,22,Consumer,Tamil Nadu,Chennai,2024-12-07,Online,1
+C00746,Diya Iyer,Female,43,Consumer,Karnataka,Mysuru,2024-11-09,Retail,1
+C00747,Sneha Joshi,Female,57,Consumer,West Bengal,Siliguri,2023-06-18,B2B,1
+C00748,Vivaan Reddy,Male,36,Consumer,Gujarat,Vadodara,2024-03-27,Online,1
+C00749,Zoya Nair,Male,26,Consumer,Karnataka,Mangaluru,2023-10-20,Online,1
+C00750,Rohan Das,Female,18,Consumer,West Bengal,Siliguri,2025-02-02,Online,1
+C00751,Neha Sharma,Male,18,Consumer,Karnataka,Bengaluru,2023-12-03,Retail,1
+C00752,Sai Mehta,Female,46,Consumer,West Bengal,Kolkata,2024-02-20,Online,1
+C00753,Rahul Mehta,Female,23,Consumer,Karnataka,Mysuru,2024-03-30,Online,1
+C00754,Sai Kulkarni,Female,29,Consumer,Tamil Nadu,Madurai,2025-01-30,Online,1
+C00755,Riya Nair,Female,38,Consumer,Rajasthan,Udaipur,2024-12-03,Retail,1
+C00756,Aarav Kulkarni,Female,45,Consumer,Delhi,New Delhi,2025-03-30,Online,1
+C00757,Zoya Patel,Female,30,SMB,Uttar Pradesh,Kanpur,2024-03-03,Retail,1
+C00758,Neha Patel,Male,28,Consumer,Uttar Pradesh,Lucknow,2025-03-30,Online,1
+C00759,Vihaan Choudhary,Male,33,Consumer,Madhya Pradesh,Indore,2025-05-21,Online,1
+C00760,Rohan Kulkarni,Male,26,Consumer,Karnataka,Bengaluru,2024-06-07,Online,1
+C00761,Vihaan Reddy,Male,27,Consumer,Uttar Pradesh,Noida,2024-11-10,Online,1
+C00762,Isha Gupta,Male,36,Consumer,Madhya Pradesh,Bhopal,2025-06-28,Online,1
+C00763,Riya Nair,Male,34,Consumer,Uttar Pradesh,Lucknow,2025-04-18,Online,1
+C00764,Rahul Mehta,Male,51,SMB,Karnataka,Mangaluru,2023-10-04,Online,1
+C00765,Ananya Choudhary,Male,36,Consumer,Rajasthan,Udaipur,2024-12-17,Online,1
+C00766,Aarav Choudhary,Male,42,Consumer,Karnataka,Mysuru,2024-03-21,Online,1
+C00767,Isha Banerjee,Female,22,Consumer,Telangana,Hyderabad,2023-05-29,Online,1
+C00768,Rahul Gupta,Female,37,Consumer,Tamil Nadu,Madurai,2024-01-07,Online,1
+C00769,Kavya Singh,Female,25,SMB,Telangana,Warangal,2025-09-04,Online,1
+C00770,Vivaan Kulkarni,Female,36,Consumer,Telangana,Hyderabad,2025-08-15,Retail,1
+C00771,Vivaan Joshi,Female,38,Corporate,Maharashtra,Pune,2025-02-25,B2B,1
+C00772,Kavya Nair,Female,32,Corporate,Telangana,Hyderabad,2025-09-17,Retail,0
+C00773,Neha Iyer,Male,54,Consumer,Madhya Pradesh,Bhopal,2024-07-26,Online,1
+C00774,Meera Jain,Female,45,Consumer,Tamil Nadu,Chennai,2025-01-27,B2B,1
+C00775,Vivaan Gupta,Male,43,Consumer,Delhi,New Delhi,2023-06-15,B2B,1
+C00776,Sai Banerjee,Female,39,SMB,Madhya Pradesh,Bhopal,2023-10-26,Online,1
+C00777,Irfan Jain,Female,48,Consumer,Maharashtra,Pune,2023-06-22,Online,1
+C00778,Aditya Sharma,Male,19,Consumer,Tamil Nadu,Coimbatore,2025-07-26,Retail,1
+C00779,Arjun Kulkarni,Female,44,Corporate,Telangana,Hyderabad,2024-09-06,B2B,1
+C00780,Priya Kulkarni,Male,23,Corporate,Tamil Nadu,Madurai,2025-07-21,Retail,1
+C00781,Neha Jain,Male,27,Consumer,Madhya Pradesh,Indore,2024-02-21,Retail,1
+C00782,Irfan Joshi,Male,37,Consumer,Tamil Nadu,Madurai,2024-02-08,Retail,1
+C00783,Meera Sharma,Male,43,Consumer,Madhya Pradesh,Indore,2024-11-06,B2B,1
+C00784,Priya Jain,Male,22,Consumer,Maharashtra,Nashik,2024-07-21,Online,1
+C00785,Diya Iyer,Female,27,SMB,Uttar Pradesh,Lucknow,2024-01-08,Online,1
+C00786,Aarav Kulkarni,Female,33,Consumer,Telangana,Hyderabad,2023-11-14,Retail,1
+C00787,Sai Khan,Male,30,Consumer,Delhi,New Delhi,2024-05-27,Online,1
+C00788,Arjun Khan,Female,40,Corporate,Delhi,New Delhi,2023-03-17,Online,1
+C00789,Vivaan Das,Male,63,Consumer,Uttar Pradesh,Kanpur,2023-07-07,Online,1
+C00790,Neha Patel,Male,36,Consumer,West Bengal,Siliguri,2023-02-13,Online,1
+C00791,Diya Patel,Female,25,Consumer,West Bengal,Siliguri,2023-06-05,Online,1
+C00792,Riya Nair,Female,20,Consumer,Maharashtra,Mumbai,2023-07-18,Retail,1
+C00793,Arjun Kulkarni,Male,29,SMB,Telangana,Warangal,2023-03-17,Online,1
+C00794,Meera Mehta,Male,24,Consumer,Madhya Pradesh,Indore,2023-02-25,Retail,1
+C00795,Aditya Banerjee,Female,36,Consumer,Maharashtra,Nashik,2025-03-30,Online,1
+C00796,Rohan Sharma,Female,36,Consumer,Tamil Nadu,Madurai,2023-07-02,B2B,1
+C00797,Neha Nair,Male,28,SMB,Tamil Nadu,Madurai,2024-07-09,Retail,1
+C00798,Ananya Patel,Male,50,Consumer,Rajasthan,Udaipur,2023-04-09,B2B,1
+C00799,Arjun Nair,Male,25,SMB,Delhi,New Delhi,2025-08-05,Online,1
+C00800,Kavya Gupta,Female,31,SMB,Tamil Nadu,Madurai,2023-08-27,Online,1
+C00801,Arjun Khan,Female,38,Consumer,Uttar Pradesh,Noida,2025-01-19,Retail,1
+C00802,Vihaan Iyer,Female,40,Corporate,Maharashtra,Mumbai,2024-10-03,Retail,1
+C00803,Ananya Kulkarni,Male,43,Consumer,Rajasthan,Jaipur,2025-02-07,Online,1
+C00804,Sneha Joshi,Female,36,Consumer,Rajasthan,Udaipur,2024-09-21,Retail,0
+C00805,Priya Joshi,Female,41,Consumer,Uttar Pradesh,Kanpur,2024-05-24,Retail,1
+C00806,Sai Joshi,Male,26,Corporate,West Bengal,Siliguri,2025-02-11,Online,1
+C00807,Riya Sharma,Female,40,Corporate,Uttar Pradesh,Kanpur,2025-03-26,Retail,1
+C00808,Ananya Banerjee,Male,40,Corporate,Uttar Pradesh,Lucknow,2024-01-15,Online,1
+C00809,Rohan Reddy,Male,46,SMB,Madhya Pradesh,Indore,2025-07-31,Online,1
+C00810,Isha Patel,Female,18,Consumer,Tamil Nadu,Coimbatore,2025-09-14,Retail,1
+C00811,Meera Choudhary,Male,24,Corporate,Tamil Nadu,Madurai,2024-12-22,Online,1
+C00812,Isha Nair,Female,39,SMB,West Bengal,Kolkata,2025-07-17,Retail,1
+C00813,Priya Patel,Male,18,Consumer,Karnataka,Bengaluru,2023-04-16,Retail,1
+C00814,Isha Reddy,Male,36,Consumer,Rajasthan,Jaipur,2024-06-24,B2B,1
+C00815,Diya Choudhary,Male,42,Consumer,Uttar Pradesh,Lucknow,2024-10-13,Online,1
+C00816,Sneha Joshi,Female,27,SMB,West Bengal,Siliguri,2025-07-16,Online,1
+C00817,Sai Khan,Male,28,Consumer,Gujarat,Surat,2023-05-01,Online,1
+C00818,Irfan Joshi,Female,22,Consumer,Gujarat,Vadodara,2025-03-17,Retail,1
+C00819,Neha Khan,Male,27,Consumer,Tamil Nadu,Madurai,2023-03-19,Online,1
+C00820,Riya Kulkarni,Male,28,Consumer,West Bengal,Kolkata,2023-12-25,Retail,1
+C00821,Ananya Khan,Female,26,Consumer,Uttar Pradesh,Lucknow,2024-11-23,Online,1
+C00822,Priya Joshi,Male,25,Consumer,West Bengal,Kolkata,2023-10-18,Online,1
+C00823,Irfan Choudhary,Female,30,SMB,Madhya Pradesh,Indore,2025-04-14,Retail,1
+C00824,Vihaan Sharma,Male,29,Consumer,Madhya Pradesh,Bhopal,2025-07-19,Retail,1
+C00825,Meera Mehta,Male,49,SMB,Uttar Pradesh,Lucknow,2023-06-08,Online,1
+C00826,Kavya Iyer,Female,28,Consumer,Gujarat,Ahmedabad,2023-09-16,Retail,0
+C00827,Kabir Nair,Female,35,SMB,Telangana,Warangal,2023-03-16,Online,1
+C00828,Aditya Khan,Female,27,Consumer,Tamil Nadu,Madurai,2024-12-11,Retail,1
+C00829,Riya Kulkarni,Male,27,Consumer,West Bengal,Kolkata,2025-06-05,Online,1
+C00830,Vihaan Iyer,Male,18,Consumer,Rajasthan,Jaipur,2024-08-24,Online,0
+C00831,Rahul Choudhary,Female,18,Consumer,Gujarat,Surat,2023-05-13,Online,0
+C00832,Diya Patel,Female,21,Consumer,Telangana,Warangal,2023-06-23,Online,1
+C00833,Isha Singh,Female,34,Corporate,Maharashtra,Nashik,2023-02-05,Retail,1
+C00834,Zoya Patel,Female,42,Consumer,Uttar Pradesh,Noida,2024-05-04,Online,1
+C00835,Isha Singh,Female,18,Consumer,Tamil Nadu,Chennai,2024-12-22,Online,1
+C00836,Vihaan Nair,Male,27,Consumer,Tamil Nadu,Coimbatore,2023-05-31,Online,1
+C00837,Zoya Nair,Female,20,Consumer,Telangana,Warangal,2025-04-27,Online,1
+C00838,Kabir Sharma,Male,30,Consumer,Delhi,New Delhi,2023-09-10,Retail,0
+C00839,Kabir Nair,Male,42,Consumer,Telangana,Warangal,2024-05-29,Online,1
+C00840,Vivaan Gupta,Female,28,Consumer,Uttar Pradesh,Noida,2024-10-29,Retail,1
+C00841,Isha Joshi,Male,32,SMB,Gujarat,Vadodara,2024-06-23,Retail,1
+C00842,Priya Banerjee,Male,45,Consumer,Karnataka,Mangaluru,2024-04-22,Online,1
+C00843,Sai Patel,Female,36,Consumer,Gujarat,Ahmedabad,2023-12-03,Retail,1
+C00844,Meera Kulkarni,Female,25,Consumer,Karnataka,Mysuru,2024-03-06,Online,1
+C00845,Arjun Choudhary,Female,33,Consumer,Gujarat,Vadodara,2023-08-27,Online,1
+C00846,Priya Khan,Female,25,Consumer,West Bengal,Kolkata,2023-10-22,Online,1
+C00847,Irfan Iyer,Male,36,SMB,Karnataka,Mysuru,2025-01-25,Online,1
+C00848,Neha Singh,Female,37,Consumer,Uttar Pradesh,Lucknow,2025-06-01,Online,0
+C00849,Sai Banerjee,Male,20,Consumer,Delhi,New Delhi,2025-04-29,Online,1
+C00850,Arjun Gupta,Male,34,Corporate,Rajasthan,Jaipur,2023-11-27,Retail,1
+C00851,Aarav Kulkarni,Male,31,Consumer,Uttar Pradesh,Kanpur,2023-11-18,Online,1
+C00852,Ananya Nair,Male,37,Corporate,Delhi,New Delhi,2023-02-28,B2B,1
+C00853,Aarav Patel,Male,39,Consumer,Telangana,Warangal,2023-10-01,Online,1
+C00854,Aditya Gupta,Male,36,Consumer,Karnataka,Mangaluru,2024-08-08,Retail,1
+C00855,Sneha Gupta,Female,29,SMB,Maharashtra,Pune,2023-09-25,Online,1
+C00856,Zoya Reddy,Male,40,Corporate,Madhya Pradesh,Indore,2025-01-03,Online,1
+C00857,Meera Singh,Male,24,SMB,Rajasthan,Jaipur,2023-02-20,Online,1
+C00858,Kavya Iyer,Female,20,Consumer,Karnataka,Mysuru,2024-02-16,B2B,1
+C00859,Priya Kulkarni,Female,18,Corporate,Delhi,New Delhi,2023-10-09,B2B,0
+C00860,Kabir Choudhary,Female,31,Consumer,Karnataka,Mysuru,2024-05-09,Online,1
+C00861,Rahul Jain,Male,25,Consumer,Gujarat,Vadodara,2023-01-26,Retail,1
+C00862,Vivaan Banerjee,Male,36,Consumer,Delhi,New Delhi,2024-02-23,Retail,1
+C00863,Diya Joshi,Female,18,Consumer,Gujarat,Vadodara,2025-02-27,Retail,1
+C00864,Aditya Singh,Female,26,Consumer,Telangana,Hyderabad,2025-05-06,Online,1
+C00865,Kavya Iyer,Male,36,Consumer,Karnataka,Mangaluru,2023-09-13,Retail,1
+C00866,Irfan Khan,Female,23,Corporate,Rajasthan,Jaipur,2024-03-04,Retail,1
+C00867,Neha Singh,Female,36,SMB,Uttar Pradesh,Lucknow,2024-11-21,Online,1
+C00868,Kabir Reddy,Female,27,SMB,Uttar Pradesh,Noida,2024-04-08,Online,1
+C00869,Priya Nair,Male,32,Consumer,Karnataka,Bengaluru,2024-06-27,Online,1
+C00870,Aarav Sharma,Female,37,SMB,Uttar Pradesh,Noida,2023-12-08,B2B,1
+C00871,Kavya Choudhary,Male,41,Consumer,Rajasthan,Udaipur,2025-04-17,Online,1
+C00872,Zoya Khan,Female,33,Consumer,Karnataka,Bengaluru,2024-09-23,Online,1
+C00873,Sneha Kulkarni,Male,25,SMB,Uttar Pradesh,Noida,2025-08-18,Online,1
+C00874,Ananya Kulkarni,Male,28,Consumer,Gujarat,Surat,2025-02-18,Retail,1
+C00875,Arjun Choudhary,Male,38,Consumer,Uttar Pradesh,Kanpur,2024-01-03,Retail,0
+C00876,Rohan Joshi,Female,23,Consumer,Tamil Nadu,Chennai,2023-11-24,Online,1
+C00877,Aarav Sharma,Other,30,Consumer,Rajasthan,Jaipur,2023-03-30,Online,1
+C00878,Vivaan Jain,Female,29,Corporate,Karnataka,Mysuru,2024-09-14,Retail,0
+C00879,Irfan Joshi,Female,31,Consumer,Gujarat,Ahmedabad,2025-01-19,Online,1
+C00880,Sneha Patel,Other,23,Consumer,Delhi,New Delhi,2023-12-21,Online,1
+C00881,Isha Nair,Female,18,Consumer,Delhi,New Delhi,2023-01-22,B2B,1
+C00882,Riya Sharma,Male,37,Consumer,Gujarat,Vadodara,2025-04-05,Online,1
+C00883,Riya Reddy,Female,41,Corporate,Gujarat,Ahmedabad,2023-08-11,Online,1
+C00884,Aditya Khan,Male,18,SMB,Karnataka,Mysuru,2024-08-05,Online,1
+C00885,Arjun Sharma,Male,35,Corporate,Uttar Pradesh,Kanpur,2023-02-23,Retail,1
+C00886,Sai Singh,Male,42,SMB,Telangana,Hyderabad,2023-03-04,Retail,1
+C00887,Irfan Joshi,Male,37,Consumer,Rajasthan,Jaipur,2025-06-17,Online,1
+C00888,Isha Das,Female,28,Corporate,Uttar Pradesh,Kanpur,2024-11-03,Retail,1
+C00889,Neha Kulkarni,Other,24,Consumer,Karnataka,Mysuru,2023-01-06,Retail,0
+C00890,Vihaan Das,Male,33,Consumer,Maharashtra,Mumbai,2023-04-11,Retail,1
+C00891,Sneha Khan,Female,34,Consumer,Tamil Nadu,Chennai,2024-05-07,Online,1
+C00892,Zoya Sharma,Male,33,Consumer,Tamil Nadu,Madurai,2024-11-11,Online,1
+C00893,Priya Khan,Male,30,SMB,Delhi,New Delhi,2024-02-28,Retail,1
+C00894,Arjun Sharma,Male,22,Consumer,Uttar Pradesh,Kanpur,2025-05-22,Online,1
+C00895,Sneha Nair,Male,36,SMB,Telangana,Hyderabad,2024-10-14,Online,1
+C00896,Irfan Mehta,Male,36,Consumer,Uttar Pradesh,Noida,2024-09-06,Online,1
+C00897,Riya Khan,Male,34,Consumer,Karnataka,Mangaluru,2023-10-17,Retail,1
+C00898,Sai Singh,Male,33,Corporate,Rajasthan,Jaipur,2024-11-12,Online,1
+C00899,Kabir Das,Male,47,Consumer,Delhi,New Delhi,2025-05-23,Online,1
+C00900,Diya Patel,Female,26,Consumer,Tamil Nadu,Chennai,2023-02-18,Retail,1
+C00901,Rohan Banerjee,Male,44,Consumer,Tamil Nadu,Madurai,2025-01-04,Online,1
+C00902,Irfan Banerjee,Male,25,SMB,Rajasthan,Jaipur,2025-05-29,Online,1
+C00903,Priya Nair,Female,42,Corporate,Delhi,New Delhi,2024-03-08,Online,1
+C00904,Aarav Jain,Male,43,Consumer,Delhi,New Delhi,2025-02-04,Online,1
+C00905,Meera Singh,Male,29,Consumer,Gujarat,Vadodara,2023-12-25,B2B,1
+C00906,Zoya Jain,Male,47,Consumer,Gujarat,Surat,2023-07-12,Online,1
+C00907,Arjun Das,Female,36,Consumer,Karnataka,Mangaluru,2025-03-26,Retail,1
+C00908,Sneha Khan,Female,24,Consumer,Karnataka,Bengaluru,2023-11-08,Online,1
+C00909,Diya Khan,Female,29,Consumer,Delhi,New Delhi,2025-01-27,Online,1
+C00910,Rohan Jain,Female,42,Consumer,Tamil Nadu,Madurai,2023-11-12,Online,1
+C00911,Neha Reddy,Male,40,Consumer,Gujarat,Ahmedabad,2024-02-04,Online,1
+C00912,Vihaan Joshi,Male,22,Consumer,Gujarat,Ahmedabad,2024-11-16,Online,0
+C00913,Aarav Khan,Male,31,Consumer,Uttar Pradesh,Kanpur,2023-12-08,Online,1
+C00914,Rahul Reddy,Male,34,Consumer,Delhi,New Delhi,2025-03-18,B2B,1
+C00915,Neha Patel,Male,27,Corporate,Madhya Pradesh,Bhopal,2023-02-08,Online,1
+C00916,Kabir Iyer,Male,53,Consumer,Uttar Pradesh,Kanpur,2023-01-12,Retail,1
+C00917,Ananya Patel,Female,34,SMB,Karnataka,Bengaluru,2023-03-23,Online,0
+C00918,Aditya Iyer,Male,31,Consumer,Gujarat,Ahmedabad,2023-09-14,Online,1
+C00919,Sai Mehta,Male,43,Consumer,Karnataka,Mysuru,2023-02-23,Retail,1
+C00920,Riya Sharma,Female,29,Consumer,Delhi,New Delhi,2024-01-16,Online,1
+C00921,Rohan Khan,Male,41,Consumer,Gujarat,Vadodara,2023-01-25,Online,1
+C00922,Ananya Joshi,Female,18,Consumer,Karnataka,Mysuru,2025-01-26,Online,1
+C00923,Arjun Khan,Female,28,SMB,Maharashtra,Nashik,2023-06-02,Online,1
+C00924,Arjun Singh,Female,41,SMB,Tamil Nadu,Madurai,2025-08-30,Retail,1
+C00925,Sneha Choudhary,Male,46,Consumer,Uttar Pradesh,Kanpur,2025-05-07,Online,1
+C00926,Kabir Nair,Male,25,Consumer,Gujarat,Surat,2024-11-25,B2B,1
+C00927,Sneha Patel,Female,24,Corporate,Rajasthan,Udaipur,2025-03-09,Online,1
+C00928,Aarav Khan,Female,37,Consumer,Gujarat,Surat,2025-02-13,Online,1
+C00929,Priya Joshi,Female,26,Consumer,Madhya Pradesh,Bhopal,2025-04-25,Online,1
+C00930,Priya Kulkarni,Male,30,Corporate,Delhi,New Delhi,2024-07-09,Online,1
+C00931,Isha Reddy,Male,40,Consumer,Telangana,Warangal,2024-09-15,Retail,1
+C00932,Diya Das,Male,27,Consumer,Uttar Pradesh,Noida,2024-04-14,Retail,0
+C00933,Vivaan Singh,Male,18,Consumer,Maharashtra,Pune,2024-09-16,Online,1
+C00934,Aarav Reddy,Male,20,Consumer,Madhya Pradesh,Bhopal,2024-01-17,Online,1
+C00935,Kavya Sharma,Female,32,Consumer,Gujarat,Vadodara,2023-05-04,Retail,1
+C00936,Isha Patel,Male,18,Corporate,Tamil Nadu,Madurai,2025-07-20,Online,1
+C00937,Vihaan Sharma,Female,29,Consumer,West Bengal,Siliguri,2024-11-29,Online,1
+C00938,Ananya Iyer,Female,19,Corporate,West Bengal,Kolkata,2024-12-05,Online,1
+C00939,Rahul Jain,Male,47,Corporate,Maharashtra,Nagpur,2023-10-08,Online,1
+C00940,Priya Banerjee,Female,51,Corporate,Rajasthan,Jaipur,2025-02-09,Online,1
+C00941,Sneha Das,Female,22,Consumer,West Bengal,Kolkata,2024-06-03,Online,1
+C00942,Vihaan Sharma,Male,34,Consumer,Madhya Pradesh,Indore,2023-03-18,Retail,1
+C00943,Aditya Patel,Male,23,Consumer,Tamil Nadu,Coimbatore,2025-08-12,Online,1
+C00944,Meera Jain,Female,29,Consumer,West Bengal,Siliguri,2025-09-18,Retail,0
+C00945,Rohan Kulkarni,Female,48,SMB,Tamil Nadu,Coimbatore,2025-05-20,Retail,1
+C00946,Sneha Choudhary,Female,28,Consumer,Rajasthan,Jaipur,2024-04-19,Online,1
+C00947,Priya Das,Other,29,SMB,Rajasthan,Jaipur,2023-08-22,Online,1
+C00948,Arjun Choudhary,Male,24,Consumer,Madhya Pradesh,Bhopal,2023-01-12,Online,1
+C00949,Riya Khan,Female,42,Consumer,Telangana,Hyderabad,2025-01-06,Retail,1
+C00950,Ananya Jain,Female,18,Consumer,Uttar Pradesh,Kanpur,2025-06-09,Online,1
+C00951,Vihaan Singh,Female,28,Corporate,Gujarat,Vadodara,2023-04-15,B2B,1
+C00952,Vivaan Reddy,Female,32,Consumer,Tamil Nadu,Madurai,2024-11-15,Retail,1
+C00953,Neha Das,Female,26,Consumer,Uttar Pradesh,Lucknow,2023-01-27,Retail,1
+C00954,Kabir Gupta,Female,40,Corporate,Maharashtra,Mumbai,2025-02-15,Online,1
+C00955,Vihaan Mehta,Male,43,Consumer,Uttar Pradesh,Lucknow,2023-01-29,Retail,1
+C00956,Meera Nair,Female,19,Consumer,Maharashtra,Nashik,2025-09-02,Retail,0
+C00957,Zoya Jain,Male,51,Consumer,Telangana,Hyderabad,2023-06-20,Retail,1
+C00958,Irfan Banerjee,Female,19,Consumer,Tamil Nadu,Madurai,2024-02-05,Online,1
+C00959,Priya Reddy,Female,44,Consumer,Tamil Nadu,Chennai,2024-11-25,Retail,1
+C00960,Vivaan Nair,Female,33,Consumer,Tamil Nadu,Chennai,2025-04-26,Online,1
+C00961,Kabir Choudhary,Male,27,Consumer,Tamil Nadu,Chennai,2023-12-30,Retail,1
+C00962,Riya Sharma,Male,28,Consumer,Tamil Nadu,Madurai,2025-09-07,Online,1
+C00963,Rahul Das,Male,32,Consumer,Tamil Nadu,Coimbatore,2023-01-16,Online,1
+C00964,Meera Joshi,Male,34,Consumer,Telangana,Hyderabad,2024-04-16,Retail,1
+C00965,Neha Reddy,Male,24,Consumer,Uttar Pradesh,Noida,2025-09-15,Online,1
+C00966,Riya Patel,Female,30,Consumer,Telangana,Warangal,2023-10-02,Retail,1
+C00967,Riya Mehta,Male,25,Consumer,West Bengal,Siliguri,2024-06-17,Retail,1
+C00968,Ananya Reddy,Female,21,Consumer,Rajasthan,Udaipur,2024-03-20,Retail,1
+C00969,Isha Mehta,Male,25,Consumer,Madhya Pradesh,Indore,2024-01-29,Retail,1
+C00970,Sai Sharma,Female,22,SMB,Karnataka,Bengaluru,2025-02-06,Online,1
+C00971,Priya Sharma,Female,28,Corporate,Uttar Pradesh,Noida,2024-06-02,Online,1
+C00972,Sneha Mehta,Female,36,Consumer,Delhi,New Delhi,2024-12-14,Retail,1
+C00973,Ananya Banerjee,Female,33,Consumer,Karnataka,Bengaluru,2024-06-03,Online,1
+C00974,Priya Mehta,Female,50,Consumer,Uttar Pradesh,Noida,2025-09-24,Online,1
+C00975,Rahul Banerjee,Female,18,Corporate,Maharashtra,Mumbai,2024-04-15,Online,1
+C00976,Vihaan Jain,Female,36,Consumer,Rajasthan,Udaipur,2025-03-07,Online,1
+C00977,Sai Gupta,Male,32,Consumer,Uttar Pradesh,Lucknow,2024-09-04,B2B,1
+C00978,Priya Patel,Male,39,Consumer,Madhya Pradesh,Indore,2025-03-12,Online,1
+C00979,Isha Singh,Female,38,Consumer,West Bengal,Siliguri,2025-06-04,Online,1
+C00980,Ananya Mehta,Male,31,Consumer,Rajasthan,Jaipur,2023-08-15,Retail,1
+C00981,Kavya Nair,Female,34,SMB,Karnataka,Mysuru,2023-10-29,B2B,1
+C00982,Priya Das,Female,25,SMB,Rajasthan,Jaipur,2023-10-29,Online,1
+C00983,Diya Choudhary,Male,38,Consumer,Karnataka,Bengaluru,2024-05-01,Retail,1
+C00984,Priya Jain,Female,18,Consumer,Gujarat,Vadodara,2024-05-06,Online,1
+C00985,Zoya Singh,Female,39,Consumer,Karnataka,Mangaluru,2023-01-04,Retail,1
+C00986,Sneha Singh,Female,32,Consumer,Tamil Nadu,Chennai,2025-06-14,Online,1
+C00987,Arjun Sharma,Female,28,Consumer,Uttar Pradesh,Kanpur,2025-05-09,Online,1
+C00988,Aarav Nair,Female,30,Consumer,Delhi,New Delhi,2024-08-24,Online,1
+C00989,Aarav Joshi,Female,31,SMB,Rajasthan,Udaipur,2023-11-02,Retail,1
+C00990,Isha Choudhary,Female,44,SMB,West Bengal,Siliguri,2025-04-06,Online,1
+C00991,Kabir Patel,Male,61,Consumer,West Bengal,Siliguri,2023-09-29,Online,1
+C00992,Vivaan Khan,Female,43,Consumer,Madhya Pradesh,Bhopal,2023-11-02,Retail,1
+C00993,Riya Joshi,Female,27,Consumer,Tamil Nadu,Coimbatore,2025-09-24,Online,1
+C00994,Diya Das,Male,38,Consumer,Gujarat,Surat,2025-07-12,Retail,1
+C00995,Rahul Singh,Male,38,Consumer,Madhya Pradesh,Bhopal,2024-08-07,Online,1
+C00996,Kabir Reddy,Female,24,Consumer,Telangana,Warangal,2023-06-19,Online,1
+C00997,Isha Mehta,Male,21,Consumer,West Bengal,Siliguri,2023-05-04,Online,1
+C00998,Meera Mehta,Female,31,Corporate,Delhi,New Delhi,2025-08-22,Online,1
+C00999,Aditya Khan,Male,39,Consumer,Delhi,New Delhi,2023-09-23,Online,1
+C01000,Priya Nair,Male,18,Consumer,Karnataka,Bengaluru,2024-11-12,Online,1
+C01001,Ananya Das,Female,26,Consumer,Delhi,New Delhi,2023-12-20,Retail,0
+C01002,Vihaan Singh,Male,37,SMB,Karnataka,Mysuru,2024-05-11,Online,1
+C01003,Diya Mehta,Male,32,Consumer,Uttar Pradesh,Kanpur,2025-09-13,Online,1
+C01004,Kabir Nair,Female,45,Consumer,Maharashtra,Mumbai,2024-08-15,Retail,1
+C01005,Meera Gupta,Female,19,Consumer,West Bengal,Siliguri,2024-03-06,Online,1
+C01006,Sneha Sharma,Male,53,Consumer,Madhya Pradesh,Bhopal,2024-02-20,Retail,0
+C01007,Sai Khan,Female,18,SMB,Uttar Pradesh,Kanpur,2023-08-19,Retail,1
+C01008,Rohan Banerjee,Female,18,Consumer,Tamil Nadu,Chennai,2024-07-10,Online,1
+C01009,Meera Iyer,Female,31,SMB,Maharashtra,Nagpur,2024-07-23,Retail,1
+C01010,Zoya Iyer,Male,22,Consumer,Rajasthan,Udaipur,2023-04-06,B2B,1
+C01011,Rahul Jain,Male,32,Consumer,Maharashtra,Nagpur,2024-02-09,Online,1
+C01012,Neha Iyer,Female,31,Consumer,West Bengal,Siliguri,2024-10-06,B2B,1
+C01013,Isha Reddy,Female,30,Consumer,West Bengal,Kolkata,2023-02-24,Online,1
+C01014,Riya Kulkarni,Male,24,Consumer,Karnataka,Mysuru,2025-09-03,Retail,1
+C01015,Rohan Mehta,Female,36,Consumer,Uttar Pradesh,Kanpur,2025-05-10,Online,0
+C01016,Irfan Singh,Male,29,Consumer,Karnataka,Mangaluru,2024-09-28,Online,1
+C01017,Arjun Das,Female,42,Corporate,Delhi,New Delhi,2023-01-16,B2B,1
+C01018,Zoya Das,Female,30,SMB,Rajasthan,Udaipur,2024-06-01,Online,1
+C01019,Irfan Jain,Female,23,Consumer,Madhya Pradesh,Indore,2025-06-17,B2B,1
+C01020,Vivaan Singh,Female,18,Consumer,Delhi,New Delhi,2023-01-23,Retail,0
+C01021,Sai Das,Male,30,Corporate,Madhya Pradesh,Bhopal,2025-03-02,Retail,1
+C01022,Arjun Choudhary,Female,21,Consumer,Madhya Pradesh,Indore,2025-04-19,B2B,1
+C01023,Meera Patel,Male,20,SMB,Uttar Pradesh,Noida,2023-03-17,Retail,1
+C01024,Arjun Jain,Female,37,Consumer,Karnataka,Mysuru,2023-08-19,B2B,1
+C01025,Ananya Khan,Female,18,Corporate,Delhi,New Delhi,2024-12-24,Retail,1
+C01026,Vihaan Gupta,Male,45,Consumer,West Bengal,Kolkata,2025-06-30,Online,1
+C01027,Vivaan Sharma,Male,33,Consumer,Madhya Pradesh,Indore,2025-02-09,Retail,1
+C01028,Priya Singh,Male,32,Consumer,Rajasthan,Udaipur,2024-06-09,Online,1
+C01029,Ananya Jain,Male,23,Consumer,Tamil Nadu,Coimbatore,2024-08-25,Online,1
+C01030,Riya Kulkarni,Male,39,SMB,Delhi,New Delhi,2024-06-08,Online,1
+C01031,Arjun Mehta,Female,32,SMB,Madhya Pradesh,Indore,2024-07-31,Online,1
+C01032,Sai Kulkarni,Male,26,Consumer,Delhi,New Delhi,2025-02-09,Online,1
+C01033,Zoya Nair,Female,34,Consumer,Gujarat,Ahmedabad,2023-02-19,Online,0
+C01034,Irfan Banerjee,Female,18,Consumer,Madhya Pradesh,Indore,2023-07-29,Retail,1
+C01035,Sai Joshi,Female,18,Consumer,Telangana,Warangal,2023-03-01,Retail,1
+C01036,Vihaan Kulkarni,Male,22,Consumer,Delhi,New Delhi,2025-03-07,Retail,1
+C01037,Sneha Jain,Female,35,SMB,Maharashtra,Pune,2024-12-28,B2B,1
+C01038,Rohan Sharma,Female,32,Corporate,Tamil Nadu,Coimbatore,2023-02-23,Retail,1
+C01039,Priya Banerjee,Female,41,Consumer,Madhya Pradesh,Bhopal,2023-04-16,Retail,1
+C01040,Rohan Jain,Female,24,Consumer,Tamil Nadu,Madurai,2023-09-22,Online,1
+C01041,Arjun Mehta,Female,37,Consumer,West Bengal,Kolkata,2023-08-30,B2B,1
+C01042,Isha Mehta,Female,31,Consumer,Delhi,New Delhi,2024-06-03,Online,0
+C01043,Diya Iyer,Female,24,Consumer,Uttar Pradesh,Kanpur,2024-05-13,Online,1
+C01044,Neha Reddy,Male,35,Consumer,Uttar Pradesh,Lucknow,2023-12-24,Online,1
+C01045,Vihaan Patel,Female,31,Consumer,West Bengal,Kolkata,2023-06-14,Retail,1
+C01046,Priya Kulkarni,Male,26,Consumer,Uttar Pradesh,Lucknow,2024-10-11,Retail,1
+C01047,Irfan Singh,Male,32,Corporate,Telangana,Hyderabad,2025-02-28,Online,1
+C01048,Vihaan Kulkarni,Female,31,Consumer,Gujarat,Vadodara,2024-10-02,Retail,1
+C01049,Aditya Nair,Male,31,Consumer,Uttar Pradesh,Lucknow,2025-03-18,Online,1
+C01050,Irfan Jain,Female,28,Consumer,Rajasthan,Udaipur,2025-07-02,Online,1
+C01051,Zoya Singh,Male,20,SMB,Rajasthan,Jaipur,2025-04-22,Online,1
+C01052,Isha Kulkarni,Female,33,Consumer,Delhi,New Delhi,2024-10-13,Online,1
+C01053,Aarav Gupta,Male,25,Consumer,West Bengal,Kolkata,2023-02-19,Retail,0
+C01054,Riya Singh,Female,23,Consumer,Maharashtra,Pune,2023-12-01,Online,1
+C01055,Sai Joshi,Male,30,Consumer,Telangana,Hyderabad,2024-03-03,Online,1
+C01056,Meera Patel,Male,39,Consumer,Telangana,Hyderabad,2024-12-13,Online,1
+C01057,Aditya Reddy,Male,34,Corporate,Gujarat,Surat,2025-04-26,Retail,1
+C01058,Irfan Reddy,Female,27,Consumer,Madhya Pradesh,Bhopal,2024-10-02,B2B,1
+C01059,Rohan Gupta,Other,27,Consumer,Rajasthan,Jaipur,2023-12-30,Retail,1
+C01060,Kabir Iyer,Female,38,Consumer,Maharashtra,Nashik,2025-02-26,Retail,1
+C01061,Riya Jain,Male,18,Corporate,Delhi,New Delhi,2024-11-26,Retail,1
+C01062,Arjun Reddy,Male,39,SMB,Delhi,New Delhi,2025-03-09,Online,1
+C01063,Rahul Singh,Male,18,Corporate,Rajasthan,Udaipur,2024-08-12,Online,1
+C01064,Sai Sharma,Female,19,Consumer,Telangana,Hyderabad,2024-10-08,Online,1
+C01065,Diya Gupta,Female,27,Corporate,Uttar Pradesh,Noida,2023-12-14,Online,1
+C01066,Rahul Iyer,Male,52,Consumer,Rajasthan,Jaipur,2024-02-04,Online,1
+C01067,Aarav Gupta,Female,47,Consumer,Uttar Pradesh,Kanpur,2023-10-04,Online,1
+C01068,Aditya Jain,Female,38,Consumer,Maharashtra,Nashik,2023-09-14,Online,1
+C01069,Kavya Singh,Male,35,Corporate,Karnataka,Bengaluru,2024-10-14,Online,0
+C01070,Diya Choudhary,Male,18,Consumer,Gujarat,Vadodara,2024-01-19,Online,1
+C01071,Meera Reddy,Male,33,Consumer,Gujarat,Vadodara,2023-05-14,Online,1
+C01072,Meera Nair,Male,27,Consumer,Uttar Pradesh,Noida,2023-02-05,Retail,1
+C01073,Irfan Khan,Male,25,Consumer,Karnataka,Bengaluru,2025-05-10,Retail,1
+C01074,Kabir Jain,Female,33,Consumer,Gujarat,Vadodara,2024-03-11,Online,1
+C01075,Isha Mehta,Male,28,Consumer,Delhi,New Delhi,2024-07-30,Online,1
+C01076,Riya Sharma,Female,40,SMB,Karnataka,Mangaluru,2025-06-23,Online,1
+C01077,Neha Joshi,Female,18,Consumer,Karnataka,Mangaluru,2023-04-22,Online,1
+C01078,Diya Das,Female,33,Consumer,Karnataka,Mangaluru,2025-07-26,Online,1
+C01079,Vihaan Sharma,Female,24,Consumer,Telangana,Warangal,2024-12-04,Online,1
+C01080,Priya Jain,Male,28,Consumer,Tamil Nadu,Madurai,2024-10-02,Retail,1
+C01081,Sneha Singh,Male,35,SMB,Tamil Nadu,Chennai,2024-03-07,Retail,1
+C01082,Aditya Mehta,Male,22,Consumer,Tamil Nadu,Coimbatore,2024-12-07,Retail,1
+C01083,Vihaan Singh,Female,33,Consumer,Uttar Pradesh,Lucknow,2023-07-24,Retail,1
+C01084,Sneha Patel,Female,30,Consumer,Rajasthan,Jaipur,2023-10-30,Retail,1
+C01085,Irfan Gupta,Male,26,SMB,Telangana,Warangal,2025-08-19,Retail,1
+C01086,Aditya Joshi,Male,28,Consumer,West Bengal,Siliguri,2023-10-03,Retail,1
+C01087,Arjun Kulkarni,Male,31,Corporate,Uttar Pradesh,Noida,2024-12-20,Retail,1
+C01088,Rohan Choudhary,Male,25,Consumer,West Bengal,Siliguri,2025-07-19,Retail,1
+C01089,Kavya Gupta,Female,32,Consumer,Karnataka,Bengaluru,2024-08-15,Retail,1
+C01090,Neha Reddy,Male,29,Consumer,Madhya Pradesh,Indore,2023-10-25,Retail,1
+C01091,Zoya Reddy,Male,26,Consumer,Karnataka,Mangaluru,2025-04-28,Online,1
+C01092,Riya Sharma,Male,46,Consumer,Tamil Nadu,Coimbatore,2025-04-06,Online,1
+C01093,Zoya Jain,Male,36,Consumer,West Bengal,Siliguri,2024-06-27,Online,1
+C01094,Meera Khan,Male,29,Corporate,Tamil Nadu,Coimbatore,2023-04-25,Online,1
+C01095,Priya Das,Female,33,Corporate,Delhi,New Delhi,2024-03-17,Online,1
+C01096,Kabir Choudhary,Male,23,Corporate,Madhya Pradesh,Indore,2024-03-07,Online,1
+C01097,Isha Banerjee,Female,28,Consumer,Maharashtra,Nashik,2023-07-09,Online,1
+C01098,Kabir Iyer,Male,29,Consumer,Delhi,New Delhi,2024-02-07,B2B,1
+C01099,Irfan Kulkarni,Male,21,SMB,Madhya Pradesh,Bhopal,2023-06-03,Online,1
+C01100,Sneha Singh,Male,35,Consumer,Uttar Pradesh,Kanpur,2024-11-23,Online,1
+C01101,Meera Joshi,Male,27,Consumer,Maharashtra,Pune,2024-03-07,Online,1
+C01102,Aarav Iyer,Male,29,Corporate,Uttar Pradesh,Noida,2024-12-31,Online,1
+C01103,Kabir Singh,Male,27,Consumer,Madhya Pradesh,Bhopal,2024-03-31,Retail,1
+C01104,Sai Jain,Female,59,Consumer,Maharashtra,Nagpur,2024-12-14,Retail,1
+C01105,Arjun Nair,Female,26,Corporate,Tamil Nadu,Coimbatore,2025-01-03,Online,1
+C01106,Zoya Jain,Female,18,Consumer,Tamil Nadu,Chennai,2023-06-10,Online,1
+C01107,Isha Choudhary,Male,18,Consumer,Karnataka,Mysuru,2024-03-18,Online,1
+C01108,Kavya Jain,Female,39,Consumer,Delhi,New Delhi,2025-01-19,Retail,1
+C01109,Diya Das,Female,44,Consumer,Karnataka,Mysuru,2024-08-16,B2B,1
+C01110,Kabir Banerjee,Male,26,SMB,Karnataka,Mysuru,2023-08-10,Retail,1
+C01111,Rohan Das,Male,44,Consumer,Tamil Nadu,Chennai,2025-04-12,Online,1
+C01112,Zoya Joshi,Female,39,Consumer,Tamil Nadu,Chennai,2023-07-19,Retail,1
+C01113,Vihaan Banerjee,Female,30,SMB,Delhi,New Delhi,2025-09-20,Retail,1
+C01114,Meera Sharma,Male,30,Consumer,Delhi,New Delhi,2024-12-07,Retail,1
+C01115,Isha Banerjee,Male,34,Corporate,Karnataka,Mangaluru,2023-11-19,Online,0
+C01116,Priya Jain,Other,40,Consumer,Uttar Pradesh,Noida,2023-07-14,Online,1
+C01117,Irfan Banerjee,Male,36,Consumer,Delhi,New Delhi,2025-06-20,Online,1
+C01118,Aditya Nair,Female,26,Consumer,Madhya Pradesh,Indore,2024-06-07,Online,1
+C01119,Riya Khan,Female,30,Consumer,Telangana,Warangal,2025-03-17,Retail,1
+C01120,Diya Gupta,Female,50,Corporate,Rajasthan,Jaipur,2025-04-11,Online,1
+C01121,Zoya Sharma,Female,34,SMB,West Bengal,Siliguri,2023-03-10,Online,1
+C01122,Arjun Mehta,Male,40,SMB,Delhi,New Delhi,2024-11-14,Retail,1
+C01123,Arjun Reddy,Female,37,Consumer,West Bengal,Kolkata,2023-12-01,Online,1
+C01124,Vivaan Das,Female,34,Corporate,Delhi,New Delhi,2025-06-26,B2B,1
+C01125,Isha Nair,Female,33,Consumer,Karnataka,Mangaluru,2023-08-08,Retail,1
+C01126,Aarav Jain,Male,40,SMB,Delhi,New Delhi,2023-02-03,Retail,1
+C01127,Riya Patel,Male,38,Consumer,Delhi,New Delhi,2024-10-26,Retail,1
+C01128,Arjun Choudhary,Male,34,SMB,Karnataka,Bengaluru,2024-07-06,Online,1
+C01129,Isha Kulkarni,Male,26,Consumer,Maharashtra,Pune,2024-07-09,Online,1
+C01130,Kabir Nair,Female,35,Consumer,Madhya Pradesh,Bhopal,2023-09-21,Retail,1
+C01131,Rohan Singh,Female,31,Corporate,Telangana,Warangal,2024-05-09,Online,1
+C01132,Vivaan Reddy,Female,29,Consumer,Tamil Nadu,Chennai,2025-08-22,Online,1
+C01133,Aditya Iyer,Female,56,Consumer,Madhya Pradesh,Bhopal,2025-02-02,Retail,1
+C01134,Ananya Khan,Male,18,SMB,Delhi,New Delhi,2025-09-11,Online,1
+C01135,Riya Joshi,Male,41,Consumer,Tamil Nadu,Chennai,2023-11-30,Online,1
+C01136,Zoya Gupta,Male,24,Consumer,Rajasthan,Jaipur,2025-05-20,Online,1
+C01137,Aditya Iyer,Male,33,Consumer,West Bengal,Siliguri,2024-01-18,Online,1
+C01138,Vivaan Sharma,Male,55,Consumer,Gujarat,Vadodara,2025-07-24,Retail,1
+C01139,Kabir Jain,Male,23,Consumer,Delhi,New Delhi,2025-05-15,Online,1
+C01140,Sneha Kulkarni,Male,25,SMB,Maharashtra,Pune,2023-06-14,Online,0
+C01141,Irfan Kulkarni,Female,32,SMB,Maharashtra,Nagpur,2025-08-30,Online,1
+C01142,Meera Kulkarni,Male,24,Consumer,Karnataka,Mysuru,2024-08-30,Retail,1
+C01143,Aarav Singh,Male,40,Consumer,Uttar Pradesh,Lucknow,2025-02-15,Online,1
+C01144,Meera Das,Male,27,Consumer,West Bengal,Kolkata,2024-08-02,Online,1
+C01145,Priya Singh,Female,38,SMB,Tamil Nadu,Chennai,2023-08-06,Retail,1
+C01146,Isha Gupta,Female,20,Consumer,Uttar Pradesh,Kanpur,2025-09-11,Online,1
+C01147,Priya Gupta,Male,18,Consumer,Karnataka,Mysuru,2023-04-23,Retail,1
+C01148,Meera Jain,Male,30,SMB,Delhi,New Delhi,2025-03-19,Online,1
+C01149,Neha Reddy,Female,18,SMB,Gujarat,Ahmedabad,2023-07-29,Online,1
+C01150,Vihaan Banerjee,Female,46,Consumer,Madhya Pradesh,Bhopal,2025-02-24,Online,1
+C01151,Vivaan Jain,Female,18,Consumer,West Bengal,Siliguri,2024-02-27,Retail,1
+C01152,Vivaan Joshi,Female,23,Consumer,Rajasthan,Jaipur,2023-08-25,Online,1
+C01153,Isha Singh,Female,36,Consumer,Delhi,New Delhi,2023-08-25,Online,1
+C01154,Riya Jain,Female,27,Consumer,Rajasthan,Udaipur,2023-11-16,Online,1
+C01155,Kavya Sharma,Male,18,Consumer,Maharashtra,Pune,2025-06-20,Online,0
+C01156,Isha Das,Female,50,Consumer,Delhi,New Delhi,2025-02-08,Retail,1
+C01157,Riya Joshi,Male,23,Consumer,Telangana,Warangal,2024-11-01,B2B,1
+C01158,Sneha Patel,Female,30,Consumer,Maharashtra,Nashik,2024-09-21,Online,1
+C01159,Neha Khan,Male,30,Consumer,Rajasthan,Jaipur,2024-02-21,Online,1
+C01160,Rohan Sharma,Male,38,SMB,Rajasthan,Jaipur,2025-06-20,Online,1
+C01161,Diya Das,Female,36,Consumer,Telangana,Warangal,2023-10-01,B2B,1
+C01162,Vihaan Singh,Female,25,SMB,Gujarat,Ahmedabad,2025-07-31,Online,1
+C01163,Rahul Das,Male,29,Consumer,Maharashtra,Pune,2024-01-16,Online,1
+C01164,Meera Sharma,Other,30,Consumer,West Bengal,Siliguri,2023-12-08,B2B,1
+C01165,Vivaan Das,Male,39,SMB,Telangana,Hyderabad,2024-04-21,B2B,1
+C01166,Priya Choudhary,Male,21,Consumer,Uttar Pradesh,Kanpur,2025-01-18,Online,1
+C01167,Vivaan Sharma,Female,50,Consumer,West Bengal,Siliguri,2024-12-14,Online,1
+C01168,Sneha Nair,Male,25,Consumer,Karnataka,Bengaluru,2025-02-05,Retail,1
+C01169,Riya Gupta,Male,32,Consumer,Karnataka,Bengaluru,2023-03-31,Retail,1
+C01170,Kavya Patel,Female,22,Consumer,Uttar Pradesh,Noida,2023-06-11,Online,0
+C01171,Priya Sharma,Male,20,Consumer,Karnataka,Bengaluru,2025-04-28,Online,1
+C01172,Aarav Sharma,Male,24,Consumer,Madhya Pradesh,Indore,2025-09-07,Online,1
+C01173,Kabir Reddy,Male,23,Consumer,Karnataka,Mysuru,2023-05-08,Online,1
+C01174,Rohan Das,Female,28,Consumer,Uttar Pradesh,Kanpur,2025-06-23,Online,1
+C01175,Arjun Mehta,Male,23,Consumer,Madhya Pradesh,Indore,2023-09-20,Retail,1
+C01176,Neha Patel,Male,38,Consumer,Tamil Nadu,Madurai,2025-09-06,Online,1
+C01177,Arjun Mehta,Female,25,Consumer,Maharashtra,Pune,2025-09-20,Online,1
+C01178,Rohan Nair,Male,24,Consumer,Rajasthan,Udaipur,2024-09-28,Retail,1
+C01179,Neha Sharma,Male,28,Consumer,Karnataka,Mysuru,2023-07-10,Online,1
+C01180,Aditya Joshi,Female,41,Consumer,Telangana,Hyderabad,2025-02-27,Online,1
+C01181,Sai Patel,Female,34,Consumer,Madhya Pradesh,Bhopal,2023-04-12,B2B,0
+C01182,Vihaan Reddy,Male,31,Consumer,Uttar Pradesh,Lucknow,2023-12-01,Online,1
+C01183,Neha Mehta,Female,19,Consumer,Maharashtra,Mumbai,2024-09-30,Retail,1
+C01184,Arjun Choudhary,Female,22,SMB,Rajasthan,Udaipur,2023-03-09,Online,1
+C01185,Kabir Das,Male,20,SMB,Karnataka,Mysuru,2024-01-29,Online,1
+C01186,Isha Reddy,Female,44,Consumer,Uttar Pradesh,Kanpur,2025-03-08,Retail,1
+C01187,Vivaan Jain,Female,37,Consumer,West Bengal,Kolkata,2023-04-02,Online,1
+C01188,Zoya Iyer,Female,24,Consumer,Delhi,New Delhi,2024-01-02,Online,1
+C01189,Neha Iyer,Female,27,SMB,Tamil Nadu,Chennai,2023-01-04,Online,1
+C01190,Sai Reddy,Female,25,Corporate,Karnataka,Bengaluru,2024-10-20,Retail,1
+C01191,Zoya Patel,Other,24,Consumer,Madhya Pradesh,Indore,2023-03-21,Online,1
+C01192,Neha Sharma,Female,36,Consumer,Delhi,New Delhi,2023-10-08,Retail,1
+C01193,Irfan Kulkarni,Female,29,Consumer,Gujarat,Ahmedabad,2024-06-06,Retail,1
+C01194,Vihaan Khan,Female,51,SMB,Telangana,Warangal,2023-08-03,Online,1
+C01195,Aarav Mehta,Female,43,SMB,West Bengal,Kolkata,2023-08-19,Online,1
+C01196,Vivaan Singh,Female,44,Consumer,Telangana,Warangal,2025-04-14,Online,1
+C01197,Riya Das,Male,38,Consumer,Telangana,Hyderabad,2025-02-16,Retail,1
+C01198,Kavya Das,Male,28,Consumer,Telangana,Hyderabad,2023-03-22,Online,1
+C01199,Rahul Patel,Female,37,Consumer,Rajasthan,Jaipur,2025-05-07,Retail,1
+C01200,Sneha Reddy,Male,29,SMB,Gujarat,Ahmedabad,2024-04-13,Online,1
+C01201,Meera Patel,Female,47,Consumer,Rajasthan,Jaipur,2023-05-25,Online,1
+C01202,Kabir Kulkarni,Female,36,Consumer,Uttar Pradesh,Lucknow,2025-06-25,Retail,1
+C01203,Sai Joshi,Female,34,Consumer,Madhya Pradesh,Bhopal,2023-12-04,Online,1
+C01204,Aarav Banerjee,Male,33,Consumer,Madhya Pradesh,Bhopal,2023-11-22,Online,1
+C01205,Vihaan Gupta,Female,48,Corporate,Uttar Pradesh,Lucknow,2023-05-27,Retail,1
+C01206,Vivaan Iyer,Male,19,Consumer,Delhi,New Delhi,2025-06-05,Retail,1
+C01207,Rohan Joshi,Female,49,SMB,Uttar Pradesh,Lucknow,2023-10-14,Online,1
+C01208,Riya Choudhary,Male,30,Consumer,Uttar Pradesh,Lucknow,2024-08-15,Online,1
+C01209,Kavya Gupta,Male,19,Consumer,Delhi,New Delhi,2023-08-28,Online,1
+C01210,Aditya Jain,Female,25,Consumer,West Bengal,Kolkata,2025-06-14,Retail,1
+C01211,Rahul Gupta,Female,18,Consumer,Delhi,New Delhi,2025-02-25,Online,1
+C01212,Neha Mehta,Female,38,Consumer,Telangana,Hyderabad,2024-05-18,Retail,1
+C01213,Rahul Iyer,Male,23,Consumer,Uttar Pradesh,Lucknow,2023-12-12,Retail,1
+C01214,Kabir Iyer,Male,34,Consumer,Karnataka,Mysuru,2024-10-17,B2B,1
+C01215,Ananya Banerjee,Male,42,Consumer,Gujarat,Ahmedabad,2024-05-10,Online,0
+C01216,Kabir Kulkarni,Female,26,Consumer,Uttar Pradesh,Lucknow,2025-07-29,Online,1
+C01217,Kabir Sharma,Female,30,Consumer,Tamil Nadu,Coimbatore,2024-11-04,Online,1
+C01218,Vihaan Nair,Male,20,SMB,Madhya Pradesh,Bhopal,2023-01-28,Online,1
+C01219,Aditya Patel,Male,29,SMB,Maharashtra,Pune,2025-04-02,Online,1
+C01220,Rohan Patel,Male,55,Consumer,Uttar Pradesh,Lucknow,2023-07-12,Retail,1
+C01221,Vivaan Jain,Female,39,Corporate,Rajasthan,Jaipur,2023-10-29,Online,1
+C01222,Aditya Kulkarni,Male,30,Corporate,Madhya Pradesh,Indore,2024-03-12,Online,1
+C01223,Vivaan Khan,Male,26,SMB,Karnataka,Mysuru,2023-07-29,Online,1
+C01224,Kabir Banerjee,Male,32,Consumer,Madhya Pradesh,Bhopal,2025-07-31,B2B,1
+C01225,Rahul Gupta,Male,33,Consumer,Gujarat,Surat,2025-09-05,Online,1
+C01226,Priya Mehta,Male,28,Consumer,Gujarat,Ahmedabad,2023-06-05,Retail,1
+C01227,Vihaan Iyer,Male,37,SMB,Gujarat,Vadodara,2023-11-17,Retail,1
+C01228,Riya Singh,Female,23,Corporate,West Bengal,Kolkata,2024-01-06,Online,1
+C01229,Priya Joshi,Female,23,Consumer,West Bengal,Kolkata,2024-11-02,Retail,1
+C01230,Meera Nair,Male,35,Consumer,Tamil Nadu,Chennai,2024-08-20,Online,1
+C01231,Isha Reddy,Female,21,Corporate,Maharashtra,Nashik,2024-11-08,Online,1
+C01232,Riya Mehta,Male,39,SMB,Madhya Pradesh,Bhopal,2023-02-01,Online,1
+C01233,Ananya Jain,Female,32,Consumer,Delhi,New Delhi,2024-05-29,Online,1
+C01234,Rahul Jain,Female,18,Consumer,Maharashtra,Nagpur,2023-07-30,Retail,1
+C01235,Riya Nair,Male,33,Consumer,Telangana,Warangal,2023-08-17,Retail,1
+C01236,Ananya Kulkarni,Female,18,Consumer,Tamil Nadu,Coimbatore,2025-02-13,Online,1
+C01237,Aarav Das,Female,38,Consumer,West Bengal,Siliguri,2023-05-22,Retail,1
+C01238,Rohan Banerjee,Female,30,Corporate,Rajasthan,Udaipur,2023-02-01,Online,1
+C01239,Diya Iyer,Male,49,SMB,Maharashtra,Nashik,2024-05-02,Online,1
+C01240,Arjun Joshi,Male,42,Consumer,Delhi,New Delhi,2025-01-05,Retail,1
+C01241,Priya Nair,Male,22,Consumer,Telangana,Warangal,2024-05-25,Online,1
+C01242,Priya Das,Other,18,Consumer,Uttar Pradesh,Lucknow,2023-06-11,Retail,1
+C01243,Irfan Jain,Female,25,Consumer,West Bengal,Kolkata,2025-02-12,Online,1
+C01244,Riya Reddy,Male,21,Consumer,Gujarat,Vadodara,2024-01-17,Retail,1
+C01245,Neha Jain,Female,48,Consumer,West Bengal,Kolkata,2024-12-10,Online,1
+C01246,Kabir Mehta,Male,32,Consumer,Madhya Pradesh,Indore,2023-07-22,Online,1
+C01247,Irfan Sharma,Male,40,Consumer,Tamil Nadu,Madurai,2025-07-01,Retail,1
+C01248,Aarav Jain,Female,29,Consumer,Rajasthan,Udaipur,2023-10-11,Online,1
+C01249,Diya Joshi,Male,30,Corporate,Uttar Pradesh,Noida,2025-08-28,Online,1
+C01250,Neha Iyer,Female,32,Consumer,Gujarat,Surat,2024-01-13,Retail,1
+C01251,Aditya Joshi,Female,42,Consumer,Delhi,New Delhi,2024-12-28,Online,0
+C01252,Isha Das,Female,35,SMB,Uttar Pradesh,Lucknow,2024-05-17,Online,1
+C01253,Isha Banerjee,Female,22,Consumer,Delhi,New Delhi,2023-03-18,Online,1
+C01254,Irfan Gupta,Male,47,Consumer,Gujarat,Surat,2023-04-09,Retail,1
+C01255,Sneha Iyer,Female,29,Consumer,Delhi,New Delhi,2024-02-10,Retail,1
+C01256,Aditya Sharma,Female,28,Consumer,West Bengal,Kolkata,2023-07-13,Retail,1
+C01257,Arjun Nair,Male,18,Consumer,Delhi,New Delhi,2024-08-31,Online,1
+C01258,Kavya Banerjee,Male,38,Consumer,West Bengal,Siliguri,2023-05-18,Online,1
+C01259,Vihaan Joshi,Male,33,Consumer,Madhya Pradesh,Indore,2024-08-13,Online,1
+C01260,Priya Kulkarni,Male,33,Consumer,Rajasthan,Jaipur,2023-07-24,Online,1
+C01261,Rahul Choudhary,Female,28,Consumer,Madhya Pradesh,Indore,2023-07-01,Retail,1
+C01262,Sneha Iyer,Male,27,Consumer,Maharashtra,Nashik,2024-01-03,Online,1
+C01263,Rahul Joshi,Female,29,Consumer,Tamil Nadu,Coimbatore,2024-08-05,Retail,1
+C01264,Aditya Singh,Male,36,Consumer,Delhi,New Delhi,2024-02-04,Retail,1
+C01265,Aditya Jain,Male,38,Corporate,Madhya Pradesh,Indore,2023-12-16,Retail,1
+C01266,Vihaan Banerjee,Male,30,Consumer,Uttar Pradesh,Kanpur,2023-12-07,Online,1
+C01267,Kavya Kulkarni,Male,41,Consumer,Gujarat,Surat,2023-12-05,Online,1
+C01268,Vihaan Patel,Other,31,Consumer,Telangana,Hyderabad,2024-02-08,Retail,1
+C01269,Isha Khan,Male,27,Consumer,West Bengal,Siliguri,2025-04-14,Retail,1
+C01270,Irfan Nair,Male,34,SMB,Tamil Nadu,Coimbatore,2024-07-31,Online,1
+C01271,Priya Kulkarni,Male,20,Consumer,Tamil Nadu,Chennai,2024-02-26,Retail,1
+C01272,Rahul Khan,Male,34,Consumer,Maharashtra,Pune,2025-01-19,Retail,1
+C01273,Priya Jain,Female,18,SMB,Tamil Nadu,Madurai,2024-06-11,Online,1
+C01274,Diya Mehta,Female,23,Corporate,Gujarat,Surat,2025-08-07,Retail,1
+C01275,Sneha Patel,Male,18,Consumer,Rajasthan,Udaipur,2024-07-16,Online,1
+C01276,Riya Joshi,Female,30,Consumer,Rajasthan,Udaipur,2023-08-05,B2B,1
+C01277,Vihaan Mehta,Male,46,Consumer,Uttar Pradesh,Kanpur,2024-07-16,Online,1
+C01278,Kabir Banerjee,Female,31,Consumer,Maharashtra,Nashik,2025-02-12,Online,1
+C01279,Kavya Banerjee,Female,38,Consumer,Rajasthan,Jaipur,2023-08-02,Online,1
+C01280,Irfan Banerjee,Male,53,Consumer,Gujarat,Surat,2023-07-22,Retail,1
+C01281,Aarav Choudhary,Female,36,Corporate,Tamil Nadu,Coimbatore,2024-08-22,B2B,1
+C01282,Aditya Nair,Female,25,Consumer,Madhya Pradesh,Indore,2025-06-03,Online,1
+C01283,Kabir Joshi,Male,26,Consumer,Rajasthan,Udaipur,2023-12-01,Online,1
+C01284,Neha Singh,Other,32,Consumer,Maharashtra,Mumbai,2024-05-21,Online,1
+C01285,Rohan Nair,Female,26,Consumer,Gujarat,Surat,2024-10-17,Online,1
+C01286,Diya Banerjee,Male,27,Consumer,Uttar Pradesh,Lucknow,2024-10-25,Retail,1
+C01287,Kavya Patel,Female,41,SMB,Telangana,Hyderabad,2023-05-26,Online,1
+C01288,Meera Khan,Female,41,Consumer,Delhi,New Delhi,2024-01-31,B2B,1
+C01289,Rahul Das,Female,18,Consumer,Telangana,Warangal,2025-09-21,Retail,1
+C01290,Diya Gupta,Male,25,Consumer,Rajasthan,Jaipur,2025-06-07,Online,1
+C01291,Kavya Das,Female,28,Consumer,Delhi,New Delhi,2025-02-11,Online,1
+C01292,Aditya Gupta,Female,37,Consumer,Uttar Pradesh,Lucknow,2023-01-25,B2B,1
+C01293,Neha Nair,Female,42,SMB,Uttar Pradesh,Kanpur,2024-02-22,Retail,1
+C01294,Neha Choudhary,Male,56,Consumer,Rajasthan,Udaipur,2023-02-21,Retail,1
+C01295,Sai Gupta,Male,28,Consumer,Delhi,New Delhi,2023-10-29,Online,1
+C01296,Vivaan Nair,Female,28,SMB,Delhi,New Delhi,2025-05-14,Online,1
+C01297,Sneha Patel,Female,37,Consumer,Telangana,Hyderabad,2024-01-23,Retail,1
+C01298,Vivaan Nair,Male,26,SMB,Telangana,Hyderabad,2023-06-18,Online,1
+C01299,Priya Joshi,Female,31,Consumer,Tamil Nadu,Madurai,2024-12-22,Retail,1
+C01300,Aarav Joshi,Female,28,Consumer,Uttar Pradesh,Kanpur,2025-01-29,Retail,1
+C01301,Isha Das,Female,18,SMB,Uttar Pradesh,Kanpur,2024-10-17,Online,1
+C01302,Irfan Patel,Male,33,Consumer,Delhi,New Delhi,2025-03-20,Online,1
+C01303,Riya Jain,Female,30,Consumer,Uttar Pradesh,Noida,2024-12-03,Online,1
+C01304,Arjun Patel,Male,43,Consumer,Delhi,New Delhi,2024-09-26,Retail,0
+C01305,Diya Das,Male,32,Consumer,Tamil Nadu,Chennai,2025-06-07,Online,1
+C01306,Vivaan Khan,Female,21,Consumer,Maharashtra,Nashik,2023-11-21,Online,1
+C01307,Meera Jain,Female,30,Consumer,Gujarat,Ahmedabad,2024-04-01,B2B,1
+C01308,Aarav Singh,Male,18,Consumer,Madhya Pradesh,Indore,2024-07-17,Retail,1
+C01309,Ananya Das,Female,21,Consumer,Tamil Nadu,Madurai,2024-10-31,Online,1
+C01310,Vivaan Gupta,Female,38,Consumer,Uttar Pradesh,Noida,2024-04-21,Retail,1
+C01311,Arjun Nair,Male,30,Consumer,Karnataka,Bengaluru,2024-03-17,Online,1
+C01312,Vivaan Iyer,Male,40,Consumer,West Bengal,Kolkata,2023-06-15,B2B,1
+C01313,Rahul Joshi,Female,18,Consumer,Gujarat,Surat,2024-09-30,Retail,1
+C01314,Kavya Banerjee,Female,30,Consumer,Uttar Pradesh,Lucknow,2023-05-04,Online,1
+C01315,Rahul Iyer,Male,28,Consumer,Madhya Pradesh,Bhopal,2024-04-19,Online,1
+C01316,Rohan Joshi,Female,41,Consumer,Telangana,Hyderabad,2024-02-13,Online,1
+C01317,Priya Gupta,Female,38,Consumer,Karnataka,Mysuru,2025-02-15,Retail,1
+C01318,Vihaan Choudhary,Female,38,Consumer,Tamil Nadu,Coimbatore,2024-04-21,Retail,1
+C01319,Sneha Choudhary,Female,46,Consumer,Karnataka,Mysuru,2023-01-06,Online,1
+C01320,Rahul Gupta,Male,29,SMB,Tamil Nadu,Coimbatore,2024-05-21,B2B,1
+C01321,Isha Iyer,Male,44,SMB,Maharashtra,Nagpur,2023-08-04,Online,1
+C01322,Arjun Patel,Male,23,Consumer,West Bengal,Siliguri,2024-01-16,Retail,0
+C01323,Diya Joshi,Female,22,SMB,Gujarat,Surat,2023-10-24,Retail,1
+C01324,Diya Choudhary,Female,39,SMB,Delhi,New Delhi,2023-06-16,Online,1
+C01325,Rahul Khan,Female,18,Consumer,Maharashtra,Nagpur,2025-08-03,Online,1
+C01326,Vivaan Jain,Male,37,Corporate,Rajasthan,Jaipur,2023-09-11,Retail,1
+C01327,Kabir Nair,Female,33,Consumer,Rajasthan,Udaipur,2024-05-22,Retail,1
+C01328,Kavya Das,Male,42,Consumer,Rajasthan,Udaipur,2025-04-08,Online,0
+C01329,Kavya Iyer,Male,31,Consumer,Maharashtra,Nagpur,2023-12-31,Retail,1
+C01330,Vihaan Mehta,Male,33,Consumer,Gujarat,Vadodara,2025-07-26,Online,1
+C01331,Isha Singh,Female,37,Consumer,Madhya Pradesh,Bhopal,2024-02-09,Online,1
+C01332,Ananya Jain,Male,26,SMB,Telangana,Warangal,2025-08-04,Retail,1
+C01333,Isha Singh,Female,26,Consumer,Karnataka,Mangaluru,2024-03-27,Online,1
+C01334,Vivaan Sharma,Other,36,Consumer,Karnataka,Mysuru,2023-01-15,Retail,1
+C01335,Vivaan Iyer,Female,32,Consumer,Delhi,New Delhi,2025-05-17,Retail,1
+C01336,Aarav Kulkarni,Male,28,Consumer,Madhya Pradesh,Bhopal,2025-05-14,Online,1
+C01337,Sneha Das,Female,31,SMB,Karnataka,Bengaluru,2025-08-20,Online,1
+C01338,Isha Kulkarni,Female,46,Corporate,Madhya Pradesh,Bhopal,2023-05-04,Online,1
+C01339,Arjun Choudhary,Male,28,Consumer,West Bengal,Kolkata,2025-04-24,Online,1
+C01340,Kavya Gupta,Female,28,Consumer,Madhya Pradesh,Bhopal,2023-12-08,Retail,1
+C01341,Priya Joshi,Female,18,Consumer,Rajasthan,Jaipur,2025-04-21,Online,1
+C01342,Diya Kulkarni,Male,32,Consumer,Gujarat,Surat,2025-08-21,B2B,1
+C01343,Aditya Banerjee,Female,38,Corporate,Rajasthan,Jaipur,2023-07-19,Online,1
+C01344,Diya Choudhary,Male,40,Corporate,Karnataka,Bengaluru,2024-01-07,Online,1
+C01345,Kabir Nair,Male,33,Consumer,Delhi,New Delhi,2023-09-26,Retail,1
+C01346,Kabir Nair,Female,41,Consumer,Delhi,New Delhi,2023-11-01,Online,1
+C01347,Diya Mehta,Male,39,Consumer,Karnataka,Mangaluru,2024-08-19,Retail,1
+C01348,Kabir Singh,Male,42,Consumer,Maharashtra,Nashik,2024-02-17,Retail,1
+C01349,Kavya Singh,Male,41,Consumer,Karnataka,Bengaluru,2024-10-18,Retail,0
+C01350,Rahul Sharma,Male,46,Consumer,Karnataka,Bengaluru,2024-11-05,Online,1
+C01351,Riya Banerjee,Male,30,Consumer,Gujarat,Vadodara,2023-07-22,Online,1
+C01352,Arjun Banerjee,Female,20,SMB,Maharashtra,Nashik,2023-02-13,B2B,1
+C01353,Aditya Das,Male,38,Consumer,Maharashtra,Mumbai,2025-01-16,Online,1
+C01354,Vihaan Choudhary,Male,39,Consumer,Madhya Pradesh,Bhopal,2023-07-01,Retail,1
+C01355,Aarav Reddy,Female,46,Consumer,Maharashtra,Pune,2023-07-19,Retail,1
+C01356,Meera Patel,Female,44,Consumer,Maharashtra,Nagpur,2024-08-24,Retail,1
+C01357,Arjun Jain,Male,50,Consumer,Maharashtra,Pune,2023-09-21,Retail,0
+C01358,Arjun Das,Male,38,Consumer,Karnataka,Bengaluru,2023-07-09,B2B,1
+C01359,Neha Banerjee,Male,34,Consumer,Telangana,Hyderabad,2023-11-03,Online,1
+C01360,Ananya Iyer,Male,20,Consumer,Rajasthan,Udaipur,2024-06-06,Retail,1
+C01361,Irfan Das,Male,35,Consumer,Uttar Pradesh,Kanpur,2025-04-25,Retail,1
+C01362,Aditya Joshi,Female,27,Consumer,Telangana,Hyderabad,2025-09-15,Online,1
+C01363,Ananya Khan,Female,34,Consumer,Maharashtra,Nashik,2025-01-02,Retail,1
+C01364,Vivaan Banerjee,Male,32,Consumer,Uttar Pradesh,Noida,2025-06-17,Online,1
+C01365,Riya Mehta,Female,36,Consumer,Maharashtra,Nashik,2024-06-14,Online,0
+C01366,Aditya Khan,Male,31,Consumer,West Bengal,Siliguri,2024-02-13,Retail,1
+C01367,Arjun Nair,Male,40,Corporate,Tamil Nadu,Chennai,2025-03-30,B2B,1
+C01368,Neha Choudhary,Male,18,SMB,Rajasthan,Jaipur,2023-10-30,Online,1
+C01369,Zoya Kulkarni,Male,34,Consumer,Gujarat,Vadodara,2025-03-23,Retail,1
+C01370,Riya Mehta,Female,43,Consumer,West Bengal,Kolkata,2025-09-25,Online,1
+C01371,Sneha Nair,Male,49,Consumer,Tamil Nadu,Chennai,2024-01-25,Online,1
+C01372,Kavya Khan,Female,39,Corporate,Telangana,Hyderabad,2024-09-25,Online,1
+C01373,Kavya Das,Male,47,Consumer,Madhya Pradesh,Bhopal,2025-02-20,Retail,1
+C01374,Sneha Singh,Female,34,Corporate,Uttar Pradesh,Kanpur,2025-02-22,Online,1
+C01375,Vivaan Gupta,Female,32,Consumer,Tamil Nadu,Coimbatore,2023-07-26,Online,1
+C01376,Arjun Gupta,Male,37,Consumer,Tamil Nadu,Chennai,2025-08-20,Retail,1
+C01377,Isha Mehta,Male,32,Consumer,Uttar Pradesh,Noida,2024-05-18,Online,1
+C01378,Kabir Nair,Female,25,Consumer,Gujarat,Vadodara,2023-02-11,Online,1
+C01379,Sneha Kulkarni,Female,27,SMB,Karnataka,Bengaluru,2023-04-29,Online,1
+C01380,Vivaan Khan,Male,22,Consumer,Tamil Nadu,Coimbatore,2024-12-28,Retail,1
+C01381,Arjun Nair,Female,37,Consumer,Maharashtra,Mumbai,2024-03-02,Retail,1
+C01382,Sai Khan,Male,32,Consumer,Karnataka,Bengaluru,2023-04-18,Retail,1
+C01383,Rohan Sharma,Male,29,Consumer,Tamil Nadu,Chennai,2024-06-04,Online,1
+C01384,Sneha Gupta,Female,27,Consumer,Uttar Pradesh,Kanpur,2024-08-22,Online,1
+C01385,Rahul Jain,Male,37,Consumer,Uttar Pradesh,Kanpur,2023-03-21,Retail,1
+C01386,Neha Nair,Male,39,Consumer,Delhi,New Delhi,2023-12-17,Online,1
+C01387,Kavya Gupta,Male,22,Consumer,Tamil Nadu,Chennai,2024-04-07,Online,1
+C01388,Isha Das,Male,20,Corporate,Karnataka,Mangaluru,2025-02-19,Online,1
+C01389,Kabir Banerjee,Male,41,Consumer,Uttar Pradesh,Noida,2024-10-13,Online,1
+C01390,Vihaan Joshi,Male,20,Corporate,Delhi,New Delhi,2023-03-29,Online,1
+C01391,Riya Nair,Female,37,Corporate,Uttar Pradesh,Kanpur,2024-09-06,B2B,1
+C01392,Sai Patel,Female,47,Consumer,Rajasthan,Udaipur,2025-06-21,Online,1
+C01393,Rahul Iyer,Male,47,Consumer,West Bengal,Kolkata,2023-02-24,Retail,1
+C01394,Diya Patel,Male,39,SMB,Gujarat,Vadodara,2025-09-13,Online,1
+C01395,Diya Banerjee,Female,38,Consumer,Madhya Pradesh,Bhopal,2023-04-06,Retail,1
+C01396,Isha Kulkarni,Male,52,Consumer,West Bengal,Kolkata,2024-09-14,Retail,1
+C01397,Rahul Das,Male,18,Consumer,West Bengal,Kolkata,2023-12-18,B2B,1
+C01398,Rahul Singh,Female,28,Consumer,Rajasthan,Udaipur,2024-12-31,Online,1
+C01399,Isha Das,Male,40,Consumer,Rajasthan,Udaipur,2025-04-22,Retail,1
+C01400,Sneha Sharma,Female,29,SMB,Maharashtra,Pune,2025-05-01,Online,1
+C01401,Kavya Choudhary,Female,43,Consumer,Rajasthan,Jaipur,2025-05-19,Retail,1
+C01402,Irfan Kulkarni,Female,32,Corporate,Uttar Pradesh,Kanpur,2025-03-27,Retail,1
+C01403,Rahul Choudhary,Male,33,Consumer,Delhi,New Delhi,2023-11-06,Retail,1
+C01404,Ananya Nair,Male,30,Consumer,Gujarat,Ahmedabad,2024-04-10,Retail,1
+C01405,Meera Joshi,Male,27,Consumer,Uttar Pradesh,Lucknow,2024-12-19,Retail,1
+C01406,Sai Joshi,Female,27,Consumer,Delhi,New Delhi,2023-06-18,Retail,1
+C01407,Ananya Banerjee,Female,34,Consumer,Tamil Nadu,Coimbatore,2024-07-31,Online,1
+C01408,Priya Gupta,Female,25,Consumer,West Bengal,Siliguri,2024-06-14,Online,1
+C01409,Vivaan Gupta,Male,41,Consumer,West Bengal,Kolkata,2025-09-10,Retail,1
+C01410,Arjun Joshi,Female,38,Consumer,Madhya Pradesh,Indore,2023-02-19,B2B,1
+C01411,Irfan Iyer,Female,42,Consumer,Karnataka,Mysuru,2023-04-05,Online,1
+C01412,Vihaan Jain,Female,22,Consumer,Delhi,New Delhi,2023-01-31,Online,1
+C01413,Kabir Sharma,Female,18,Consumer,Madhya Pradesh,Indore,2024-07-01,Online,1
+C01414,Kavya Choudhary,Male,32,Consumer,Telangana,Warangal,2024-07-04,Online,1
+C01415,Sai Kulkarni,Male,58,Consumer,Delhi,New Delhi,2024-08-15,Online,1
+C01416,Priya Sharma,Female,43,Consumer,Delhi,New Delhi,2023-08-31,Online,1
+C01417,Zoya Mehta,Male,27,Consumer,Gujarat,Ahmedabad,2023-11-04,Online,1
+C01418,Irfan Gupta,Male,36,Consumer,Telangana,Hyderabad,2024-02-21,Retail,1
+C01419,Rahul Gupta,Male,39,Consumer,Delhi,New Delhi,2023-02-16,Online,0
+C01420,Kabir Das,Male,20,Consumer,West Bengal,Kolkata,2025-01-22,Online,1
+C01421,Zoya Singh,Female,44,Consumer,Tamil Nadu,Madurai,2023-02-22,Online,1
+C01422,Diya Khan,Male,30,Consumer,West Bengal,Siliguri,2024-10-28,Online,1
+C01423,Kabir Sharma,Male,31,SMB,Karnataka,Mysuru,2024-03-29,Online,1
+C01424,Rohan Reddy,Female,32,SMB,West Bengal,Kolkata,2025-09-25,Online,1
+C01425,Sneha Kulkarni,Female,42,Consumer,Madhya Pradesh,Bhopal,2024-11-23,Online,1
+C01426,Diya Singh,Male,25,Consumer,Karnataka,Bengaluru,2024-04-20,Retail,1
+C01427,Zoya Nair,Male,18,Consumer,Gujarat,Surat,2024-12-01,Online,1
+C01428,Riya Mehta,Male,35,SMB,West Bengal,Siliguri,2023-04-28,Online,1
+C01429,Aditya Patel,Male,18,Consumer,West Bengal,Siliguri,2023-06-30,Online,1
+C01430,Rohan Banerjee,Male,29,Consumer,West Bengal,Kolkata,2024-05-13,Online,1
+C01431,Sneha Joshi,Male,43,Consumer,Telangana,Warangal,2025-05-07,Online,1
+C01432,Priya Sharma,Female,37,Consumer,West Bengal,Siliguri,2025-03-31,Online,1
+C01433,Riya Nair,Female,41,Consumer,West Bengal,Siliguri,2024-01-13,Online,1
+C01434,Rahul Choudhary,Female,38,Consumer,Maharashtra,Mumbai,2023-10-11,Online,1
+C01435,Rahul Singh,Male,54,Consumer,Uttar Pradesh,Noida,2025-08-22,Retail,1
+C01436,Isha Jain,Male,27,Consumer,Tamil Nadu,Madurai,2024-07-19,Online,1
+C01437,Kavya Choudhary,Other,36,SMB,Maharashtra,Pune,2023-04-29,Online,1
+C01438,Kabir Banerjee,Female,28,Corporate,Tamil Nadu,Madurai,2023-08-13,Online,1
+C01439,Kabir Banerjee,Female,41,Consumer,Tamil Nadu,Chennai,2025-04-16,Online,1
+C01440,Neha Khan,Male,31,Consumer,Maharashtra,Nagpur,2025-06-17,Retail,1
+C01441,Ananya Sharma,Male,47,Consumer,Madhya Pradesh,Bhopal,2025-06-27,Online,1
+C01442,Ananya Mehta,Male,27,SMB,Delhi,New Delhi,2023-01-07,Online,1
+C01443,Aarav Joshi,Female,45,Consumer,Gujarat,Ahmedabad,2025-04-02,B2B,1
+C01444,Zoya Singh,Male,37,Consumer,Tamil Nadu,Chennai,2023-04-22,Online,0
+C01445,Sai Iyer,Female,32,SMB,Rajasthan,Udaipur,2025-03-19,Online,1
+C01446,Rohan Banerjee,Female,37,Consumer,Uttar Pradesh,Lucknow,2025-05-31,Retail,1
+C01447,Rohan Reddy,Female,34,Consumer,Uttar Pradesh,Noida,2023-12-28,B2B,1
+C01448,Neha Nair,Male,35,Consumer,Delhi,New Delhi,2023-07-13,Online,0
+C01449,Zoya Mehta,Female,30,Consumer,Rajasthan,Jaipur,2024-12-14,Retail,1
+C01450,Zoya Choudhary,Female,26,Consumer,Rajasthan,Udaipur,2023-03-10,Online,1
+C01451,Aarav Joshi,Male,29,Consumer,Tamil Nadu,Coimbatore,2024-08-02,Retail,1
+C01452,Irfan Mehta,Female,18,SMB,Telangana,Warangal,2023-11-28,Online,1
+C01453,Arjun Jain,Female,40,Consumer,Maharashtra,Mumbai,2024-02-29,Retail,1
+C01454,Kabir Sharma,Female,21,Corporate,Uttar Pradesh,Lucknow,2025-04-05,Online,1
+C01455,Rohan Joshi,Male,30,Corporate,Madhya Pradesh,Bhopal,2025-09-20,Online,1
+C01456,Vivaan Singh,Female,38,Consumer,Tamil Nadu,Coimbatore,2024-02-07,Online,1
+C01457,Sai Nair,Male,40,SMB,Telangana,Warangal,2023-10-18,Retail,1
+C01458,Rahul Iyer,Male,18,Consumer,Tamil Nadu,Madurai,2025-04-14,Retail,1
+C01459,Aditya Singh,Male,31,Consumer,Maharashtra,Nashik,2024-02-18,Retail,1
+C01460,Arjun Gupta,Male,36,Consumer,West Bengal,Kolkata,2023-07-19,B2B,1
+C01461,Vivaan Patel,Male,32,Consumer,Uttar Pradesh,Lucknow,2025-06-21,Online,1
+C01462,Vihaan Singh,Male,44,SMB,Madhya Pradesh,Bhopal,2025-09-18,Retail,1
+C01463,Kabir Sharma,Female,25,Consumer,Madhya Pradesh,Bhopal,2023-10-17,Online,1
+C01464,Irfan Patel,Male,18,Consumer,Tamil Nadu,Madurai,2023-06-07,Retail,1
+C01465,Meera Das,Other,39,Consumer,Madhya Pradesh,Bhopal,2023-06-02,Retail,1
+C01466,Sai Choudhary,Male,27,Consumer,Telangana,Hyderabad,2024-08-21,Online,1
+C01467,Zoya Joshi,Female,18,Consumer,West Bengal,Kolkata,2023-11-06,Online,1
+C01468,Diya Sharma,Female,31,Consumer,West Bengal,Siliguri,2024-09-15,Retail,1
+C01469,Ananya Patel,Female,43,Corporate,Madhya Pradesh,Bhopal,2025-01-29,Retail,1
+C01470,Riya Reddy,Female,21,Consumer,Uttar Pradesh,Lucknow,2023-01-06,Retail,1
+C01471,Aditya Reddy,Female,53,Corporate,Karnataka,Bengaluru,2025-05-09,Online,1
+C01472,Diya Sharma,Male,24,Consumer,Maharashtra,Nashik,2023-01-30,Online,1
+C01473,Kavya Iyer,Male,33,Consumer,Tamil Nadu,Madurai,2023-04-25,B2B,1
+C01474,Kabir Patel,Male,21,Consumer,Telangana,Warangal,2024-12-25,Retail,1
+C01475,Sneha Singh,Male,32,Consumer,West Bengal,Kolkata,2024-09-13,Online,1
+C01476,Kavya Mehta,Male,31,Corporate,Tamil Nadu,Coimbatore,2025-09-05,Retail,1
+C01477,Diya Kulkarni,Male,19,Consumer,Telangana,Warangal,2024-07-21,Retail,1
+C01478,Kavya Singh,Female,57,Consumer,Madhya Pradesh,Bhopal,2024-02-22,Retail,0
+C01479,Zoya Iyer,Female,28,SMB,Gujarat,Surat,2024-10-30,Retail,1
+C01480,Kabir Jain,Female,28,Consumer,Tamil Nadu,Coimbatore,2025-02-01,Retail,1
+C01481,Kavya Sharma,Female,41,Consumer,Telangana,Hyderabad,2024-11-02,Retail,1
+C01482,Riya Das,Male,48,SMB,Tamil Nadu,Chennai,2024-01-06,Online,1
+C01483,Rahul Gupta,Male,42,Consumer,Madhya Pradesh,Bhopal,2025-08-17,Online,1
+C01484,Arjun Reddy,Female,21,Corporate,Madhya Pradesh,Indore,2023-10-29,Retail,1
+C01485,Isha Das,Female,34,Consumer,Telangana,Hyderabad,2023-12-13,Retail,1
+C01486,Sai Mehta,Male,18,Corporate,Tamil Nadu,Coimbatore,2023-10-05,Online,1
+C01487,Aditya Choudhary,Male,40,Consumer,Telangana,Warangal,2023-10-27,Retail,1
+C01488,Kabir Singh,Male,18,Consumer,Karnataka,Mysuru,2023-08-01,Online,1
+C01489,Aditya Iyer,Male,25,Consumer,Tamil Nadu,Coimbatore,2024-08-04,Online,1
+C01490,Arjun Das,Male,32,Corporate,Delhi,New Delhi,2024-12-29,Retail,1
+C01491,Kavya Das,Male,36,Consumer,Karnataka,Mysuru,2024-03-05,B2B,1
+C01492,Arjun Jain,Female,30,SMB,Maharashtra,Mumbai,2025-07-11,Online,1
+C01493,Zoya Singh,Female,46,Consumer,Telangana,Hyderabad,2024-04-18,Online,1
+C01494,Aarav Choudhary,Female,39,Consumer,Maharashtra,Mumbai,2024-04-12,Online,1
+C01495,Priya Mehta,Female,38,SMB,West Bengal,Siliguri,2023-03-11,Online,1
+C01496,Vivaan Singh,Female,21,Consumer,Tamil Nadu,Madurai,2025-06-22,Online,1
+C01497,Vivaan Gupta,Male,47,Consumer,Gujarat,Ahmedabad,2023-05-29,Online,1
+C01498,Kavya Iyer,Female,25,Consumer,Uttar Pradesh,Lucknow,2023-06-14,Online,1
+C01499,Vivaan Patel,Male,48,Consumer,Telangana,Hyderabad,2025-07-24,Retail,1
+C01500,Zoya Singh,Female,50,Consumer,Uttar Pradesh,Kanpur,2024-06-03,Retail,1
+C01501,Meera Choudhary,Male,37,Consumer,Uttar Pradesh,Noida,2023-03-10,Retail,1
+C01502,Priya Sharma,Female,41,Consumer,Maharashtra,Nashik,2024-03-17,Online,1
+C01503,Rahul Banerjee,Female,18,Consumer,Delhi,New Delhi,2024-08-13,Online,1
+C01504,Diya Jain,Male,30,Consumer,Telangana,Hyderabad,2023-01-11,Online,1
+C01505,Diya Reddy,Male,42,Consumer,Madhya Pradesh,Bhopal,2025-01-24,B2B,1
+C01506,Isha Gupta,Male,40,Consumer,Karnataka,Mysuru,2024-10-30,Online,1
+C01507,Rohan Singh,Female,21,Consumer,Karnataka,Bengaluru,2023-01-12,Retail,1
+C01508,Irfan Jain,Female,29,Consumer,Madhya Pradesh,Bhopal,2024-09-10,Online,1
+C01509,Riya Sharma,Male,18,Consumer,Madhya Pradesh,Bhopal,2023-08-11,Retail,1
+C01510,Sai Reddy,Female,36,Consumer,Karnataka,Mangaluru,2025-01-04,Online,1
+C01511,Zoya Sharma,Male,18,Consumer,Tamil Nadu,Madurai,2024-01-13,Online,1
+C01512,Meera Mehta,Male,42,SMB,West Bengal,Kolkata,2023-07-22,Retail,1
+C01513,Irfan Patel,Male,43,Consumer,Karnataka,Bengaluru,2024-05-21,Online,1
+C01514,Isha Gupta,Female,28,Consumer,Gujarat,Surat,2024-03-19,Retail,1
+C01515,Vihaan Nair,Male,37,Consumer,Gujarat,Ahmedabad,2023-12-08,Online,1
+C01516,Rahul Nair,Male,30,Consumer,West Bengal,Kolkata,2025-05-28,B2B,1
+C01517,Rohan Iyer,Male,34,Corporate,Gujarat,Ahmedabad,2024-10-10,Retail,1
+C01518,Ananya Das,Female,22,SMB,Tamil Nadu,Coimbatore,2024-05-02,Online,1
+C01519,Irfan Khan,Male,38,SMB,Delhi,New Delhi,2023-08-15,Retail,1
+C01520,Aarav Singh,Female,18,Consumer,Uttar Pradesh,Noida,2024-07-22,Retail,1
+C01521,Rahul Sharma,Female,18,Consumer,Karnataka,Mysuru,2023-01-26,Retail,1
+C01522,Meera Jain,Female,31,Consumer,Delhi,New Delhi,2025-06-03,Online,1
+C01523,Meera Sharma,Male,30,Consumer,Delhi,New Delhi,2023-01-02,Online,1
+C01524,Aarav Mehta,Female,34,Consumer,Madhya Pradesh,Bhopal,2024-11-29,Retail,1
+C01525,Vihaan Reddy,Male,26,Consumer,Madhya Pradesh,Bhopal,2023-12-12,Online,1
+C01526,Neha Iyer,Male,49,Consumer,Telangana,Hyderabad,2024-12-20,Retail,1
+C01527,Meera Singh,Male,33,SMB,Karnataka,Bengaluru,2023-12-28,Online,1
+C01528,Aditya Khan,Male,34,Consumer,Uttar Pradesh,Noida,2023-01-27,Retail,1
+C01529,Rohan Singh,Female,34,Consumer,Tamil Nadu,Chennai,2025-08-06,Online,1
+C01530,Neha Mehta,Other,41,SMB,Rajasthan,Jaipur,2025-02-04,Retail,1
+C01531,Sai Reddy,Female,37,Consumer,Gujarat,Surat,2023-02-14,Online,1
+C01532,Rohan Kulkarni,Male,36,Consumer,Madhya Pradesh,Indore,2023-02-02,Online,1
+C01533,Sneha Reddy,Female,39,Consumer,Rajasthan,Jaipur,2024-06-14,Online,1
+C01534,Priya Banerjee,Female,18,Consumer,Delhi,New Delhi,2025-08-14,Retail,1
+C01535,Arjun Nair,Male,18,Consumer,Uttar Pradesh,Lucknow,2024-07-31,Online,1
+C01536,Sneha Sharma,Male,31,Consumer,Delhi,New Delhi,2023-01-11,Retail,1
+C01537,Rahul Gupta,Female,30,Consumer,Gujarat,Vadodara,2024-11-30,Online,1
+C01538,Priya Sharma,Male,37,Consumer,Delhi,New Delhi,2024-03-03,Retail,1
+C01539,Isha Iyer,Male,32,Consumer,West Bengal,Siliguri,2024-09-30,Retail,1
+C01540,Irfan Nair,Female,37,Consumer,Delhi,New Delhi,2023-12-17,Online,1
+C01541,Aarav Jain,Male,21,Corporate,West Bengal,Kolkata,2023-01-09,Online,1
+C01542,Ananya Reddy,Male,32,Consumer,Telangana,Warangal,2023-01-19,Online,1
+C01543,Riya Joshi,Female,20,Consumer,Uttar Pradesh,Noida,2024-09-23,Retail,1
+C01544,Rohan Kulkarni,Female,35,Consumer,Madhya Pradesh,Indore,2024-09-27,B2B,1
+C01545,Kabir Das,Female,18,Corporate,Maharashtra,Pune,2023-11-19,Online,1
+C01546,Diya Jain,Female,35,Consumer,Madhya Pradesh,Bhopal,2023-03-24,Retail,1
+C01547,Zoya Gupta,Female,19,Consumer,Karnataka,Mysuru,2025-02-11,Retail,1
+C01548,Kabir Gupta,Female,29,Consumer,Telangana,Hyderabad,2023-06-01,Retail,1
+C01549,Riya Khan,Female,40,Consumer,Gujarat,Surat,2023-07-08,Online,1
+C01550,Rahul Iyer,Female,34,Consumer,West Bengal,Kolkata,2024-03-28,B2B,1
+C01551,Vivaan Sharma,Male,18,Consumer,Uttar Pradesh,Noida,2024-12-17,Online,1
+C01552,Neha Jain,Female,26,Corporate,Rajasthan,Jaipur,2025-09-22,Retail,1
+C01553,Rahul Jain,Female,18,Consumer,Tamil Nadu,Chennai,2024-09-17,Online,1
+C01554,Rohan Reddy,Male,18,Consumer,Madhya Pradesh,Bhopal,2025-08-18,Retail,1
+C01555,Meera Singh,Female,33,Consumer,Gujarat,Ahmedabad,2024-10-14,B2B,1
+C01556,Diya Iyer,Female,37,Consumer,Delhi,New Delhi,2025-04-27,Retail,1
+C01557,Sai Sharma,Male,36,Consumer,Gujarat,Vadodara,2023-06-25,Online,1
+C01558,Riya Das,Male,37,Consumer,Telangana,Warangal,2023-02-26,Retail,1
+C01559,Zoya Khan,Male,32,SMB,West Bengal,Siliguri,2024-10-31,Online,1
+C01560,Priya Jain,Male,30,Corporate,Rajasthan,Udaipur,2025-09-02,Retail,1
+C01561,Aditya Gupta,Male,22,SMB,Delhi,New Delhi,2025-01-06,Online,1
+C01562,Priya Nair,Male,28,Consumer,Gujarat,Ahmedabad,2023-12-10,Retail,1
+C01563,Vivaan Iyer,Male,20,Consumer,Madhya Pradesh,Indore,2024-05-04,Online,1
+C01564,Rahul Patel,Male,24,Consumer,Tamil Nadu,Chennai,2023-04-23,Online,1
+C01565,Riya Singh,Female,33,Consumer,Delhi,New Delhi,2023-12-07,Online,1
+C01566,Arjun Khan,Female,31,Consumer,Madhya Pradesh,Bhopal,2024-11-13,Online,1
+C01567,Kabir Kulkarni,Male,60,Consumer,Tamil Nadu,Coimbatore,2023-06-16,Online,1
+C01568,Riya Gupta,Male,20,Consumer,Madhya Pradesh,Bhopal,2024-04-26,Retail,1
+C01569,Riya Choudhary,Male,31,Consumer,Madhya Pradesh,Indore,2023-10-17,Retail,1
+C01570,Meera Das,Male,19,SMB,Madhya Pradesh,Indore,2024-05-05,Retail,1
+C01571,Rahul Joshi,Male,29,Consumer,Telangana,Warangal,2025-02-02,Retail,1
+C01572,Zoya Singh,Male,29,Consumer,Uttar Pradesh,Kanpur,2025-06-03,Online,1
+C01573,Sai Choudhary,Male,40,Consumer,Madhya Pradesh,Bhopal,2024-02-14,Online,1
+C01574,Arjun Reddy,Female,28,Consumer,Delhi,New Delhi,2025-04-07,Online,1
+C01575,Sneha Jain,Male,30,SMB,Maharashtra,Pune,2024-12-03,Online,1
+C01576,Kabir Choudhary,Female,28,Consumer,Gujarat,Surat,2025-07-10,Retail,1
+C01577,Aarav Choudhary,Male,19,SMB,West Bengal,Kolkata,2025-01-10,Retail,1
+C01578,Riya Joshi,Male,26,Corporate,Telangana,Warangal,2024-07-04,Retail,0
+C01579,Aditya Banerjee,Female,29,Consumer,Maharashtra,Mumbai,2024-11-05,Retail,1
+C01580,Aarav Nair,Male,33,Consumer,Telangana,Warangal,2023-11-14,Online,1
+C01581,Vihaan Gupta,Female,37,Consumer,Karnataka,Bengaluru,2024-11-04,Retail,1
+C01582,Sai Khan,Female,30,Consumer,Telangana,Hyderabad,2024-12-09,Online,1
+C01583,Vivaan Iyer,Female,30,Consumer,Telangana,Hyderabad,2024-09-02,Retail,1
+C01584,Irfan Singh,Male,18,SMB,West Bengal,Siliguri,2023-04-14,Online,1
+C01585,Isha Khan,Female,37,Consumer,Tamil Nadu,Madurai,2024-06-02,Online,0
+C01586,Meera Iyer,Male,26,Corporate,Tamil Nadu,Madurai,2024-12-11,Online,1
+C01587,Zoya Mehta,Male,39,Consumer,West Bengal,Siliguri,2023-07-17,Online,1
+C01588,Irfan Gupta,Male,44,SMB,Uttar Pradesh,Lucknow,2025-02-26,Online,1
+C01589,Irfan Joshi,Female,30,Consumer,Rajasthan,Jaipur,2025-04-22,Online,1
+C01590,Vihaan Banerjee,Female,23,Consumer,Gujarat,Vadodara,2024-06-22,Retail,1
+C01591,Neha Patel,Male,32,Consumer,Tamil Nadu,Coimbatore,2025-08-22,Retail,1
+C01592,Sneha Mehta,Male,35,Consumer,Gujarat,Ahmedabad,2025-05-07,Online,1
+C01593,Aarav Jain,Female,29,Corporate,Telangana,Warangal,2024-04-11,Online,1
+C01594,Zoya Khan,Female,27,Consumer,Karnataka,Mysuru,2025-06-03,Retail,1
+C01595,Zoya Nair,Male,37,Consumer,Tamil Nadu,Chennai,2025-07-22,Online,1
+C01596,Irfan Das,Male,36,Consumer,Karnataka,Mangaluru,2023-04-19,Retail,1
+C01597,Diya Mehta,Female,29,Consumer,Telangana,Warangal,2025-09-24,Online,1
+C01598,Vihaan Sharma,Female,18,Consumer,Rajasthan,Udaipur,2023-01-05,Online,1
+C01599,Neha Reddy,Female,36,Consumer,Madhya Pradesh,Bhopal,2024-05-01,Online,1
+C01600,Kabir Kulkarni,Male,25,Consumer,Tamil Nadu,Coimbatore,2025-07-26,Online,0
+C01601,Neha Khan,Male,34,Consumer,Maharashtra,Pune,2024-12-25,Retail,1
+C01602,Sai Nair,Male,33,Consumer,Delhi,New Delhi,2023-09-24,Retail,1
+C01603,Vihaan Das,Male,18,SMB,Karnataka,Mysuru,2024-10-05,Online,1
+C01604,Rahul Choudhary,Female,33,Consumer,Uttar Pradesh,Lucknow,2023-08-03,Retail,1
+C01605,Riya Khan,Male,37,Consumer,Madhya Pradesh,Indore,2023-08-26,Online,1
+C01606,Zoya Joshi,Female,38,Consumer,Telangana,Warangal,2025-06-30,Online,1
+C01607,Rahul Mehta,Female,33,Consumer,Karnataka,Bengaluru,2023-02-17,Retail,1
+C01608,Priya Mehta,Female,18,Consumer,Maharashtra,Nagpur,2025-08-20,Retail,1
+C01609,Sai Gupta,Female,43,Consumer,Madhya Pradesh,Indore,2024-03-29,Online,1
+C01610,Zoya Joshi,Female,36,Consumer,Gujarat,Ahmedabad,2023-03-06,Online,1
+C01611,Neha Iyer,Male,21,Consumer,Karnataka,Mysuru,2025-02-26,Online,1
+C01612,Rohan Nair,Male,25,Consumer,Karnataka,Mangaluru,2023-02-18,Online,1
+C01613,Sneha Reddy,Male,34,SMB,Delhi,New Delhi,2023-11-22,Retail,1
+C01614,Arjun Das,Other,38,Consumer,West Bengal,Kolkata,2023-08-29,Online,1
+C01615,Diya Singh,Female,28,Consumer,Rajasthan,Jaipur,2025-02-23,Retail,1
+C01616,Aarav Patel,Male,39,Consumer,Delhi,New Delhi,2024-02-01,Online,1
+C01617,Diya Kulkarni,Male,18,Consumer,West Bengal,Kolkata,2024-10-16,Online,1
+C01618,Isha Iyer,Male,23,Consumer,Maharashtra,Mumbai,2023-03-14,Online,1
+C01619,Priya Banerjee,Male,18,Consumer,Maharashtra,Nashik,2024-11-26,Online,1
+C01620,Vihaan Reddy,Female,24,Consumer,Maharashtra,Pune,2024-12-11,Retail,1
+C01621,Irfan Sharma,Male,46,Consumer,Madhya Pradesh,Indore,2023-10-13,B2B,1
+C01622,Priya Sharma,Female,51,Consumer,Telangana,Hyderabad,2025-05-31,Retail,1
+C01623,Isha Choudhary,Female,34,SMB,Rajasthan,Jaipur,2024-04-15,Retail,1
+C01624,Zoya Khan,Male,26,Consumer,Maharashtra,Nashik,2024-10-29,Online,1
+C01625,Priya Sharma,Male,30,Corporate,Maharashtra,Pune,2023-07-01,Retail,1
+C01626,Zoya Iyer,Other,36,Consumer,Rajasthan,Udaipur,2025-07-21,Retail,1
+C01627,Arjun Iyer,Female,18,SMB,Karnataka,Bengaluru,2023-09-04,Retail,1
+C01628,Zoya Patel,Male,27,Consumer,Karnataka,Bengaluru,2024-09-18,Online,1
+C01629,Sneha Banerjee,Male,45,Consumer,Telangana,Warangal,2023-03-31,Online,1
+C01630,Kavya Sharma,Female,23,Corporate,West Bengal,Kolkata,2023-02-14,Retail,1
+C01631,Zoya Joshi,Female,25,Consumer,Delhi,New Delhi,2023-05-07,Online,1
+C01632,Neha Jain,Female,32,Consumer,Tamil Nadu,Coimbatore,2025-07-31,Online,1
+C01633,Kabir Mehta,Female,35,SMB,West Bengal,Kolkata,2023-07-30,Online,1
+C01634,Kavya Patel,Female,26,Consumer,Tamil Nadu,Chennai,2025-05-29,Retail,1
+C01635,Sneha Joshi,Male,33,Consumer,Gujarat,Surat,2024-08-03,Online,1
+C01636,Kabir Gupta,Female,37,Consumer,Maharashtra,Nashik,2023-03-30,Retail,1
+C01637,Rohan Reddy,Male,50,Corporate,Tamil Nadu,Chennai,2024-03-17,Retail,1
+C01638,Vivaan Iyer,Female,31,SMB,Rajasthan,Udaipur,2024-04-24,Online,1
+C01639,Sneha Nair,Other,32,Consumer,West Bengal,Siliguri,2023-09-24,Online,1
+C01640,Kavya Singh,Other,46,Consumer,Rajasthan,Udaipur,2024-08-27,B2B,1
+C01641,Vihaan Khan,Male,27,Consumer,Karnataka,Bengaluru,2025-05-11,Online,1
+C01642,Sai Reddy,Female,20,Consumer,Maharashtra,Nashik,2025-06-02,Online,1
+C01643,Arjun Nair,Female,34,Corporate,Telangana,Hyderabad,2024-06-09,Online,1
+C01644,Ananya Banerjee,Other,42,Consumer,Karnataka,Mangaluru,2025-06-12,Online,1
+C01645,Zoya Banerjee,Female,35,Consumer,Telangana,Warangal,2025-07-12,Retail,1
+C01646,Priya Khan,Male,31,Consumer,Madhya Pradesh,Indore,2023-03-30,Online,1
+C01647,Isha Jain,Male,19,Consumer,Gujarat,Ahmedabad,2024-09-26,Retail,1
+C01648,Kavya Singh,Female,31,Corporate,Telangana,Warangal,2025-02-12,Online,1
+C01649,Diya Nair,Female,43,Consumer,West Bengal,Kolkata,2023-01-16,B2B,1
+C01650,Zoya Kulkarni,Female,21,Consumer,Karnataka,Mysuru,2024-08-26,Retail,1
+C01651,Kavya Mehta,Female,30,Corporate,Rajasthan,Udaipur,2025-07-02,Online,1
+C01652,Sai Iyer,Male,29,SMB,Delhi,New Delhi,2023-09-26,Retail,1
+C01653,Kabir Das,Male,26,Consumer,Rajasthan,Jaipur,2025-05-07,Online,1
+C01654,Priya Iyer,Female,34,SMB,West Bengal,Kolkata,2025-07-22,B2B,1
+C01655,Ananya Kulkarni,Male,36,Consumer,Karnataka,Bengaluru,2024-09-27,Retail,1
+C01656,Rahul Reddy,Female,36,Corporate,Uttar Pradesh,Lucknow,2024-09-21,Online,1
+C01657,Diya Jain,Female,23,Consumer,Karnataka,Bengaluru,2024-06-18,Online,1
+C01658,Aditya Mehta,Female,18,Consumer,Telangana,Hyderabad,2024-02-14,B2B,1
+C01659,Isha Mehta,Male,34,Consumer,Madhya Pradesh,Bhopal,2024-03-28,Retail,1
+C01660,Riya Gupta,Female,27,Consumer,Madhya Pradesh,Indore,2024-06-06,Online,1
+C01661,Aditya Reddy,Male,49,Consumer,Rajasthan,Udaipur,2024-04-27,Online,1
+C01662,Neha Das,Male,49,Consumer,Tamil Nadu,Madurai,2025-04-06,Online,1
+C01663,Arjun Nair,Male,50,Consumer,Telangana,Warangal,2025-02-08,Retail,1
+C01664,Vivaan Khan,Male,24,Consumer,Gujarat,Surat,2023-12-14,Retail,0
+C01665,Riya Sharma,Female,37,Consumer,Madhya Pradesh,Indore,2024-05-28,Retail,1
+C01666,Vihaan Das,Female,40,Consumer,Tamil Nadu,Madurai,2023-08-04,Retail,1
+C01667,Kavya Jain,Male,39,SMB,Uttar Pradesh,Lucknow,2023-06-26,Retail,1
+C01668,Vivaan Nair,Female,29,SMB,Gujarat,Surat,2024-01-04,Online,1
+C01669,Isha Jain,Male,44,Consumer,Uttar Pradesh,Noida,2023-02-28,Retail,1
+C01670,Vivaan Kulkarni,Female,32,Consumer,Delhi,New Delhi,2025-05-04,Online,1
+C01671,Diya Iyer,Female,33,Consumer,Uttar Pradesh,Kanpur,2023-05-07,Retail,1
+C01672,Rahul Mehta,Female,18,Consumer,Maharashtra,Nagpur,2023-11-23,Online,1
+C01673,Rohan Sharma,Male,38,SMB,Karnataka,Mangaluru,2023-09-09,Retail,1
+C01674,Riya Choudhary,Male,30,Consumer,Gujarat,Vadodara,2023-07-26,Retail,1
+C01675,Vihaan Joshi,Male,36,Consumer,Tamil Nadu,Coimbatore,2024-01-03,Retail,1
+C01676,Ananya Das,Female,34,Consumer,Uttar Pradesh,Kanpur,2024-12-20,Online,1
+C01677,Diya Khan,Female,34,Consumer,Gujarat,Ahmedabad,2025-06-11,Retail,1
+C01678,Meera Iyer,Male,32,SMB,Maharashtra,Nashik,2023-07-08,Online,1
+C01679,Arjun Banerjee,Male,39,Consumer,Gujarat,Ahmedabad,2023-08-28,Online,1
+C01680,Sneha Sharma,Female,30,Consumer,Tamil Nadu,Madurai,2024-04-14,Retail,1
+C01681,Rohan Sharma,Male,19,Consumer,Telangana,Hyderabad,2023-11-16,Retail,1
+C01682,Ananya Kulkarni,Female,37,SMB,West Bengal,Siliguri,2025-03-10,Online,1
+C01683,Aditya Iyer,Female,25,Consumer,Delhi,New Delhi,2023-08-12,B2B,1
+C01684,Meera Joshi,Male,20,Corporate,West Bengal,Kolkata,2024-02-07,Online,1
+C01685,Isha Sharma,Male,23,SMB,West Bengal,Kolkata,2024-06-29,Retail,1
+C01686,Rohan Nair,Male,35,Consumer,Uttar Pradesh,Kanpur,2024-01-17,Retail,1
+C01687,Meera Nair,Male,31,SMB,Telangana,Hyderabad,2024-09-09,Retail,1
+C01688,Kabir Iyer,Female,18,Consumer,Rajasthan,Jaipur,2025-03-10,Retail,1
+C01689,Irfan Singh,Female,29,Consumer,Delhi,New Delhi,2024-06-16,B2B,1
+C01690,Riya Joshi,Male,43,Consumer,Uttar Pradesh,Lucknow,2024-04-01,Retail,1
+C01691,Neha Jain,Female,28,Consumer,Maharashtra,Pune,2025-08-09,Online,1
+C01692,Diya Joshi,Male,31,Consumer,Karnataka,Mysuru,2025-09-08,Online,1
+C01693,Rahul Banerjee,Male,41,Consumer,Rajasthan,Udaipur,2025-09-22,Retail,1
+C01694,Isha Patel,Female,39,Consumer,Tamil Nadu,Chennai,2023-01-17,Online,1
+C01695,Rohan Mehta,Female,41,Consumer,West Bengal,Kolkata,2025-04-17,Retail,1
+C01696,Sneha Nair,Female,18,Consumer,West Bengal,Kolkata,2025-06-17,Online,1
+C01697,Ananya Iyer,Male,48,Consumer,West Bengal,Siliguri,2025-03-16,Retail,1
+C01698,Aditya Iyer,Female,38,Consumer,Delhi,New Delhi,2025-01-19,Online,1
+C01699,Arjun Patel,Male,54,SMB,Karnataka,Mangaluru,2024-01-02,Retail,1
+C01700,Arjun Banerjee,Other,25,SMB,Maharashtra,Mumbai,2024-12-26,B2B,1
+C01701,Vivaan Jain,Female,18,Consumer,Rajasthan,Jaipur,2024-08-02,Online,1
+C01702,Riya Patel,Female,32,Consumer,Delhi,New Delhi,2025-04-11,Retail,1
+C01703,Sai Iyer,Male,30,Consumer,Telangana,Hyderabad,2023-12-18,Online,1
+C01704,Vivaan Reddy,Male,38,Corporate,Tamil Nadu,Madurai,2025-01-12,Retail,1
+C01705,Aditya Choudhary,Female,42,Consumer,Karnataka,Mangaluru,2025-02-23,Retail,1
+C01706,Sai Jain,Male,31,Corporate,Tamil Nadu,Madurai,2025-04-13,Online,1
+C01707,Diya Choudhary,Female,30,Consumer,Maharashtra,Pune,2023-06-21,Online,1
+C01708,Sneha Jain,Male,37,Consumer,Karnataka,Mysuru,2025-05-13,Online,1
+C01709,Neha Mehta,Other,30,Consumer,Karnataka,Bengaluru,2023-08-05,Online,1
+C01710,Neha Gupta,Male,29,Consumer,Rajasthan,Udaipur,2025-07-26,Retail,1
+C01711,Rohan Mehta,Female,41,Corporate,Telangana,Warangal,2023-02-08,Online,1
+C01712,Irfan Das,Male,43,Consumer,Madhya Pradesh,Indore,2023-08-12,B2B,1
+C01713,Ananya Banerjee,Male,42,Consumer,Tamil Nadu,Madurai,2024-08-31,B2B,1
+C01714,Vivaan Reddy,Female,30,Consumer,Delhi,New Delhi,2024-06-27,Retail,1
+C01715,Riya Nair,Male,18,Consumer,West Bengal,Siliguri,2024-11-19,Retail,1
+C01716,Aarav Khan,Female,31,Consumer,Madhya Pradesh,Indore,2024-02-08,Online,1
+C01717,Arjun Joshi,Female,25,Consumer,Telangana,Hyderabad,2023-01-04,Retail,1
+C01718,Kavya Reddy,Female,31,Consumer,Maharashtra,Mumbai,2024-09-09,Retail,1
+C01719,Riya Reddy,Other,26,Consumer,Gujarat,Vadodara,2024-05-25,B2B,1
+C01720,Rohan Nair,Female,32,Consumer,Madhya Pradesh,Indore,2024-05-23,Online,1
+C01721,Riya Das,Male,23,Consumer,Telangana,Hyderabad,2024-01-12,Online,1
+C01722,Riya Sharma,Female,20,Consumer,Madhya Pradesh,Bhopal,2025-06-09,B2B,1
+C01723,Ananya Kulkarni,Male,43,Consumer,Telangana,Hyderabad,2025-03-03,Retail,1
+C01724,Arjun Banerjee,Female,23,SMB,Maharashtra,Pune,2023-07-01,Online,1
+C01725,Sai Banerjee,Male,32,Consumer,Rajasthan,Udaipur,2023-02-08,Retail,1
+C01726,Kavya Mehta,Female,41,Consumer,Uttar Pradesh,Noida,2023-07-01,Online,1
+C01727,Sneha Mehta,Male,40,SMB,Uttar Pradesh,Noida,2023-02-18,Retail,1
+C01728,Vivaan Iyer,Male,39,Consumer,Madhya Pradesh,Indore,2024-12-10,Online,1
+C01729,Riya Nair,Male,35,Consumer,Karnataka,Mysuru,2024-09-12,Online,1
+C01730,Priya Singh,Male,39,Consumer,Madhya Pradesh,Indore,2024-04-07,Online,1
+C01731,Meera Sharma,Male,44,Consumer,Delhi,New Delhi,2024-08-14,Online,1
+C01732,Arjun Banerjee,Male,36,Consumer,Madhya Pradesh,Bhopal,2025-03-19,Online,1
+C01733,Aarav Jain,Male,18,SMB,Karnataka,Bengaluru,2025-04-11,Online,1
+C01734,Arjun Patel,Female,27,SMB,Telangana,Hyderabad,2024-03-10,Online,1
+C01735,Vihaan Reddy,Male,38,Consumer,Uttar Pradesh,Kanpur,2024-08-15,Retail,1
+C01736,Vivaan Nair,Female,26,Consumer,Maharashtra,Nagpur,2024-07-30,Retail,1
+C01737,Diya Nair,Male,47,Corporate,Maharashtra,Nashik,2025-08-07,Retail,1
+C01738,Rohan Khan,Female,31,Consumer,Rajasthan,Jaipur,2025-01-31,Online,1
+C01739,Sneha Sharma,Male,33,Consumer,Maharashtra,Nashik,2023-11-11,Online,1
+C01740,Rohan Banerjee,Female,42,Consumer,West Bengal,Kolkata,2025-06-05,Retail,1
+C01741,Vihaan Choudhary,Female,30,Consumer,Madhya Pradesh,Bhopal,2024-02-02,Retail,1
+C01742,Diya Nair,Female,34,Consumer,West Bengal,Kolkata,2025-01-27,B2B,1
+C01743,Ananya Mehta,Male,40,Consumer,Tamil Nadu,Madurai,2025-09-04,B2B,1
+C01744,Arjun Joshi,Male,19,Consumer,Tamil Nadu,Chennai,2025-03-19,Retail,1
+C01745,Sneha Reddy,Male,29,Consumer,West Bengal,Siliguri,2023-04-18,Retail,1
+C01746,Rohan Joshi,Male,39,SMB,Telangana,Hyderabad,2023-07-25,Online,1
+C01747,Priya Gupta,Male,33,Consumer,Telangana,Warangal,2025-03-06,Retail,1
+C01748,Isha Patel,Female,45,Consumer,Karnataka,Mysuru,2023-05-04,B2B,1
+C01749,Ananya Gupta,Male,18,Consumer,West Bengal,Kolkata,2023-01-12,Retail,1
+C01750,Isha Gupta,Female,18,Consumer,Uttar Pradesh,Lucknow,2023-09-16,Online,1
+C01751,Kabir Gupta,Male,39,SMB,Uttar Pradesh,Kanpur,2024-05-01,Online,1
+C01752,Rahul Das,Male,40,SMB,Maharashtra,Mumbai,2023-05-09,Online,1
+C01753,Priya Patel,Male,30,Consumer,Uttar Pradesh,Lucknow,2023-06-03,Online,1
+C01754,Vihaan Reddy,Male,36,Consumer,Uttar Pradesh,Noida,2023-12-05,Retail,1
+C01755,Sneha Reddy,Female,39,Consumer,Karnataka,Bengaluru,2024-08-21,Retail,1
+C01756,Ananya Khan,Female,25,Consumer,Rajasthan,Jaipur,2024-06-28,Online,1
+C01757,Vivaan Reddy,Female,26,Consumer,Telangana,Warangal,2025-03-09,Retail,1
+C01758,Riya Joshi,Male,34,Consumer,Tamil Nadu,Madurai,2025-09-07,Online,1
+C01759,Kavya Reddy,Male,40,Consumer,Uttar Pradesh,Kanpur,2023-02-03,Retail,1
+C01760,Sai Sharma,Female,22,Consumer,Telangana,Warangal,2024-11-19,Online,1
+C01761,Sai Joshi,Male,30,Consumer,Telangana,Hyderabad,2023-06-13,Online,1
+C01762,Sai Singh,Male,30,Consumer,Gujarat,Surat,2023-12-27,Retail,1
+C01763,Irfan Reddy,Female,36,Consumer,Madhya Pradesh,Indore,2023-12-09,Retail,1
+C01764,Sneha Sharma,Male,32,Consumer,Madhya Pradesh,Bhopal,2024-12-01,Retail,0
+C01765,Irfan Patel,Male,27,Consumer,Karnataka,Mysuru,2023-09-13,Online,1
+C01766,Arjun Patel,Male,43,Consumer,Uttar Pradesh,Lucknow,2025-06-13,Retail,1
+C01767,Irfan Jain,Female,27,Consumer,Maharashtra,Nagpur,2024-01-19,Online,1
+C01768,Ananya Gupta,Male,29,Consumer,Gujarat,Ahmedabad,2025-03-26,Online,1
+C01769,Zoya Reddy,Female,18,Corporate,Madhya Pradesh,Indore,2025-08-09,Retail,1
+C01770,Sneha Joshi,Male,26,SMB,Karnataka,Mangaluru,2024-05-25,Retail,1
+C01771,Neha Mehta,Male,37,Consumer,Gujarat,Surat,2023-04-12,Retail,1
+C01772,Sneha Sharma,Male,35,Consumer,Delhi,New Delhi,2024-12-02,Online,1
+C01773,Aditya Choudhary,Female,37,Consumer,Uttar Pradesh,Kanpur,2024-02-28,Retail,1
+C01774,Rohan Iyer,Male,37,Consumer,Tamil Nadu,Coimbatore,2023-12-05,Online,1
+C01775,Vivaan Nair,Female,51,Consumer,Telangana,Warangal,2024-04-02,Retail,1
+C01776,Rohan Jain,Male,25,Consumer,Madhya Pradesh,Bhopal,2023-10-27,Retail,1
+C01777,Ananya Singh,Male,18,Consumer,Telangana,Hyderabad,2023-10-08,Retail,1
+C01778,Sneha Khan,Male,23,Consumer,Uttar Pradesh,Lucknow,2025-09-16,Retail,1
+C01779,Priya Singh,Male,26,Consumer,Maharashtra,Nashik,2023-10-06,Retail,1
+C01780,Kavya Iyer,Male,23,Consumer,Delhi,New Delhi,2024-04-03,Online,1
+C01781,Ananya Jain,Female,33,Consumer,Madhya Pradesh,Indore,2024-12-15,B2B,1
+C01782,Vivaan Nair,Female,43,Consumer,Rajasthan,Jaipur,2023-08-09,B2B,1
+C01783,Neha Jain,Female,46,Consumer,West Bengal,Kolkata,2024-09-09,Online,1
+C01784,Arjun Jain,Female,37,Consumer,Gujarat,Ahmedabad,2025-06-14,Online,1
+C01785,Neha Khan,Female,51,Consumer,Karnataka,Mysuru,2025-03-23,Online,1
+C01786,Priya Sharma,Female,29,Consumer,Rajasthan,Jaipur,2023-01-29,Retail,1
+C01787,Sneha Mehta,Male,18,Consumer,Uttar Pradesh,Noida,2024-02-10,B2B,1
+C01788,Diya Mehta,Female,41,Corporate,Delhi,New Delhi,2023-01-01,Retail,1
+C01789,Isha Jain,Female,18,Consumer,Telangana,Warangal,2024-08-29,Online,1
+C01790,Neha Mehta,Male,25,Consumer,West Bengal,Kolkata,2023-11-22,Online,1
+C01791,Kavya Jain,Female,37,Consumer,Tamil Nadu,Chennai,2025-06-12,Online,1
+C01792,Aditya Kulkarni,Female,31,Corporate,Madhya Pradesh,Indore,2023-06-25,Online,1
+C01793,Neha Patel,Male,30,Corporate,Karnataka,Mangaluru,2025-05-01,Online,1
+C01794,Priya Sharma,Female,21,SMB,Delhi,New Delhi,2023-12-09,Online,0
+C01795,Sneha Reddy,Male,32,Consumer,Maharashtra,Pune,2025-07-09,Online,1
+C01796,Kabir Sharma,Male,41,Consumer,West Bengal,Siliguri,2023-07-19,Online,1
+C01797,Kavya Das,Male,32,Consumer,West Bengal,Kolkata,2023-09-26,Retail,1
+C01798,Ananya Reddy,Female,25,Consumer,Madhya Pradesh,Bhopal,2023-12-18,Online,1
+C01799,Sai Iyer,Male,21,Consumer,Telangana,Hyderabad,2025-09-12,Online,1
+C01800,Kavya Singh,Female,25,Consumer,Karnataka,Mangaluru,2025-01-03,Retail,1
+C01801,Aarav Joshi,Male,36,Consumer,Tamil Nadu,Chennai,2025-03-27,B2B,1
+C01802,Meera Sharma,Male,35,SMB,Maharashtra,Nashik,2024-07-06,Retail,1
+C01803,Sneha Das,Female,25,Consumer,West Bengal,Kolkata,2025-03-05,Retail,1
+C01804,Sneha Banerjee,Male,18,Consumer,West Bengal,Kolkata,2024-09-18,Retail,1
+C01805,Neha Gupta,Female,36,Consumer,Rajasthan,Jaipur,2024-10-29,Retail,1
+C01806,Priya Nair,Male,24,SMB,Gujarat,Ahmedabad,2025-04-17,Retail,1
+C01807,Irfan Kulkarni,Female,38,SMB,Gujarat,Ahmedabad,2025-09-10,Online,1
+C01808,Aarav Gupta,Female,25,Consumer,Maharashtra,Nagpur,2024-07-29,Retail,1
+C01809,Kavya Jain,Male,23,SMB,Tamil Nadu,Chennai,2024-03-17,Online,1
+C01810,Vihaan Kulkarni,Male,33,SMB,Tamil Nadu,Coimbatore,2024-10-15,Online,1
+C01811,Neha Jain,Male,53,Corporate,Uttar Pradesh,Kanpur,2025-01-11,Online,1
+C01812,Ananya Mehta,Female,39,SMB,Uttar Pradesh,Lucknow,2025-09-13,Online,1
+C01813,Kavya Jain,Female,33,Consumer,Karnataka,Mysuru,2024-11-29,Online,1
+C01814,Kabir Jain,Male,35,Corporate,Delhi,New Delhi,2025-08-12,Retail,0
+C01815,Rahul Choudhary,Male,18,Consumer,Telangana,Hyderabad,2025-01-02,Online,1
+C01816,Kavya Singh,Female,22,Consumer,Gujarat,Surat,2025-08-09,Online,1
+C01817,Rahul Banerjee,Male,18,Consumer,Maharashtra,Pune,2025-01-21,Online,0
+C01818,Vihaan Sharma,Female,48,Corporate,Rajasthan,Jaipur,2025-06-03,Online,1
+C01819,Diya Das,Female,46,SMB,Uttar Pradesh,Lucknow,2023-07-10,Retail,1
+C01820,Isha Kulkarni,Male,36,Consumer,Telangana,Warangal,2025-09-19,Online,0
+C01821,Aarav Patel,Male,33,SMB,Gujarat,Ahmedabad,2023-12-16,Online,1
+C01822,Aarav Choudhary,Male,18,Consumer,Rajasthan,Udaipur,2025-03-08,Online,1
+C01823,Aarav Jain,Male,30,Consumer,Maharashtra,Nashik,2024-01-28,Online,1
+C01824,Kavya Nair,Female,48,Consumer,Tamil Nadu,Coimbatore,2024-04-03,Online,1
+C01825,Isha Mehta,Female,33,Corporate,Rajasthan,Jaipur,2025-01-17,Online,1
+C01826,Kavya Mehta,Female,27,Consumer,Madhya Pradesh,Bhopal,2024-06-24,Retail,1
+C01827,Irfan Kulkarni,Female,18,Consumer,Delhi,New Delhi,2024-12-17,B2B,1
+C01828,Aarav Joshi,Male,44,Consumer,West Bengal,Siliguri,2023-03-21,Retail,1
+C01829,Irfan Banerjee,Female,31,Consumer,Karnataka,Bengaluru,2025-04-13,Online,1
+C01830,Arjun Iyer,Male,18,Consumer,Karnataka,Mangaluru,2024-02-13,Online,1
+C01831,Isha Kulkarni,Male,24,SMB,Gujarat,Vadodara,2025-02-27,Retail,1
+C01832,Sneha Patel,Male,21,Consumer,Rajasthan,Jaipur,2023-10-13,Online,1
+C01833,Ananya Choudhary,Female,31,Corporate,West Bengal,Kolkata,2024-08-19,Retail,1
+C01834,Rahul Das,Female,34,Consumer,Tamil Nadu,Madurai,2024-08-11,Online,1
+C01835,Riya Singh,Male,27,SMB,Delhi,New Delhi,2023-05-20,Online,1
+C01836,Aarav Iyer,Female,39,Consumer,Karnataka,Bengaluru,2024-04-19,Online,1
+C01837,Irfan Sharma,Male,33,Consumer,Delhi,New Delhi,2024-09-27,Retail,1
+C01838,Aarav Jain,Male,42,Consumer,Karnataka,Mysuru,2025-04-16,B2B,1
+C01839,Kabir Jain,Male,29,Consumer,Karnataka,Bengaluru,2025-06-06,Retail,1
+C01840,Priya Kulkarni,Female,59,Consumer,West Bengal,Siliguri,2024-01-20,Online,1
+C01841,Aditya Nair,Male,27,Corporate,Karnataka,Bengaluru,2024-10-05,Retail,1
+C01842,Riya Singh,Male,24,Consumer,Maharashtra,Mumbai,2023-06-24,Online,1
+C01843,Diya Mehta,Male,23,Consumer,Telangana,Hyderabad,2025-06-14,Online,0
+C01844,Vivaan Khan,Female,30,Consumer,Delhi,New Delhi,2025-05-18,Retail,1
+C01845,Meera Mehta,Female,18,SMB,Tamil Nadu,Chennai,2025-09-26,B2B,1
+C01846,Aarav Khan,Male,35,Consumer,Karnataka,Mysuru,2024-05-01,Online,1
+C01847,Riya Iyer,Female,18,Consumer,Delhi,New Delhi,2023-12-26,Online,1
+C01848,Arjun Kulkarni,Male,33,Consumer,Tamil Nadu,Chennai,2025-01-27,Online,1
+C01849,Irfan Iyer,Male,20,Consumer,West Bengal,Siliguri,2024-12-24,Online,1
+C01850,Sneha Choudhary,Female,29,Consumer,Tamil Nadu,Coimbatore,2023-08-01,Online,1
+C01851,Rahul Sharma,Female,37,Consumer,Telangana,Hyderabad,2024-06-23,Retail,1
+C01852,Rahul Choudhary,Male,53,Consumer,Telangana,Warangal,2024-10-05,Online,1
+C01853,Aditya Khan,Female,22,Consumer,Delhi,New Delhi,2024-03-30,Retail,1
+C01854,Riya Choudhary,Male,31,Consumer,Delhi,New Delhi,2024-01-07,Online,1
+C01855,Arjun Kulkarni,Female,25,Consumer,Tamil Nadu,Coimbatore,2023-08-28,Online,1
+C01856,Vivaan Choudhary,Female,24,SMB,Maharashtra,Nagpur,2024-02-16,Online,1
+C01857,Diya Singh,Female,26,Consumer,West Bengal,Kolkata,2023-09-03,Online,1
+C01858,Isha Das,Male,39,Consumer,West Bengal,Siliguri,2023-10-28,Online,1
+C01859,Sai Patel,Female,28,Consumer,Gujarat,Surat,2023-07-04,Retail,0
+C01860,Aditya Reddy,Female,52,Consumer,Gujarat,Vadodara,2024-01-12,B2B,1
+C01861,Isha Singh,Male,36,SMB,Gujarat,Surat,2024-09-23,Online,1
+C01862,Vihaan Banerjee,Male,23,Consumer,West Bengal,Siliguri,2024-01-13,Retail,1
+C01863,Aarav Iyer,Other,29,Consumer,Uttar Pradesh,Noida,2023-05-23,Retail,1
+C01864,Priya Patel,Male,25,Consumer,Karnataka,Bengaluru,2025-03-12,Online,0
+C01865,Vivaan Iyer,Female,39,Consumer,Tamil Nadu,Chennai,2024-03-07,Retail,0
+C01866,Sneha Iyer,Male,18,SMB,Maharashtra,Nashik,2024-08-06,B2B,1
+C01867,Irfan Banerjee,Female,20,Consumer,Tamil Nadu,Madurai,2024-06-07,Retail,0
+C01868,Rahul Khan,Male,27,Consumer,Delhi,New Delhi,2024-05-21,Retail,1
+C01869,Aditya Banerjee,Female,38,Corporate,Gujarat,Surat,2024-03-14,Retail,1
+C01870,Priya Patel,Female,43,Corporate,Tamil Nadu,Madurai,2025-01-25,Online,1
+C01871,Irfan Jain,Male,44,Consumer,Gujarat,Ahmedabad,2025-05-04,Retail,1
+C01872,Meera Reddy,Female,37,Consumer,Gujarat,Ahmedabad,2025-06-22,B2B,1
+C01873,Ananya Sharma,Female,31,Consumer,Uttar Pradesh,Noida,2024-03-19,Online,1
+C01874,Irfan Mehta,Male,39,Corporate,Rajasthan,Udaipur,2023-12-07,Retail,1
+C01875,Ananya Joshi,Male,22,Consumer,Maharashtra,Nashik,2023-03-24,Online,1
+C01876,Sneha Jain,Female,18,Consumer,Gujarat,Vadodara,2024-03-18,Online,1
+C01877,Aditya Khan,Female,36,Corporate,Rajasthan,Jaipur,2025-09-19,Retail,1
+C01878,Neha Mehta,Male,23,Consumer,Telangana,Warangal,2023-09-18,Retail,1
+C01879,Aarav Singh,Female,31,Consumer,Delhi,New Delhi,2025-04-24,Retail,1
+C01880,Rahul Reddy,Male,33,Consumer,Telangana,Hyderabad,2025-01-26,Retail,1
+C01881,Diya Choudhary,Male,34,SMB,Karnataka,Mangaluru,2024-10-22,Online,1
+C01882,Aarav Reddy,Female,40,Consumer,Maharashtra,Mumbai,2024-07-19,Retail,1
+C01883,Irfan Kulkarni,Male,39,Consumer,West Bengal,Kolkata,2025-01-26,Retail,1
+C01884,Sneha Das,Male,34,Consumer,Telangana,Hyderabad,2023-04-09,Retail,1
+C01885,Rahul Choudhary,Male,28,Corporate,Uttar Pradesh,Kanpur,2023-05-09,Online,1
+C01886,Priya Choudhary,Male,33,Corporate,Gujarat,Ahmedabad,2023-07-15,Online,1
+C01887,Vivaan Joshi,Male,27,Consumer,Rajasthan,Udaipur,2025-02-04,Retail,1
+C01888,Arjun Patel,Female,30,Consumer,Tamil Nadu,Madurai,2024-03-08,Online,1
+C01889,Aarav Gupta,Female,56,SMB,Uttar Pradesh,Lucknow,2023-07-27,Online,1
+C01890,Aarav Sharma,Female,34,Corporate,Karnataka,Mangaluru,2023-02-14,Retail,1
+C01891,Vihaan Patel,Female,36,Consumer,Maharashtra,Mumbai,2024-05-03,Retail,1
+C01892,Meera Jain,Male,26,Consumer,Uttar Pradesh,Lucknow,2024-02-03,Retail,1
+C01893,Kavya Jain,Male,41,SMB,Rajasthan,Udaipur,2023-06-27,Retail,1
+C01894,Meera Patel,Female,39,SMB,Madhya Pradesh,Indore,2023-01-24,B2B,1
+C01895,Arjun Reddy,Male,39,Consumer,Gujarat,Ahmedabad,2025-01-23,Online,1
+C01896,Kabir Gupta,Male,34,Consumer,Maharashtra,Mumbai,2025-02-18,Retail,1
+C01897,Arjun Patel,Female,41,Consumer,Madhya Pradesh,Bhopal,2023-09-03,Retail,1
+C01898,Priya Kulkarni,Female,43,Corporate,West Bengal,Kolkata,2024-05-08,Retail,1
+C01899,Zoya Patel,Female,35,Consumer,Delhi,New Delhi,2023-09-11,Online,1
+C01900,Aditya Nair,Male,31,Consumer,Uttar Pradesh,Lucknow,2024-02-13,Online,1
+C01901,Zoya Banerjee,Male,40,Consumer,Madhya Pradesh,Bhopal,2023-04-20,Retail,1
+C01902,Sai Reddy,Male,24,SMB,Delhi,New Delhi,2025-08-04,Retail,1
+C01903,Rohan Iyer,Female,26,SMB,Uttar Pradesh,Noida,2024-12-21,Online,1
+C01904,Sai Das,Male,32,SMB,Uttar Pradesh,Kanpur,2025-06-20,Retail,1
+C01905,Vihaan Banerjee,Male,18,Consumer,Telangana,Hyderabad,2023-10-23,Retail,1
+C01906,Priya Khan,Male,39,Corporate,West Bengal,Siliguri,2025-05-22,Online,1
+C01907,Diya Joshi,Female,23,Corporate,Delhi,New Delhi,2024-06-02,Retail,1
+C01908,Riya Patel,Female,28,Consumer,Madhya Pradesh,Bhopal,2023-07-18,Retail,1
+C01909,Arjun Gupta,Male,30,Consumer,Madhya Pradesh,Indore,2023-11-29,Online,1
+C01910,Sneha Reddy,Male,32,SMB,Madhya Pradesh,Indore,2025-03-22,Online,1
+C01911,Rohan Kulkarni,Male,29,Consumer,Uttar Pradesh,Noida,2025-02-13,Online,1
+C01912,Irfan Khan,Male,31,Consumer,Maharashtra,Nagpur,2024-12-21,Retail,1
+C01913,Kavya Nair,Female,31,Consumer,Gujarat,Ahmedabad,2023-08-15,Online,1
+C01914,Neha Joshi,Male,28,Consumer,Tamil Nadu,Coimbatore,2024-10-09,Online,1
+C01915,Aditya Reddy,Female,25,Consumer,Madhya Pradesh,Indore,2025-07-29,Online,1
+C01916,Meera Reddy,Female,42,Corporate,Telangana,Warangal,2023-02-18,Retail,1
+C01917,Zoya Patel,Female,18,Consumer,Telangana,Warangal,2023-11-18,Retail,1
+C01918,Vivaan Mehta,Female,30,Corporate,Karnataka,Mysuru,2023-03-22,Online,1
+C01919,Priya Iyer,Male,28,Consumer,Uttar Pradesh,Kanpur,2023-04-14,Retail,1
+C01920,Vihaan Gupta,Male,36,Consumer,Gujarat,Ahmedabad,2025-09-24,Online,1
+C01921,Kavya Jain,Male,19,Corporate,Maharashtra,Nashik,2023-08-29,Online,1
+C01922,Rahul Mehta,Female,28,Consumer,Madhya Pradesh,Bhopal,2023-06-29,Online,1
+C01923,Vivaan Joshi,Male,31,Consumer,Karnataka,Mangaluru,2023-03-15,Retail,1
+C01924,Irfan Iyer,Male,42,Corporate,Maharashtra,Nagpur,2025-09-08,Retail,1
+C01925,Diya Das,Male,35,Consumer,Maharashtra,Nagpur,2024-04-13,Online,1
+C01926,Sneha Sharma,Male,21,Consumer,Tamil Nadu,Coimbatore,2025-03-02,Retail,1
+C01927,Aarav Iyer,Female,28,Consumer,Karnataka,Mangaluru,2023-09-08,Retail,1
+C01928,Vihaan Jain,Female,40,SMB,Rajasthan,Udaipur,2024-10-02,Retail,1
+C01929,Neha Das,Female,21,Consumer,Telangana,Hyderabad,2025-06-05,Retail,1
+C01930,Kavya Mehta,Female,31,Consumer,Gujarat,Ahmedabad,2024-11-02,Retail,1
+C01931,Vivaan Nair,Male,32,SMB,Maharashtra,Mumbai,2024-06-01,Online,1
+C01932,Vihaan Banerjee,Male,29,Consumer,Tamil Nadu,Chennai,2023-07-30,Online,1
+C01933,Ananya Patel,Male,56,Consumer,Karnataka,Bengaluru,2023-08-22,B2B,1
+C01934,Aarav Singh,Female,28,Consumer,Madhya Pradesh,Indore,2024-08-19,Retail,1
+C01935,Kavya Banerjee,Female,36,Consumer,Delhi,New Delhi,2024-03-27,Online,1
+C01936,Rohan Khan,Male,25,Consumer,Tamil Nadu,Chennai,2023-02-16,Retail,1
+C01937,Neha Jain,Female,37,Consumer,Maharashtra,Nashik,2023-07-15,Retail,1
+C01938,Priya Singh,Male,40,Consumer,Karnataka,Bengaluru,2024-03-08,Retail,1
+C01939,Kabir Gupta,Male,27,Consumer,Delhi,New Delhi,2023-06-28,Retail,1
+C01940,Meera Nair,Female,32,Consumer,Maharashtra,Nagpur,2024-07-07,Online,1
+C01941,Rohan Choudhary,Female,24,Consumer,Uttar Pradesh,Noida,2023-10-28,Retail,1
+C01942,Priya Khan,Female,22,Consumer,Madhya Pradesh,Indore,2023-10-19,B2B,1
+C01943,Rohan Joshi,Female,41,Consumer,Madhya Pradesh,Bhopal,2023-04-19,Online,1
+C01944,Kabir Banerjee,Male,27,Corporate,Delhi,New Delhi,2024-05-18,Online,1
+C01945,Kabir Mehta,Female,18,Consumer,Uttar Pradesh,Kanpur,2023-07-08,Retail,1
+C01946,Zoya Singh,Female,48,Consumer,Telangana,Warangal,2024-09-22,Online,1
+C01947,Ananya Khan,Male,25,Consumer,Maharashtra,Nashik,2025-07-27,Online,1
+C01948,Zoya Reddy,Male,30,Corporate,Maharashtra,Nagpur,2025-07-01,Online,1
+C01949,Aarav Choudhary,Other,47,Consumer,Telangana,Warangal,2024-10-28,Online,1
+C01950,Priya Nair,Male,31,Corporate,Tamil Nadu,Chennai,2025-03-18,Online,1
+C01951,Isha Reddy,Male,31,Consumer,Maharashtra,Nashik,2025-07-10,Retail,1
+C01952,Zoya Gupta,Female,21,Consumer,Madhya Pradesh,Bhopal,2024-11-12,Retail,1
+C01953,Aarav Jain,Female,18,Corporate,Uttar Pradesh,Lucknow,2023-09-14,Retail,1
+C01954,Arjun Banerjee,Other,31,Consumer,Telangana,Hyderabad,2024-05-15,Online,1
+C01955,Priya Gupta,Female,35,Consumer,Madhya Pradesh,Bhopal,2025-05-07,Online,1
+C01956,Irfan Jain,Male,35,SMB,Madhya Pradesh,Indore,2024-10-29,Online,1
+C01957,Priya Gupta,Female,28,Consumer,Madhya Pradesh,Bhopal,2023-12-29,Retail,1
+C01958,Kabir Jain,Male,32,Consumer,Delhi,New Delhi,2023-06-18,B2B,1
+C01959,Vihaan Banerjee,Female,18,Consumer,Rajasthan,Jaipur,2023-05-25,Online,1
+C01960,Rahul Mehta,Male,36,Consumer,Telangana,Hyderabad,2024-01-13,B2B,1
+C01961,Kavya Das,Female,33,Corporate,Uttar Pradesh,Lucknow,2025-03-15,Online,1
+C01962,Aarav Gupta,Female,50,Consumer,Rajasthan,Udaipur,2024-07-06,Online,1
+C01963,Neha Sharma,Female,32,SMB,Karnataka,Bengaluru,2023-03-01,Retail,1
+C01964,Aditya Sharma,Male,24,Consumer,Tamil Nadu,Coimbatore,2025-07-07,Online,1
+C01965,Meera Jain,Male,32,SMB,Karnataka,Mangaluru,2024-02-09,Retail,1
+C01966,Neha Mehta,Male,29,Corporate,Delhi,New Delhi,2024-01-26,Online,1
+C01967,Rahul Iyer,Male,36,SMB,Tamil Nadu,Chennai,2025-03-30,Retail,1
+C01968,Vivaan Singh,Female,32,Consumer,Rajasthan,Udaipur,2024-01-12,Online,1
+C01969,Sai Choudhary,Male,21,Consumer,Rajasthan,Jaipur,2024-09-09,Online,1
+C01970,Rohan Mehta,Female,18,Consumer,Gujarat,Vadodara,2025-07-10,Online,1
+C01971,Sai Choudhary,Male,34,Consumer,Gujarat,Ahmedabad,2024-06-02,B2B,1
+C01972,Neha Patel,Male,44,Consumer,Telangana,Hyderabad,2024-09-06,Retail,1
+C01973,Vihaan Patel,Female,33,Corporate,Madhya Pradesh,Bhopal,2023-12-20,Retail,1
+C01974,Vihaan Mehta,Male,39,Consumer,Madhya Pradesh,Bhopal,2025-06-09,Online,1
+C01975,Riya Singh,Male,41,Corporate,Delhi,New Delhi,2023-03-17,Online,1
+C01976,Rohan Joshi,Male,34,Consumer,Karnataka,Mangaluru,2023-10-04,Online,1
+C01977,Arjun Banerjee,Male,25,SMB,Uttar Pradesh,Kanpur,2025-09-17,Retail,1
+C01978,Zoya Patel,Female,34,Consumer,Gujarat,Surat,2024-04-29,Online,1
+C01979,Zoya Choudhary,Male,43,Consumer,Karnataka,Bengaluru,2023-06-24,Online,1
+C01980,Vivaan Sharma,Male,37,Corporate,Maharashtra,Pune,2024-02-18,Retail,1
+C01981,Ananya Das,Female,39,Corporate,Tamil Nadu,Coimbatore,2023-09-13,Retail,1
+C01982,Meera Jain,Male,28,Corporate,Gujarat,Surat,2024-06-09,Online,1
+C01983,Priya Joshi,Female,30,SMB,Telangana,Hyderabad,2023-08-24,Online,1
+C01984,Sai Iyer,Male,31,Consumer,Delhi,New Delhi,2024-02-04,Online,1
+C01985,Riya Mehta,Female,32,Corporate,Uttar Pradesh,Lucknow,2025-06-26,Retail,1
+C01986,Sneha Choudhary,Male,43,Consumer,West Bengal,Kolkata,2023-03-24,Online,1
+C01987,Ananya Iyer,Male,18,Consumer,Tamil Nadu,Chennai,2025-02-02,Retail,1
+C01988,Arjun Banerjee,Female,32,Consumer,Karnataka,Bengaluru,2023-03-20,Online,1
+C01989,Neha Mehta,Female,31,Consumer,Telangana,Hyderabad,2024-04-02,Retail,1
+C01990,Meera Patel,Female,20,Consumer,West Bengal,Siliguri,2024-10-30,B2B,1
+C01991,Rohan Gupta,Female,38,Corporate,Gujarat,Surat,2025-08-13,Online,1
+C01992,Kabir Jain,Male,25,Consumer,Delhi,New Delhi,2023-09-08,Online,1
+C01993,Kavya Kulkarni,Female,29,SMB,Telangana,Hyderabad,2023-02-22,Online,1
+C01994,Neha Banerjee,Female,49,Consumer,Gujarat,Surat,2025-01-20,Retail,1
+C01995,Kabir Reddy,Male,41,Consumer,Tamil Nadu,Chennai,2025-06-12,Online,1
+C01996,Priya Kulkarni,Male,37,Consumer,Gujarat,Ahmedabad,2024-07-19,Retail,1
+C01997,Priya Jain,Male,35,Consumer,Gujarat,Ahmedabad,2023-03-02,Online,1
+C01998,Sai Nair,Female,31,Consumer,Uttar Pradesh,Noida,2024-05-15,Online,0
+C01999,Isha Iyer,Male,50,Consumer,Tamil Nadu,Madurai,2024-01-27,Retail,1
+C02000,Kabir Nair,Male,39,Consumer,Tamil Nadu,Chennai,2024-03-27,Retail,1
+C02001,Neha Iyer,Female,25,Consumer,West Bengal,Kolkata,2023-02-24,Retail,1
+C02002,Kavya Choudhary,Female,19,Corporate,Gujarat,Ahmedabad,2023-11-14,Retail,1
+C02003,Diya Sharma,Male,37,Consumer,Karnataka,Mysuru,2025-09-25,Retail,1
+C02004,Neha Mehta,Female,31,Corporate,Rajasthan,Udaipur,2023-02-15,Online,1
+C02005,Isha Khan,Male,19,Corporate,Maharashtra,Pune,2025-07-03,Retail,1
+C02006,Diya Joshi,Female,36,Consumer,Telangana,Warangal,2024-06-01,Retail,1
+C02007,Vihaan Banerjee,Male,30,Consumer,Delhi,New Delhi,2024-08-07,Retail,1
+C02008,Sai Joshi,Male,37,Consumer,Delhi,New Delhi,2025-07-22,B2B,1
+C02009,Rohan Reddy,Female,36,Consumer,Maharashtra,Nashik,2023-08-06,Online,1
+C02010,Arjun Jain,Male,27,Consumer,Madhya Pradesh,Bhopal,2025-09-11,Retail,1
+C02011,Vivaan Khan,Female,38,SMB,Tamil Nadu,Coimbatore,2023-10-04,Retail,1
+C02012,Sai Singh,Male,28,Consumer,Gujarat,Vadodara,2023-12-16,Online,1
+C02013,Sneha Banerjee,Female,28,Consumer,Uttar Pradesh,Kanpur,2024-03-25,Retail,1
+C02014,Aditya Kulkarni,Female,27,Consumer,Maharashtra,Nashik,2024-08-24,Online,0
+C02015,Aditya Sharma,Female,42,Consumer,Telangana,Hyderabad,2023-11-19,Online,1
+C02016,Isha Reddy,Female,29,Consumer,Tamil Nadu,Chennai,2025-03-04,Online,1
+C02017,Diya Das,Female,44,Consumer,Telangana,Hyderabad,2023-01-22,Retail,0
+C02018,Rahul Jain,Male,48,SMB,Karnataka,Mangaluru,2024-10-28,Retail,1
+C02019,Arjun Jain,Male,25,Consumer,Madhya Pradesh,Bhopal,2024-10-18,Online,1
+C02020,Isha Kulkarni,Female,18,Consumer,Delhi,New Delhi,2024-06-18,Online,1
+C02021,Sai Nair,Female,41,Consumer,West Bengal,Kolkata,2024-09-05,Retail,1
+C02022,Arjun Khan,Female,29,Consumer,Uttar Pradesh,Noida,2025-01-17,Online,0
+C02023,Ananya Khan,Female,24,SMB,Gujarat,Ahmedabad,2025-06-23,Online,1
+C02024,Sai Mehta,Male,27,SMB,Karnataka,Mangaluru,2023-08-07,Online,1
+C02025,Neha Joshi,Female,28,SMB,Delhi,New Delhi,2024-04-21,Retail,1
+C02026,Kavya Jain,Female,44,Consumer,Rajasthan,Udaipur,2024-07-16,Online,1
+C02027,Vihaan Mehta,Female,33,Consumer,Madhya Pradesh,Bhopal,2023-12-11,Retail,1
+C02028,Priya Patel,Female,44,Corporate,Madhya Pradesh,Indore,2025-08-31,Retail,1
+C02029,Sai Joshi,Female,36,Consumer,Delhi,New Delhi,2024-05-26,Online,1
+C02030,Zoya Reddy,Female,29,Consumer,West Bengal,Kolkata,2024-08-15,Retail,1
+C02031,Aditya Iyer,Male,28,Consumer,Karnataka,Bengaluru,2023-07-14,Online,1
+C02032,Isha Kulkarni,Female,37,Consumer,Uttar Pradesh,Kanpur,2024-02-20,Online,1
+C02033,Ananya Jain,Male,39,SMB,Tamil Nadu,Coimbatore,2024-09-17,Online,1
+C02034,Diya Khan,Male,41,Consumer,Uttar Pradesh,Noida,2024-03-04,Retail,1
+C02035,Rahul Singh,Male,30,SMB,West Bengal,Kolkata,2025-02-09,B2B,1
+C02036,Riya Patel,Male,34,Consumer,Madhya Pradesh,Indore,2023-05-17,Retail,1
+C02037,Diya Joshi,Male,37,Consumer,Tamil Nadu,Madurai,2023-06-03,Retail,1
+C02038,Irfan Khan,Female,29,Consumer,Gujarat,Surat,2023-12-05,Online,1
+C02039,Kavya Banerjee,Female,22,Consumer,Telangana,Warangal,2023-11-15,B2B,1
+C02040,Aditya Choudhary,Female,25,Consumer,Karnataka,Bengaluru,2025-03-26,Online,1
+C02041,Priya Jain,Male,30,Consumer,Karnataka,Bengaluru,2025-05-17,Online,1
+C02042,Isha Kulkarni,Male,38,Consumer,Telangana,Warangal,2024-04-16,B2B,1
+C02043,Isha Nair,Female,43,SMB,Rajasthan,Jaipur,2024-05-20,Online,1
+C02044,Ananya Khan,Female,20,Consumer,Telangana,Hyderabad,2023-10-22,Online,1
+C02045,Irfan Gupta,Female,27,Consumer,Uttar Pradesh,Kanpur,2024-06-15,Online,1
+C02046,Sneha Patel,Female,29,Consumer,Karnataka,Bengaluru,2024-12-07,Online,1
+C02047,Aarav Sharma,Female,39,Corporate,Tamil Nadu,Chennai,2024-12-23,Retail,1
+C02048,Zoya Kulkarni,Female,27,Consumer,West Bengal,Siliguri,2025-08-26,Online,1
+C02049,Zoya Singh,Female,28,Consumer,Gujarat,Ahmedabad,2024-07-31,B2B,1
+C02050,Diya Jain,Female,19,Consumer,Maharashtra,Mumbai,2023-12-07,Online,1
+C02051,Priya Sharma,Female,36,Consumer,Maharashtra,Mumbai,2023-03-11,Retail,1
+C02052,Aditya Reddy,Male,31,Consumer,Madhya Pradesh,Indore,2024-11-18,Retail,1
+C02053,Diya Joshi,Male,26,Consumer,West Bengal,Kolkata,2025-03-14,Retail,1
+C02054,Arjun Iyer,Male,30,SMB,Delhi,New Delhi,2024-07-06,Online,1
+C02055,Rahul Nair,Female,42,Consumer,Delhi,New Delhi,2025-07-11,Retail,1
+C02056,Aditya Singh,Female,23,Consumer,Maharashtra,Nagpur,2023-11-13,Retail,1
+C02057,Ananya Singh,Male,24,Consumer,Madhya Pradesh,Indore,2023-02-23,Retail,1
+C02058,Priya Patel,Female,43,Consumer,Karnataka,Bengaluru,2024-09-25,Online,1
+C02059,Sneha Khan,Male,33,Consumer,Uttar Pradesh,Lucknow,2023-05-02,Online,0
+C02060,Irfan Choudhary,Male,38,Consumer,Delhi,New Delhi,2023-03-26,Retail,1
+C02061,Rahul Choudhary,Female,36,Consumer,Gujarat,Surat,2024-12-02,Online,1
+C02062,Ananya Reddy,Male,32,Consumer,Delhi,New Delhi,2024-03-10,Online,0
+C02063,Sai Singh,Male,29,Consumer,Rajasthan,Udaipur,2024-08-27,B2B,1
+C02064,Meera Singh,Male,39,SMB,Maharashtra,Pune,2025-01-17,Online,1
+C02065,Ananya Das,Male,42,Consumer,Gujarat,Ahmedabad,2024-01-18,Online,1
+C02066,Aarav Joshi,Female,42,Consumer,Delhi,New Delhi,2024-09-03,Retail,1
+C02067,Irfan Singh,Female,21,SMB,Delhi,New Delhi,2024-06-23,Online,1
+C02068,Vivaan Patel,Female,44,Corporate,Karnataka,Bengaluru,2024-08-03,Online,1
+C02069,Vihaan Patel,Female,29,Consumer,Madhya Pradesh,Indore,2024-12-04,Online,1
+C02070,Rahul Jain,Male,25,SMB,Gujarat,Ahmedabad,2024-01-16,Online,1
+C02071,Neha Nair,Female,30,Consumer,Tamil Nadu,Madurai,2024-05-19,Online,1
+C02072,Kabir Khan,Male,39,Consumer,Gujarat,Vadodara,2024-08-14,Retail,1
+C02073,Aditya Sharma,Male,37,Corporate,Madhya Pradesh,Indore,2023-05-21,Online,1
+C02074,Sai Iyer,Female,30,Corporate,Gujarat,Vadodara,2023-07-31,Online,1
+C02075,Arjun Singh,Male,40,Consumer,Gujarat,Ahmedabad,2023-03-31,Retail,1
+C02076,Kabir Singh,Male,33,Consumer,Gujarat,Ahmedabad,2023-07-18,Online,1
+C02077,Riya Khan,Male,27,Consumer,Gujarat,Vadodara,2024-03-14,Online,1
+C02078,Diya Khan,Female,26,Consumer,Maharashtra,Nashik,2025-07-26,Online,1
+C02079,Neha Iyer,Male,36,SMB,West Bengal,Kolkata,2025-07-11,Online,1
+C02080,Kavya Reddy,Male,31,Consumer,Maharashtra,Nagpur,2025-02-01,Online,1
+C02081,Neha Iyer,Female,20,Consumer,Delhi,New Delhi,2024-07-11,Online,1
+C02082,Aditya Reddy,Male,40,Consumer,Delhi,New Delhi,2023-07-22,Retail,1
+C02083,Kabir Sharma,Female,28,Consumer,Delhi,New Delhi,2023-12-25,B2B,1
+C02084,Arjun Banerjee,Male,46,Consumer,Uttar Pradesh,Lucknow,2025-02-05,Retail,1
+C02085,Sai Choudhary,Female,19,SMB,Telangana,Warangal,2025-06-27,Online,1
+C02086,Sneha Kulkarni,Female,30,Consumer,Madhya Pradesh,Bhopal,2025-08-20,Retail,1
+C02087,Isha Jain,Female,26,Consumer,Gujarat,Vadodara,2024-01-24,Retail,1
+C02088,Kavya Singh,Female,23,Consumer,Madhya Pradesh,Bhopal,2024-05-01,Online,1
+C02089,Arjun Sharma,Male,28,Consumer,Maharashtra,Nagpur,2024-05-24,B2B,1
+C02090,Sneha Gupta,Female,48,Consumer,Telangana,Warangal,2023-02-26,Retail,1
+C02091,Sai Sharma,Female,33,Consumer,Uttar Pradesh,Kanpur,2023-04-27,Online,1
+C02092,Vihaan Joshi,Female,25,Consumer,Telangana,Hyderabad,2023-02-15,B2B,1
+C02093,Ananya Nair,Female,18,Consumer,Madhya Pradesh,Indore,2025-01-07,Online,0
+C02094,Vihaan Mehta,Female,18,SMB,Gujarat,Surat,2023-08-13,Online,1
+C02095,Meera Sharma,Female,27,Consumer,Maharashtra,Nagpur,2024-12-01,Online,1
+C02096,Aditya Iyer,Male,26,Consumer,Uttar Pradesh,Lucknow,2024-01-11,Online,1
+C02097,Arjun Das,Female,30,Consumer,Maharashtra,Pune,2025-03-05,B2B,1
+C02098,Neha Khan,Female,18,Consumer,Uttar Pradesh,Kanpur,2023-04-26,Retail,1
+C02099,Aarav Patel,Female,31,SMB,Uttar Pradesh,Lucknow,2023-11-22,Online,1
+C02100,Isha Gupta,Male,41,Consumer,Rajasthan,Udaipur,2023-07-24,Retail,1
+C02101,Rohan Singh,Female,47,Consumer,Tamil Nadu,Coimbatore,2024-03-12,Retail,1
+C02102,Isha Patel,Female,18,Consumer,Rajasthan,Jaipur,2024-07-15,Retail,1
+C02103,Aarav Banerjee,Female,25,SMB,Karnataka,Bengaluru,2023-06-18,B2B,1
+C02104,Vihaan Reddy,Male,24,Consumer,Tamil Nadu,Chennai,2024-10-28,Retail,1
+C02105,Sneha Khan,Male,33,Consumer,Karnataka,Bengaluru,2025-08-22,Retail,1
+C02106,Kavya Sharma,Male,21,Consumer,Uttar Pradesh,Lucknow,2023-02-13,Online,1
+C02107,Diya Banerjee,Male,47,Consumer,Uttar Pradesh,Lucknow,2023-03-28,Retail,1
+C02108,Zoya Singh,Other,32,SMB,Rajasthan,Jaipur,2025-08-10,Online,1
+C02109,Aarav Jain,Male,31,Consumer,Uttar Pradesh,Lucknow,2024-10-11,Online,1
+C02110,Aarav Nair,Female,46,Consumer,Gujarat,Vadodara,2025-07-08,Online,1
+C02111,Zoya Banerjee,Male,32,Consumer,Maharashtra,Nagpur,2024-12-06,Online,1
+C02112,Rohan Choudhary,Male,36,SMB,Madhya Pradesh,Indore,2024-12-18,Retail,1
+C02113,Meera Nair,Other,25,Consumer,Tamil Nadu,Coimbatore,2023-06-07,Retail,1
+C02114,Ananya Jain,Male,20,Consumer,Maharashtra,Mumbai,2024-05-26,Online,1
+C02115,Irfan Jain,Male,27,SMB,Madhya Pradesh,Indore,2024-01-01,Retail,1
+C02116,Kabir Iyer,Male,52,Consumer,Madhya Pradesh,Indore,2025-04-13,Online,0
+C02117,Isha Singh,Female,38,SMB,Tamil Nadu,Chennai,2023-02-13,Retail,1
+C02118,Diya Banerjee,Other,34,Corporate,Uttar Pradesh,Lucknow,2023-01-19,Online,1
+C02119,Diya Choudhary,Male,23,Consumer,Maharashtra,Pune,2024-07-10,Online,1
+C02120,Meera Patel,Female,40,Consumer,Maharashtra,Pune,2025-08-28,Retail,1
+C02121,Rohan Patel,Male,20,Consumer,Delhi,New Delhi,2025-09-21,Online,1
+C02122,Irfan Iyer,Female,18,Consumer,West Bengal,Kolkata,2024-08-16,Online,1
+C02123,Isha Nair,Male,27,Consumer,Karnataka,Mysuru,2024-03-05,Online,1
+C02124,Sai Kulkarni,Female,50,SMB,Maharashtra,Nagpur,2023-09-30,Online,1
+C02125,Meera Mehta,Female,49,Consumer,West Bengal,Siliguri,2025-09-17,Retail,1
+C02126,Meera Khan,Male,28,Consumer,Uttar Pradesh,Noida,2023-07-03,Online,1
+C02127,Sai Sharma,Male,26,Consumer,Uttar Pradesh,Noida,2023-05-07,Online,1
+C02128,Vivaan Nair,Male,18,Consumer,Uttar Pradesh,Noida,2024-05-23,Retail,1
+C02129,Ananya Gupta,Male,33,Consumer,Rajasthan,Jaipur,2024-01-28,Retail,1
+C02130,Vivaan Sharma,Male,33,Corporate,West Bengal,Kolkata,2024-05-10,Online,1
+C02131,Vivaan Iyer,Male,39,Consumer,Telangana,Hyderabad,2025-06-20,Retail,1
+C02132,Sneha Gupta,Other,40,Consumer,Rajasthan,Udaipur,2023-09-27,Online,1
+C02133,Kavya Reddy,Male,30,Consumer,Gujarat,Surat,2025-05-26,Online,1
+C02134,Aarav Choudhary,Female,37,Consumer,Maharashtra,Nashik,2023-07-31,Retail,1
+C02135,Ananya Khan,Male,26,SMB,Uttar Pradesh,Kanpur,2023-11-20,Online,1
+C02136,Sai Mehta,Female,37,Consumer,Delhi,New Delhi,2023-01-05,Online,0
+C02137,Sneha Gupta,Male,27,Consumer,Madhya Pradesh,Indore,2024-11-09,Retail,1
+C02138,Isha Das,Female,36,Consumer,Tamil Nadu,Madurai,2025-05-08,Retail,1
+C02139,Sai Gupta,Male,35,Consumer,Rajasthan,Jaipur,2025-06-05,Retail,1
+C02140,Kabir Kulkarni,Male,33,Consumer,Maharashtra,Mumbai,2023-06-17,Retail,1
+C02141,Priya Singh,Female,39,SMB,West Bengal,Kolkata,2025-02-05,Online,1
+C02142,Vihaan Singh,Female,18,SMB,Tamil Nadu,Chennai,2023-05-22,Retail,1
+C02143,Ananya Khan,Female,22,Consumer,Tamil Nadu,Madurai,2024-09-20,Online,1
+C02144,Aditya Khan,Male,30,Consumer,Delhi,New Delhi,2024-12-03,Retail,1
+C02145,Rohan Iyer,Male,19,Consumer,Madhya Pradesh,Indore,2023-06-02,Online,1
+C02146,Sneha Choudhary,Female,28,Consumer,Gujarat,Ahmedabad,2023-04-21,Online,1
+C02147,Irfan Gupta,Female,29,Consumer,Rajasthan,Jaipur,2023-03-15,Online,1
+C02148,Diya Singh,Female,44,Consumer,Tamil Nadu,Chennai,2024-12-09,Retail,1
+C02149,Priya Reddy,Male,33,Consumer,Maharashtra,Nashik,2024-09-06,Online,1
+C02150,Vivaan Kulkarni,Male,41,Consumer,Rajasthan,Udaipur,2023-04-30,Retail,1
+C02151,Diya Sharma,Female,35,Consumer,Karnataka,Bengaluru,2024-05-15,Retail,1
+C02152,Aarav Reddy,Female,27,Consumer,Delhi,New Delhi,2025-03-06,Retail,1
+C02153,Neha Banerjee,Male,33,Consumer,Rajasthan,Udaipur,2023-08-27,Online,0
+C02154,Rahul Banerjee,Female,39,Consumer,Rajasthan,Jaipur,2024-08-28,Online,1
+C02155,Vihaan Gupta,Female,43,Consumer,Madhya Pradesh,Indore,2023-10-20,Retail,1
+C02156,Rohan Das,Male,31,Corporate,Tamil Nadu,Madurai,2023-09-19,Retail,1
+C02157,Meera Gupta,Male,18,Consumer,Uttar Pradesh,Lucknow,2024-01-28,Online,1
+C02158,Isha Choudhary,Female,18,Consumer,Gujarat,Ahmedabad,2023-12-19,B2B,1
+C02159,Neha Singh,Male,29,Consumer,Uttar Pradesh,Lucknow,2024-05-10,Online,1
+C02160,Rohan Choudhary,Female,18,Consumer,Telangana,Hyderabad,2023-07-25,Online,1
+C02161,Sai Jain,Female,48,Consumer,Maharashtra,Nagpur,2024-01-26,Online,1
+C02162,Kavya Gupta,Male,37,Consumer,Tamil Nadu,Chennai,2024-09-14,Online,1
+C02163,Rohan Reddy,Female,26,Consumer,Tamil Nadu,Chennai,2024-01-23,Online,1
+C02164,Ananya Singh,Male,22,Consumer,Delhi,New Delhi,2024-10-18,Retail,1
+C02165,Neha Iyer,Male,41,Corporate,Gujarat,Ahmedabad,2023-04-26,Online,1
+C02166,Kabir Jain,Female,22,Corporate,Telangana,Warangal,2023-05-18,Retail,1
+C02167,Aditya Singh,Female,23,Consumer,Maharashtra,Nashik,2025-05-15,Retail,1
+C02168,Vihaan Iyer,Male,25,Consumer,Karnataka,Mangaluru,2024-04-06,Retail,1
+C02169,Ananya Das,Female,33,Consumer,Uttar Pradesh,Noida,2024-09-01,Online,1
+C02170,Aarav Jain,Female,38,Consumer,Gujarat,Surat,2025-01-09,Retail,1
+C02171,Isha Reddy,Female,43,Consumer,West Bengal,Siliguri,2023-05-27,Online,1
+C02172,Priya Joshi,Female,41,Consumer,Telangana,Warangal,2025-08-30,Retail,1
+C02173,Kavya Banerjee,Male,32,Consumer,Telangana,Hyderabad,2024-02-28,Online,1
+C02174,Vihaan Kulkarni,Male,41,Consumer,Tamil Nadu,Chennai,2025-06-08,Retail,1
+C02175,Meera Banerjee,Female,26,Consumer,Tamil Nadu,Coimbatore,2024-02-21,Online,1
+C02176,Rohan Reddy,Male,18,Consumer,Rajasthan,Jaipur,2024-02-10,Retail,1
+C02177,Isha Singh,Female,26,Consumer,Madhya Pradesh,Indore,2024-08-23,Online,1
+C02178,Rahul Nair,Male,25,Consumer,Delhi,New Delhi,2023-07-10,Online,1
+C02179,Ananya Patel,Male,26,Consumer,West Bengal,Siliguri,2024-08-31,Retail,1
+C02180,Isha Joshi,Male,23,Corporate,Madhya Pradesh,Bhopal,2025-09-10,Online,1
+C02181,Aarav Singh,Male,28,Corporate,Maharashtra,Mumbai,2024-10-07,Retail,1
+C02182,Isha Mehta,Male,38,Consumer,Uttar Pradesh,Lucknow,2023-03-12,Retail,1
+C02183,Aarav Banerjee,Female,47,Consumer,Tamil Nadu,Chennai,2024-11-28,Retail,1
+C02184,Sneha Das,Female,18,Consumer,Madhya Pradesh,Bhopal,2023-02-03,Retail,1
+C02185,Arjun Choudhary,Male,20,Consumer,Telangana,Hyderabad,2023-04-14,Retail,1
+C02186,Irfan Singh,Male,25,Consumer,Rajasthan,Jaipur,2023-10-12,Retail,1
+C02187,Aditya Iyer,Female,39,Consumer,Karnataka,Bengaluru,2023-11-01,Online,1
+C02188,Sai Mehta,Male,30,Consumer,Karnataka,Mangaluru,2023-01-04,Retail,1
+C02189,Aditya Khan,Male,25,SMB,Madhya Pradesh,Indore,2023-01-18,Retail,1
+C02190,Diya Choudhary,Female,38,Consumer,Telangana,Warangal,2025-02-28,Online,1
+C02191,Kabir Khan,Female,41,Consumer,Telangana,Warangal,2024-03-30,Online,1
+C02192,Isha Das,Female,32,Consumer,Karnataka,Bengaluru,2023-07-19,Online,1
+C02193,Kabir Jain,Female,25,Consumer,Delhi,New Delhi,2024-03-05,Retail,1
+C02194,Irfan Sharma,Female,34,Consumer,Rajasthan,Udaipur,2024-11-23,Online,1
+C02195,Aarav Das,Female,30,SMB,Gujarat,Surat,2025-01-04,Retail,1
+C02196,Isha Das,Male,30,Corporate,Telangana,Warangal,2023-10-16,Retail,1
+C02197,Meera Kulkarni,Male,27,Consumer,Gujarat,Ahmedabad,2023-06-17,Retail,1
+C02198,Riya Joshi,Male,40,Corporate,Delhi,New Delhi,2025-08-17,Online,1
+C02199,Aditya Gupta,Male,34,Consumer,Karnataka,Mangaluru,2024-09-23,Retail,1
+C02200,Arjun Kulkarni,Female,41,Consumer,Madhya Pradesh,Bhopal,2025-09-09,Retail,1
+C02201,Diya Gupta,Male,44,Consumer,Madhya Pradesh,Indore,2023-11-03,Online,1
+C02202,Rohan Mehta,Male,36,Consumer,Karnataka,Bengaluru,2023-04-22,Online,1
+C02203,Sneha Choudhary,Male,27,Consumer,Gujarat,Vadodara,2024-01-17,Online,0
+C02204,Diya Khan,Female,41,Consumer,Telangana,Warangal,2023-11-24,B2B,1
+C02205,Riya Reddy,Female,36,Consumer,Gujarat,Surat,2024-12-20,Online,1
+C02206,Ananya Iyer,Female,55,SMB,Uttar Pradesh,Noida,2024-12-17,Online,1
+C02207,Aarav Iyer,Male,35,Consumer,Delhi,New Delhi,2023-03-13,Online,1
+C02208,Diya Banerjee,Male,38,Corporate,Maharashtra,Mumbai,2024-08-10,Online,1
+C02209,Ananya Joshi,Female,35,Consumer,Gujarat,Ahmedabad,2023-12-09,Online,1
+C02210,Vihaan Banerjee,Female,31,SMB,Telangana,Warangal,2024-09-06,Retail,1
+C02211,Rohan Mehta,Female,30,Consumer,Karnataka,Mysuru,2024-01-27,Online,1
+C02212,Sai Mehta,Female,35,Consumer,Rajasthan,Jaipur,2024-06-21,Retail,1
+C02213,Arjun Joshi,Male,37,Consumer,Maharashtra,Nagpur,2024-12-16,Online,1
+C02214,Diya Mehta,Female,42,SMB,Maharashtra,Mumbai,2023-10-21,Online,1
+C02215,Sneha Jain,Female,35,Consumer,Telangana,Hyderabad,2023-07-19,Retail,1
+C02216,Kabir Gupta,Female,28,Consumer,Telangana,Hyderabad,2024-12-06,Retail,1
+C02217,Isha Patel,Female,29,Corporate,Delhi,New Delhi,2025-08-05,Retail,1
+C02218,Irfan Das,Male,20,Consumer,Delhi,New Delhi,2024-03-20,Online,1
+C02219,Aarav Sharma,Male,47,SMB,Maharashtra,Pune,2025-09-24,Online,1
+C02220,Ananya Sharma,Female,27,Consumer,West Bengal,Kolkata,2023-07-04,Retail,1
+C02221,Riya Sharma,Male,41,Consumer,Gujarat,Ahmedabad,2025-03-29,Online,1
+C02222,Priya Patel,Male,34,Consumer,Karnataka,Mysuru,2025-09-15,Retail,1
+C02223,Rohan Joshi,Male,35,Consumer,Gujarat,Surat,2023-10-27,Online,1
+C02224,Neha Singh,Female,31,Consumer,Madhya Pradesh,Bhopal,2023-05-28,Online,1
+C02225,Priya Banerjee,Male,25,Consumer,Delhi,New Delhi,2024-10-25,Retail,1
+C02226,Rahul Gupta,Male,23,Consumer,Rajasthan,Udaipur,2025-05-19,Retail,1
+C02227,Rahul Gupta,Female,48,Corporate,Delhi,New Delhi,2023-03-25,Retail,1
+C02228,Priya Das,Female,33,SMB,Karnataka,Mangaluru,2024-10-02,Retail,1
+C02229,Rahul Nair,Female,42,Consumer,Delhi,New Delhi,2025-05-21,Online,1
+C02230,Kabir Choudhary,Female,44,Consumer,Gujarat,Vadodara,2023-02-02,Retail,0
+C02231,Aditya Joshi,Male,28,Consumer,Karnataka,Bengaluru,2024-05-30,B2B,1
+C02232,Aditya Das,Female,36,SMB,Telangana,Warangal,2023-03-18,Online,1
+C02233,Vivaan Banerjee,Female,32,Corporate,Gujarat,Surat,2023-06-26,Online,1
+C02234,Arjun Khan,Male,22,Consumer,Uttar Pradesh,Lucknow,2024-05-01,Retail,1
+C02235,Ananya Das,Female,30,Consumer,Tamil Nadu,Coimbatore,2023-11-24,Online,1
+C02236,Vivaan Iyer,Male,37,SMB,Tamil Nadu,Madurai,2023-03-27,Retail,1
+C02237,Kabir Khan,Male,28,SMB,Tamil Nadu,Madurai,2025-03-11,Online,1
+C02238,Isha Kulkarni,Male,29,Consumer,Karnataka,Mysuru,2023-07-22,Retail,1
+C02239,Kabir Nair,Male,30,Corporate,Uttar Pradesh,Lucknow,2025-05-20,Retail,1
+C02240,Riya Gupta,Other,51,Consumer,Karnataka,Bengaluru,2023-06-26,Retail,1
+C02241,Sai Jain,Male,18,Consumer,Uttar Pradesh,Lucknow,2024-06-03,Retail,1
+C02242,Kabir Mehta,Female,37,Corporate,Madhya Pradesh,Bhopal,2024-12-28,Online,1
+C02243,Sneha Joshi,Male,30,Consumer,Uttar Pradesh,Noida,2024-04-25,Retail,1
+C02244,Ananya Iyer,Male,26,Consumer,Tamil Nadu,Coimbatore,2024-02-22,Retail,1
+C02245,Ananya Jain,Male,29,SMB,Gujarat,Vadodara,2025-01-20,B2B,1
+C02246,Riya Iyer,Male,38,Corporate,Rajasthan,Udaipur,2023-01-12,B2B,1
+C02247,Irfan Kulkarni,Female,39,Consumer,Delhi,New Delhi,2025-04-06,Retail,1
+C02248,Riya Nair,Female,34,Consumer,Tamil Nadu,Madurai,2024-11-20,Retail,1
+C02249,Irfan Joshi,Male,42,Corporate,Uttar Pradesh,Lucknow,2025-02-03,Retail,1
+C02250,Vivaan Gupta,Female,43,Consumer,Madhya Pradesh,Bhopal,2024-02-25,Retail,0
+C02251,Vivaan Iyer,Female,39,SMB,Madhya Pradesh,Bhopal,2024-01-20,Retail,1
+C02252,Isha Reddy,Female,27,Consumer,Maharashtra,Nashik,2024-07-25,Online,1
+C02253,Arjun Reddy,Male,36,Consumer,Rajasthan,Jaipur,2024-10-03,Online,1
+C02254,Aarav Sharma,Male,36,Consumer,Karnataka,Mysuru,2025-07-14,Retail,1
+C02255,Arjun Iyer,Female,25,Corporate,Telangana,Warangal,2025-05-07,Online,1
+C02256,Sai Khan,Female,18,SMB,Madhya Pradesh,Indore,2023-02-23,Online,0
+C02257,Rahul Khan,Male,18,Consumer,West Bengal,Siliguri,2023-06-01,Online,1
+C02258,Kavya Kulkarni,Female,33,Consumer,Madhya Pradesh,Indore,2025-08-04,Retail,1
+C02259,Diya Sharma,Male,35,Corporate,Gujarat,Vadodara,2024-01-24,B2B,1
+C02260,Sneha Joshi,Female,21,Consumer,Gujarat,Ahmedabad,2024-08-03,Retail,0
+C02261,Irfan Joshi,Male,41,Consumer,Gujarat,Ahmedabad,2023-02-26,B2B,1
+C02262,Sai Iyer,Female,33,SMB,Gujarat,Ahmedabad,2023-04-15,Retail,1
+C02263,Priya Choudhary,Male,44,Corporate,West Bengal,Kolkata,2024-02-13,Online,1
+C02264,Rahul Singh,Male,35,SMB,Tamil Nadu,Coimbatore,2024-12-18,Online,1
+C02265,Priya Gupta,Female,22,Consumer,Uttar Pradesh,Lucknow,2025-02-11,Online,1
+C02266,Diya Khan,Male,36,Consumer,Tamil Nadu,Coimbatore,2025-06-13,Online,1
+C02267,Rahul Reddy,Female,38,SMB,Gujarat,Surat,2023-07-17,Retail,1
+C02268,Rohan Banerjee,Female,27,Consumer,Karnataka,Mysuru,2023-07-21,Online,1
+C02269,Isha Sharma,Male,19,Consumer,Telangana,Warangal,2024-06-25,Retail,1
+C02270,Zoya Sharma,Male,33,SMB,Rajasthan,Jaipur,2024-06-30,Retail,1
+C02271,Neha Reddy,Female,23,Consumer,Rajasthan,Udaipur,2023-02-06,Online,1
+C02272,Ananya Choudhary,Female,42,SMB,Delhi,New Delhi,2024-03-23,B2B,1
+C02273,Isha Gupta,Female,28,Consumer,Tamil Nadu,Madurai,2025-06-16,B2B,1
+C02274,Aarav Nair,Male,48,SMB,Uttar Pradesh,Lucknow,2023-06-13,Retail,1
+C02275,Aditya Singh,Female,18,Consumer,West Bengal,Siliguri,2025-03-31,Retail,1
+C02276,Sneha Khan,Female,33,Consumer,Maharashtra,Nashik,2024-03-23,B2B,1
+C02277,Vivaan Choudhary,Female,45,SMB,Telangana,Hyderabad,2024-06-08,Retail,1
+C02278,Irfan Khan,Male,24,Consumer,Maharashtra,Mumbai,2024-10-03,Retail,0
+C02279,Arjun Das,Male,31,Consumer,Karnataka,Mysuru,2024-12-06,Online,1
+C02280,Riya Mehta,Female,28,Consumer,West Bengal,Kolkata,2024-09-29,Retail,1
+C02281,Neha Joshi,Other,26,Corporate,Karnataka,Mysuru,2023-04-14,Online,1
+C02282,Sneha Jain,Male,34,SMB,Gujarat,Vadodara,2023-10-23,Online,1
+C02283,Diya Joshi,Female,20,Consumer,Telangana,Warangal,2025-04-25,Online,1
+C02284,Rahul Mehta,Male,31,Consumer,West Bengal,Kolkata,2023-02-10,Online,0
+C02285,Priya Khan,Male,37,Consumer,Tamil Nadu,Chennai,2024-12-16,Online,1
+C02286,Zoya Gupta,Male,30,SMB,Maharashtra,Nagpur,2024-06-04,Online,1
+C02287,Aditya Kulkarni,Male,23,SMB,Uttar Pradesh,Lucknow,2023-04-30,Online,1
+C02288,Sai Kulkarni,Male,41,SMB,Madhya Pradesh,Bhopal,2023-05-03,Retail,1
+C02289,Kabir Patel,Male,39,Consumer,Rajasthan,Udaipur,2025-09-07,Retail,1
+C02290,Neha Patel,Male,23,Consumer,Uttar Pradesh,Lucknow,2023-02-01,Retail,1
+C02291,Irfan Reddy,Female,20,Corporate,Tamil Nadu,Coimbatore,2023-01-23,Online,1
+C02292,Diya Joshi,Female,23,Corporate,Rajasthan,Jaipur,2023-01-17,Retail,1
+C02293,Kabir Choudhary,Female,37,Consumer,Tamil Nadu,Chennai,2024-09-20,Online,1
+C02294,Kabir Banerjee,Male,34,Consumer,Karnataka,Mysuru,2025-07-15,Online,1
+C02295,Sneha Das,Female,39,Consumer,Rajasthan,Jaipur,2023-06-21,Online,1
+C02296,Aditya Choudhary,Male,29,Consumer,Gujarat,Ahmedabad,2025-03-06,Retail,1
+C02297,Aarav Reddy,Female,24,Consumer,Madhya Pradesh,Bhopal,2024-12-20,B2B,1
+C02298,Meera Das,Female,40,Consumer,Gujarat,Surat,2023-08-18,Retail,1
+C02299,Aarav Iyer,Male,27,Consumer,Rajasthan,Jaipur,2023-03-12,Retail,1
+C02300,Vihaan Mehta,Male,34,SMB,Telangana,Warangal,2024-05-02,Online,1
+C02301,Riya Gupta,Female,18,Corporate,Tamil Nadu,Madurai,2023-03-23,Retail,1
+C02302,Sai Das,Female,27,SMB,Delhi,New Delhi,2023-04-24,Online,1
+C02303,Sai Banerjee,Female,41,Consumer,Rajasthan,Jaipur,2024-04-11,Online,0
+C02304,Ananya Singh,Female,26,Consumer,Maharashtra,Mumbai,2025-03-26,B2B,1
+C02305,Rohan Gupta,Female,39,Consumer,Tamil Nadu,Coimbatore,2025-09-21,B2B,1
+C02306,Diya Joshi,Male,18,Consumer,Gujarat,Surat,2024-09-19,Online,1
+C02307,Kavya Joshi,Female,27,Consumer,Telangana,Warangal,2023-10-04,Online,0
+C02308,Vihaan Mehta,Male,30,Corporate,Delhi,New Delhi,2023-11-25,Online,1
+C02309,Aditya Sharma,Male,48,Corporate,West Bengal,Kolkata,2024-09-04,Online,1
+C02310,Vihaan Iyer,Male,21,SMB,Gujarat,Surat,2023-06-23,Online,1
+C02311,Rahul Patel,Female,38,Consumer,Karnataka,Bengaluru,2024-06-02,Retail,1
+C02312,Sai Banerjee,Female,42,Consumer,Karnataka,Mysuru,2025-02-07,Online,1
+C02313,Aarav Gupta,Male,26,Consumer,West Bengal,Siliguri,2025-04-22,Online,1
+C02314,Ananya Das,Male,29,Consumer,Delhi,New Delhi,2023-03-01,Online,1
+C02315,Rohan Choudhary,Male,33,Consumer,Gujarat,Surat,2023-10-16,Retail,1
+C02316,Diya Banerjee,Female,19,Consumer,West Bengal,Kolkata,2023-09-12,Online,1
+C02317,Diya Iyer,Female,28,Corporate,Gujarat,Ahmedabad,2024-07-08,Online,1
+C02318,Vivaan Jain,Male,43,Consumer,Gujarat,Vadodara,2023-07-05,Retail,1
+C02319,Rohan Joshi,Male,37,SMB,Delhi,New Delhi,2025-08-08,Retail,1
+C02320,Arjun Mehta,Female,31,SMB,Gujarat,Ahmedabad,2025-07-06,Online,1
+C02321,Vivaan Khan,Male,33,Consumer,West Bengal,Kolkata,2023-11-29,Retail,1
+C02322,Neha Joshi,Male,37,SMB,Telangana,Hyderabad,2024-02-12,Online,1
+C02323,Rahul Mehta,Male,39,Consumer,Madhya Pradesh,Bhopal,2024-03-15,Retail,1
+C02324,Kabir Reddy,Male,27,Corporate,Uttar Pradesh,Noida,2023-02-12,Online,1
+C02325,Rahul Singh,Male,46,SMB,Maharashtra,Nashik,2025-06-07,Retail,1
+C02326,Isha Iyer,Female,44,Corporate,Gujarat,Surat,2025-02-18,B2B,1
+C02327,Riya Mehta,Male,38,Corporate,Delhi,New Delhi,2023-11-29,Retail,1
+C02328,Diya Khan,Male,24,Consumer,Telangana,Warangal,2024-07-01,Retail,1
+C02329,Riya Gupta,Female,23,Corporate,Delhi,New Delhi,2024-01-16,Online,1
+C02330,Zoya Das,Female,29,Consumer,Madhya Pradesh,Bhopal,2023-08-17,Retail,1
+C02331,Kabir Khan,Male,33,Consumer,Delhi,New Delhi,2023-11-01,Online,1
+C02332,Aarav Choudhary,Male,18,Consumer,Telangana,Hyderabad,2023-04-18,Online,1
+C02333,Meera Choudhary,Female,36,Corporate,Karnataka,Mysuru,2025-03-20,Online,1
+C02334,Diya Das,Male,44,Consumer,Madhya Pradesh,Bhopal,2024-10-16,Retail,1
+C02335,Riya Singh,Female,37,Consumer,Madhya Pradesh,Bhopal,2025-07-19,Retail,1
+C02336,Meera Gupta,Male,26,SMB,Uttar Pradesh,Noida,2023-01-07,Retail,1
+C02337,Meera Iyer,Male,25,Consumer,Gujarat,Vadodara,2024-09-23,Retail,1
+C02338,Zoya Banerjee,Male,35,Consumer,Maharashtra,Nashik,2024-07-14,Retail,1
+C02339,Zoya Reddy,Female,31,Consumer,Uttar Pradesh,Noida,2024-09-15,Retail,1
+C02340,Sneha Banerjee,Male,36,Consumer,Tamil Nadu,Coimbatore,2025-09-16,Retail,1
+C02341,Kabir Patel,Male,37,Corporate,Madhya Pradesh,Indore,2024-01-26,Online,1
+C02342,Sai Patel,Male,42,Consumer,West Bengal,Kolkata,2023-05-22,Online,0
+C02343,Vihaan Das,Female,22,Consumer,Telangana,Warangal,2023-01-13,Retail,1
+C02344,Irfan Nair,Male,34,Corporate,Madhya Pradesh,Indore,2024-05-07,B2B,1
+C02345,Rahul Reddy,Female,29,Consumer,Rajasthan,Jaipur,2023-06-23,Online,1
+C02346,Aarav Jain,Female,31,Corporate,Tamil Nadu,Madurai,2023-05-22,Online,1
+C02347,Arjun Patel,Male,40,Consumer,Maharashtra,Mumbai,2023-05-28,Online,1
+C02348,Rohan Jain,Female,41,Corporate,Maharashtra,Nashik,2023-10-04,Online,1
+C02349,Vihaan Reddy,Female,45,Consumer,Tamil Nadu,Coimbatore,2023-04-26,Retail,1
+C02350,Vivaan Gupta,Male,36,Consumer,Telangana,Hyderabad,2024-04-30,Online,1
+C02351,Sneha Mehta,Male,31,Consumer,Maharashtra,Mumbai,2024-10-16,Online,1
+C02352,Vivaan Nair,Male,30,Consumer,Karnataka,Mangaluru,2023-10-17,Retail,1
+C02353,Arjun Choudhary,Male,18,Consumer,Uttar Pradesh,Kanpur,2023-05-17,Online,1
+C02354,Sneha Patel,Female,44,Corporate,Uttar Pradesh,Kanpur,2024-07-26,Online,1
+C02355,Aditya Joshi,Female,29,Consumer,Maharashtra,Nashik,2023-03-27,Retail,1
+C02356,Kavya Gupta,Female,37,Consumer,Telangana,Hyderabad,2025-01-07,Online,1
+C02357,Meera Das,Male,38,Consumer,Maharashtra,Nagpur,2024-01-18,B2B,1
+C02358,Riya Reddy,Male,21,Consumer,Uttar Pradesh,Lucknow,2024-02-14,Retail,1
+C02359,Irfan Nair,Male,24,Consumer,Rajasthan,Jaipur,2023-09-07,B2B,1
+C02360,Aarav Kulkarni,Female,46,SMB,Rajasthan,Udaipur,2023-10-10,Online,1
+C02361,Vivaan Gupta,Male,35,Corporate,Telangana,Hyderabad,2023-05-26,Retail,1
+C02362,Vihaan Das,Female,27,Consumer,West Bengal,Siliguri,2024-07-12,Retail,1
+C02363,Priya Joshi,Female,31,Consumer,Madhya Pradesh,Bhopal,2023-05-27,Retail,1
+C02364,Sneha Jain,Male,42,Consumer,West Bengal,Kolkata,2024-11-11,Online,1
+C02365,Vivaan Sharma,Female,40,Consumer,Tamil Nadu,Coimbatore,2023-09-14,Online,1
+C02366,Isha Singh,Female,19,Consumer,Uttar Pradesh,Kanpur,2024-07-19,Online,1
+C02367,Isha Patel,Female,47,Consumer,Telangana,Hyderabad,2024-06-20,Retail,1
+C02368,Vihaan Mehta,Male,41,Corporate,Rajasthan,Udaipur,2024-09-25,Retail,1
+C02369,Ananya Mehta,Male,31,Consumer,Telangana,Hyderabad,2025-01-28,Online,1
+C02370,Arjun Jain,Female,21,Consumer,Rajasthan,Udaipur,2024-07-14,Retail,1
+C02371,Aditya Khan,Male,41,Consumer,Maharashtra,Mumbai,2025-05-02,Retail,1
+C02372,Riya Nair,Female,36,Consumer,Maharashtra,Nashik,2023-09-17,Retail,1
+C02373,Rahul Joshi,Male,19,Consumer,Maharashtra,Nashik,2025-01-21,Online,1
+C02374,Isha Mehta,Female,30,Consumer,Telangana,Warangal,2023-12-09,Retail,1
+C02375,Kabir Mehta,Female,60,SMB,Uttar Pradesh,Noida,2024-09-20,Retail,1
+C02376,Rohan Singh,Male,32,Consumer,Delhi,New Delhi,2024-05-06,Retail,1
+C02377,Irfan Sharma,Male,25,Consumer,Karnataka,Mysuru,2025-06-26,Retail,1
+C02378,Irfan Jain,Female,23,Consumer,Rajasthan,Jaipur,2023-09-29,Retail,1
+C02379,Rahul Kulkarni,Male,48,Consumer,Uttar Pradesh,Lucknow,2024-06-03,Online,1
+C02380,Irfan Patel,Female,40,Consumer,West Bengal,Siliguri,2023-06-14,Retail,1
+C02381,Rahul Mehta,Female,45,Consumer,Tamil Nadu,Coimbatore,2024-09-25,Online,1
+C02382,Sneha Banerjee,Male,34,Consumer,Tamil Nadu,Madurai,2023-02-06,Retail,1
+C02383,Neha Joshi,Female,43,Consumer,Maharashtra,Mumbai,2024-02-16,Retail,1
+C02384,Priya Iyer,Male,24,SMB,Karnataka,Mangaluru,2023-01-10,Retail,1
+C02385,Ananya Jain,Female,33,SMB,Rajasthan,Udaipur,2023-11-24,Retail,1
+C02386,Meera Jain,Male,35,Consumer,Gujarat,Vadodara,2024-04-29,Online,1
+C02387,Irfan Gupta,Male,44,Consumer,Uttar Pradesh,Lucknow,2023-11-28,Online,1
+C02388,Kavya Das,Male,35,Corporate,Uttar Pradesh,Noida,2024-01-21,Retail,1
+C02389,Riya Jain,Female,26,SMB,Gujarat,Surat,2023-05-29,Online,1
+C02390,Vivaan Khan,Female,33,SMB,Delhi,New Delhi,2024-12-15,Online,1
+C02391,Sai Kulkarni,Female,18,Consumer,West Bengal,Siliguri,2025-03-07,B2B,1
+C02392,Meera Reddy,Male,18,Consumer,Maharashtra,Mumbai,2024-03-30,Online,1
+C02393,Diya Sharma,Female,39,Consumer,Tamil Nadu,Coimbatore,2023-02-25,Online,1
+C02394,Priya Khan,Female,29,Corporate,Rajasthan,Jaipur,2023-03-04,Online,1
+C02395,Ananya Mehta,Female,30,Consumer,Uttar Pradesh,Noida,2024-11-05,Retail,1
+C02396,Vivaan Iyer,Male,39,Consumer,Uttar Pradesh,Lucknow,2025-07-17,Online,1
+C02397,Priya Iyer,Female,45,Consumer,Maharashtra,Pune,2025-05-14,Retail,1
+C02398,Isha Gupta,Male,37,Consumer,Karnataka,Mysuru,2024-02-10,Online,1
+C02399,Kavya Patel,Male,49,Consumer,Delhi,New Delhi,2024-05-12,Online,1
+C02400,Aditya Mehta,Female,37,Consumer,Delhi,New Delhi,2023-06-13,Online,1
+C02401,Priya Iyer,Male,35,Consumer,Karnataka,Bengaluru,2023-03-12,Online,1
+C02402,Zoya Mehta,Male,34,Corporate,Madhya Pradesh,Bhopal,2025-02-04,Retail,1
+C02403,Sai Jain,Female,20,Consumer,Karnataka,Mangaluru,2024-03-04,Online,1
+C02404,Ananya Das,Other,41,Consumer,Uttar Pradesh,Lucknow,2024-05-11,Online,1
+C02405,Vivaan Choudhary,Male,18,Corporate,Telangana,Hyderabad,2023-12-10,Online,1
+C02406,Meera Khan,Female,27,Consumer,West Bengal,Siliguri,2023-11-10,Online,1
+C02407,Zoya Banerjee,Male,32,Consumer,Delhi,New Delhi,2025-09-12,Online,1
+C02408,Priya Gupta,Male,25,Consumer,Gujarat,Ahmedabad,2025-03-27,Online,1
+C02409,Isha Gupta,Male,28,Consumer,West Bengal,Siliguri,2024-11-22,B2B,1
+C02410,Neha Banerjee,Female,49,Consumer,Delhi,New Delhi,2024-01-25,Online,1
+C02411,Isha Reddy,Male,42,Consumer,West Bengal,Kolkata,2024-12-22,Retail,1
+C02412,Diya Nair,Male,26,Consumer,Maharashtra,Pune,2023-12-06,Retail,1
+C02413,Kavya Jain,Female,28,Consumer,Maharashtra,Pune,2024-05-30,Online,1
+C02414,Sai Reddy,Female,21,Consumer,Uttar Pradesh,Noida,2023-05-26,Retail,0
+C02415,Irfan Gupta,Female,38,Consumer,West Bengal,Kolkata,2024-12-10,Retail,1
+C02416,Sai Das,Female,30,Consumer,Maharashtra,Pune,2023-03-02,Retail,1
+C02417,Riya Kulkarni,Male,18,Consumer,Rajasthan,Jaipur,2024-12-23,B2B,1
+C02418,Sai Reddy,Male,33,Consumer,Maharashtra,Mumbai,2024-08-26,Retail,1
+C02419,Kabir Iyer,Male,36,Consumer,Madhya Pradesh,Indore,2023-03-08,Online,1
+C02420,Isha Choudhary,Female,41,Consumer,Uttar Pradesh,Noida,2024-05-21,Retail,1
+C02421,Arjun Singh,Male,31,Corporate,Madhya Pradesh,Bhopal,2023-08-11,Online,1
+C02422,Neha Nair,Male,29,SMB,Madhya Pradesh,Indore,2024-04-21,Retail,1
+C02423,Rahul Mehta,Male,50,Consumer,Gujarat,Vadodara,2023-01-13,Retail,1
+C02424,Aarav Kulkarni,Male,32,Consumer,Uttar Pradesh,Kanpur,2024-12-22,Retail,1
+C02425,Meera Gupta,Female,38,Consumer,Delhi,New Delhi,2024-05-24,Retail,1
+C02426,Neha Banerjee,Female,27,Consumer,Tamil Nadu,Madurai,2023-12-29,Online,1
+C02427,Neha Sharma,Male,38,SMB,Delhi,New Delhi,2025-05-25,Retail,1
+C02428,Arjun Gupta,Female,19,Consumer,Tamil Nadu,Madurai,2024-10-06,Online,1
+C02429,Aditya Nair,Female,28,SMB,Rajasthan,Jaipur,2024-09-01,Retail,1
+C02430,Riya Singh,Male,21,Consumer,Tamil Nadu,Madurai,2023-05-28,Retail,1
+C02431,Kabir Mehta,Male,27,Consumer,Maharashtra,Nagpur,2024-05-15,Online,1
+C02432,Sai Sharma,Female,43,SMB,Gujarat,Surat,2024-12-01,Retail,1
+C02433,Diya Iyer,Male,26,Consumer,Uttar Pradesh,Lucknow,2025-07-14,Online,1
+C02434,Riya Singh,Female,38,Corporate,Telangana,Warangal,2024-08-27,Online,1
+C02435,Priya Gupta,Female,46,Consumer,Telangana,Warangal,2023-06-22,B2B,1
+C02436,Priya Das,Female,32,SMB,Tamil Nadu,Madurai,2024-11-08,Retail,1
+C02437,Rohan Banerjee,Other,41,Consumer,Delhi,New Delhi,2023-03-16,Retail,1
+C02438,Sneha Mehta,Female,37,Consumer,Telangana,Hyderabad,2023-11-09,Online,1
+C02439,Kavya Mehta,Male,33,Corporate,West Bengal,Kolkata,2025-07-06,Online,1
+C02440,Aarav Khan,Male,39,Consumer,Rajasthan,Udaipur,2025-03-12,Online,1
+C02441,Ananya Singh,Female,49,Consumer,West Bengal,Kolkata,2025-06-21,Online,1
+C02442,Aarav Banerjee,Female,26,Corporate,Madhya Pradesh,Indore,2023-12-19,Online,1
+C02443,Zoya Mehta,Female,23,Consumer,Rajasthan,Udaipur,2024-11-13,Online,1
+C02444,Kabir Nair,Female,23,SMB,Maharashtra,Nashik,2024-12-01,Retail,1
+C02445,Arjun Banerjee,Male,41,Consumer,Gujarat,Ahmedabad,2023-09-03,Online,1
+C02446,Irfan Choudhary,Female,42,Consumer,Gujarat,Surat,2025-07-31,Retail,1
+C02447,Meera Kulkarni,Female,27,Consumer,Maharashtra,Pune,2025-08-27,Retail,1
+C02448,Vivaan Gupta,Female,18,Consumer,Karnataka,Mysuru,2023-04-21,Online,1
+C02449,Vihaan Gupta,Female,26,SMB,Uttar Pradesh,Lucknow,2025-02-04,Retail,1
+C02450,Irfan Nair,Male,37,Consumer,Gujarat,Surat,2024-03-23,Online,1
+C02451,Sai Kulkarni,Female,31,Consumer,Karnataka,Mysuru,2024-11-04,Online,1
+C02452,Riya Jain,Male,34,Consumer,Delhi,New Delhi,2024-07-08,Retail,1
+C02453,Zoya Jain,Male,27,Consumer,Delhi,New Delhi,2023-08-11,Online,1
+C02454,Sai Mehta,Female,41,Consumer,Karnataka,Bengaluru,2023-04-06,Online,1
+C02455,Aarav Patel,Female,35,Corporate,Karnataka,Bengaluru,2024-05-28,Retail,1
+C02456,Vivaan Joshi,Female,37,Corporate,Uttar Pradesh,Kanpur,2025-04-17,Online,1
+C02457,Rahul Iyer,Male,33,SMB,Rajasthan,Jaipur,2025-04-02,Retail,1
+C02458,Meera Singh,Male,37,Consumer,Tamil Nadu,Chennai,2023-10-02,Retail,1
+C02459,Ananya Iyer,Male,36,Consumer,West Bengal,Kolkata,2025-05-10,Online,1
+C02460,Vivaan Sharma,Female,24,Consumer,Madhya Pradesh,Bhopal,2023-12-22,Retail,1
+C02461,Rohan Mehta,Female,35,Corporate,Rajasthan,Jaipur,2024-07-15,Online,1
+C02462,Aarav Reddy,Female,39,Consumer,Maharashtra,Mumbai,2023-11-21,Online,1
+C02463,Vivaan Mehta,Male,42,Consumer,Madhya Pradesh,Bhopal,2024-06-06,B2B,1
+C02464,Meera Das,Female,36,Consumer,Maharashtra,Mumbai,2024-06-13,Online,1
+C02465,Kabir Kulkarni,Female,23,Corporate,Maharashtra,Pune,2024-11-28,Retail,1
+C02466,Meera Sharma,Male,25,Corporate,Tamil Nadu,Chennai,2024-04-16,Online,1
+C02467,Rahul Gupta,Female,28,SMB,Uttar Pradesh,Kanpur,2024-06-12,Online,1
+C02468,Sai Choudhary,Female,34,Consumer,Maharashtra,Nagpur,2024-10-13,Retail,1
+C02469,Meera Nair,Male,31,SMB,Delhi,New Delhi,2024-02-22,Retail,1
+C02470,Ananya Reddy,Male,22,Consumer,Delhi,New Delhi,2024-06-08,Online,1
+C02471,Diya Sharma,Female,22,Consumer,Gujarat,Vadodara,2023-03-27,Retail,1
+C02472,Vihaan Banerjee,Female,18,Consumer,Madhya Pradesh,Indore,2025-05-19,Online,1
+C02473,Kavya Nair,Female,18,Consumer,Gujarat,Ahmedabad,2023-05-07,Online,1
+C02474,Neha Sharma,Female,31,Consumer,Delhi,New Delhi,2025-05-22,Retail,0
+C02475,Neha Iyer,Male,53,Consumer,Karnataka,Mangaluru,2025-01-30,Retail,1
+C02476,Aditya Khan,Female,48,Consumer,Karnataka,Mangaluru,2025-08-05,Online,1
+C02477,Aditya Choudhary,Female,23,Consumer,Karnataka,Bengaluru,2023-01-25,Retail,1
+C02478,Kavya Banerjee,Male,33,Corporate,Telangana,Warangal,2023-08-06,Online,1
+C02479,Rohan Reddy,Female,19,Consumer,Tamil Nadu,Madurai,2023-02-22,B2B,1
+C02480,Aarav Khan,Male,20,Consumer,Tamil Nadu,Coimbatore,2024-02-22,Retail,1
+C02481,Rohan Mehta,Male,21,Consumer,Rajasthan,Udaipur,2025-06-23,Online,1
+C02482,Sneha Gupta,Male,30,Corporate,Telangana,Hyderabad,2025-02-05,Online,1
+C02483,Kavya Patel,Female,30,Consumer,Karnataka,Bengaluru,2024-12-04,B2B,1
+C02484,Sai Iyer,Male,34,Consumer,Gujarat,Ahmedabad,2025-04-28,Retail,1
+C02485,Ananya Iyer,Male,38,Consumer,Gujarat,Ahmedabad,2023-01-05,Online,1
+C02486,Kavya Sharma,Female,29,Consumer,Rajasthan,Udaipur,2025-02-26,Online,1
+C02487,Isha Joshi,Male,32,Consumer,Gujarat,Surat,2023-11-09,Online,1
+C02488,Neha Kulkarni,Female,22,Consumer,Karnataka,Mangaluru,2024-11-21,Retail,1
+C02489,Sneha Singh,Female,20,Consumer,Uttar Pradesh,Lucknow,2025-02-02,Retail,1
+C02490,Isha Singh,Male,19,Consumer,Tamil Nadu,Madurai,2024-11-16,Retail,1
+C02491,Meera Nair,Male,38,Consumer,Maharashtra,Mumbai,2024-02-22,Online,1
+C02492,Priya Nair,Female,29,Consumer,West Bengal,Siliguri,2024-09-03,Retail,1
+C02493,Riya Singh,Male,18,Consumer,Delhi,New Delhi,2024-04-13,Online,1
+C02494,Vivaan Jain,Male,31,Consumer,Rajasthan,Jaipur,2024-09-20,Online,1
+C02495,Sneha Singh,Female,21,Consumer,Rajasthan,Jaipur,2024-04-03,Online,1
+C02496,Riya Sharma,Female,47,Consumer,Gujarat,Ahmedabad,2024-01-30,Online,1
+C02497,Arjun Jain,Female,27,Consumer,Telangana,Warangal,2023-07-22,Retail,1
+C02498,Meera Nair,Female,38,Consumer,Telangana,Hyderabad,2024-01-23,Online,1
+C02499,Diya Reddy,Female,42,Consumer,West Bengal,Kolkata,2024-12-22,Online,1
+C02500,Irfan Kulkarni,Female,23,Consumer,Maharashtra,Pune,2025-05-20,Retail,1
