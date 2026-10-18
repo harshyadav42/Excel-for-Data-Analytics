@@ -27,7 +27,7 @@ This repository showcases my learning and practical experience with Microsoft Ex
 - PivotTables and PivotCharts
 - Charts and Data Visualization
 - Dashboard Development
-- Power Query and VBA, where applicable
+- Power Query,Macros and VBA, where applicable
 - 
 ## 🚀 Featured Projects
 
