@@ -33,7 +33,7 @@ This repository showcases my learning and practical experience with Microsoft Ex
 
 ### 📌 Project 1: [Coffee Sales Dashboard ]
 
-![Excel_Dashboard].(Docs/Coffee_Dashboard.png)
+![Excel_Dashboard](Docs/Coffee_Dashboard.png)
 
 
 - **Objective:** Explain the problem you wanted to solve.
