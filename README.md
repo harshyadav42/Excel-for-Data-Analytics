@@ -60,7 +60,7 @@ Developed an interactive dashboard to analyze coffee sales trends, compare roast
 
 ### 📌 Project 2: [📊 ABC Executive Summary & Profitability Dashboard]
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/harshyadav42/Excel-for-Data-Analytics/blob/24008d6237dad6c2f375083e2b48f274773c21d5/Docs/ABC%20Executive%20Summary%20%26%20Profitability%20Dashboard.png)
 
 ### 🎯 Objective
 Developed an interactive executive dashboard to monitor revenue, profitability, sales performance, and regional trends for data-driven business decisions.
