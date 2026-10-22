@@ -58,14 +58,34 @@ Developed an interactive dashboard to analyze coffee sales trends, compare roast
 
 ---
 
-### 📌 Project 2: [Your Actual Project Name]
+### 📌 Project 2: [📊 ABC Executive Summary & Profitability Dashboard]
 
-- **Objective:** Describe the business question.
-- **Tools Used:** List the Excel features used.
-- **Analysis:** Explain the approach you followed.
-- **Key Insights:** Describe the results.
-- **Workbook:** Link to the project files.
+### 🎯 Objective
+Developed an interactive executive dashboard to monitor revenue, profitability, sales performance, and regional trends for data-driven business decisions.
 
+### 🛠️ Tools Used
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Excel Formulas & KPI Cards
+- Slicers and Interactive Filters
+- Map Charts and Data Visualization
+
+### ⚙️ Process
+- Cleaned and organized sales data.
+- Calculated key performance indicators, including revenue, gross profit, profit margin, units sold, orders, and COGS.
+- Analyzed monthly revenue and profit trends.
+- Compared country-wise revenue and regional performance.
+- Created interactive filters for product category, country, and quarter.
+
+### 📈 Key Insights
+- Total Revenue: **$645,223**
+- Total Gross Profit: **$296,384**
+- Gross Profit Margin: **45.94%**
+- Total Units Sold: **6,698**
+- Total Orders: **2,707**
+- Identified top-performing countries and revenue contribution by sales channel and region.
+
+---
 ## 🛠️ Tools
 
 - **Microsoft Excel** — Data analysis, calculations, reporting, and dashboards.
