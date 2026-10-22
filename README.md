@@ -90,7 +90,7 @@ Developed an interactive executive dashboard to monitor revenue, profitability, 
 ---
 ### 📌 Project 3: [👥 Employee Details Dashboard | Excel VBA & Macro Project]
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/harshyadav42/Excel-for-Data-Analytics/blob/00f146a04e0b5bcdc6899a7dab8383f17abe50e0/Docs/Employee%20Details%20Dashboard%20%20Excel%20VBA%20%26%20Macro%20Project.png)
 
 ### 🎯 Objective
 Developed an interactive employee dashboard to monitor employee working hours and customer activity, with macro-based controls for efficient data analysis.
