@@ -86,6 +86,33 @@ Developed an interactive executive dashboard to monitor revenue, profitability, 
 - Identified top-performing countries and revenue contribution by sales channel and region.
 
 ---
+### 📌 Project 3: [👥 Employee Details Dashboard | Excel VBA & Macro Project]
+
+### 🎯 Objective
+Developed an interactive employee dashboard to monitor employee working hours and customer activity, with macro-based controls for efficient data analysis.
+
+### 🛠️ Tools Used
+- Microsoft Excel
+- VBA & Macros
+- PivotTables & PivotCharts
+- Bar Charts & Pie Charts
+- Form Controls (Spinners)
+- Interactive Filters
+
+### ⚙️ Process
+- Organized employee data, including employee names, total working hours, and active hours with customers.
+- Visualized employee performance using bar charts and pie charts.
+- Created VBA macros to hide and unhide both charts.
+- Implemented spinner controls to adjust filters and dynamically analyze employee details.
+
+### 📊 Key Insights
+- Analyzed employee-wise working hours.
+- Compared active hours spent with customers.
+- Visualized employee activity through interactive charts.
+- Improved dashboard usability with macro-driven chart visibility and spinner controls.
+
+
+-----
 ## 🛠️ Tools
 
 - **Microsoft Excel** — Data analysis, calculations, reporting, and dashboards.
