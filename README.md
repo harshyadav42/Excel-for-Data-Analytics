@@ -35,8 +35,6 @@ This repository showcases my learning and practical experience with Microsoft Ex
 
 ![Excel_Dashboard](Docs/Coffee_Dashboard.png)
 
-# ☕ Coffee Sales Dashboard 
-
 ### 🎯 Objective
 Developed an interactive dashboard to analyze coffee sales trends, compare roast types, and identify top-performing countries and customers.
 
