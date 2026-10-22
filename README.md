@@ -31,7 +31,7 @@ This repository showcases my learning and practical experience with Microsoft Ex
 
 ## 🚀 Featured Projects
 
-### 📌 Project 1: [Your Actual Project Name]
+### 📌 Project 1: [COFFEE SALES DASHBOARD]
 
 - **Objective:** Explain the problem you wanted to solve.
 - **Tools Used:** Excel functions, PivotTables, charts, or other relevant features.
