@@ -33,7 +33,7 @@ This repository showcases my learning and practical experience with Microsoft Ex
 
 ### 📌 Project 1: [☕ Coffee Sales Dashboard  ]
 
-![Excel_Dashboard](Docs/Coffee_Dashboard.png)
+![Image Alt](image_url)
 
 ### 🎯 Objective
 Developed an interactive dashboard to analyze coffee sales trends, compare roast types, and identify top-performing countries and customers.
@@ -60,7 +60,7 @@ Developed an interactive dashboard to analyze coffee sales trends, compare roast
 
 ### 📌 Project 2: [📊 ABC Executive Summary & Profitability Dashboard]
 
-![Excel_Dashboard](Docs/ABC Executive Summary & Profitability Dashboard.png)
+![Image Alt](image_url)
 
 ### 🎯 Objective
 Developed an interactive executive dashboard to monitor revenue, profitability, sales performance, and regional trends for data-driven business decisions.
@@ -89,6 +89,8 @@ Developed an interactive executive dashboard to monitor revenue, profitability, 
 
 ---
 ### 📌 Project 3: [👥 Employee Details Dashboard | Excel VBA & Macro Project]
+
+![Image Alt](image_url)
 
 ### 🎯 Objective
 Developed an interactive employee dashboard to monitor employee working hours and customer activity, with macro-based controls for efficient data analysis.
