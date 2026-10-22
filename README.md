@@ -31,16 +31,33 @@ This repository showcases my learning and practical experience with Microsoft Ex
 
 ## 🚀 Featured Projects
 
-### 📌 Project 1: [Coffee Sales Dashboard ]
+### 📌 Project 1: [☕ Coffee Sales Dashboard  ]
 
 ![Excel_Dashboard](Docs/Coffee_Dashboard.png)
 
+# ☕ Coffee Sales Dashboard 
 
-- **Objective:** Explain the problem you wanted to solve.
-- **Tools Used:** Excel functions, PivotTables, charts, or other relevant features.
-- **Process:** Describe the data cleaning and analysis steps.
-- **Key Insights:** Summarize the important findings.
-- **Workbook:** Link to the Excel project file or folder.
+### 🎯 Objective
+Developed an interactive dashboard to analyze coffee sales trends, compare roast types, and identify top-performing countries and customers.
+
+### 🛠️ Tools Used
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Slicers and Timeline
+- Data Visualization and Conditional Formatting
+
+### ⚙️ Process
+- Cleaned and organized the sales dataset.
+- Analyzed sales trends over time.
+- Created interactive charts and filters for roast type, size, and loyalty card status.
+- Compared sales by country and identified the top 5 customers.
+
+### 📊 Key Insights
+- Tracked sales trends across 2019–2022.
+- Compared sales performance across countries.
+- Identified the top 5 customers by sales.
+- Enabled interactive analysis using dashboard filters.
+
 
 ### 📌 Project 2: [Your Actual Project Name]
 
