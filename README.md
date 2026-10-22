@@ -56,6 +56,7 @@ Developed an interactive dashboard to analyze coffee sales trends, compare roast
 - Identified the top 5 customers by sales.
 - Enabled interactive analysis using dashboard filters.
 
+---
 
 ### 📌 Project 2: [Your Actual Project Name]
 
