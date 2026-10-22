@@ -33,7 +33,7 @@ This repository showcases my learning and practical experience with Microsoft Ex
 
 ### 📌 Project 1: [☕ Coffee Sales Dashboard  ]
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/harshyadav42/Excel-for-Data-Analytics/blob/d4e5ff0065e75163de4dbcbe1795dd72a6946ad1/Docs/Coffe_Dashboard.png)
 
 ### 🎯 Objective
 Developed an interactive dashboard to analyze coffee sales trends, compare roast types, and identify top-performing countries and customers.
